@@ -1,0 +1,31 @@
+---
+output: html_document
+---
+
+<style>
+.main-container {
+  width: 100%;
+  max-width: unset;
+  }
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, echo=FALSE}
+
+library(leaflet)
+
+tiles <- "https://kehilaa.github.io/stu/{z}/{x}/{y}.png" 
+leaflet(height = "calc(100vh - 50px)", 
+  options = leafletOptions(
+    minZoom = 1, maxZoom = 4, attributionControl = FALSE), width = "100%") %>%
+  addTiles(tiles, options = tileOptions(noWrap = T)) %>% 
+  setView(0, 0, 3)
+
+```
+
+
