@@ -1,0 +1,99 @@
+---
+output: html_document
+---
+
+<style>
+.main-container {
+  width: 100%;
+  max-width: unset;
+  }
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load data, include=FALSE}
+setwd("D:/STU/STU 3")
+data = read.csv2("coords.csv")
+data$System[data$System=="Wa??sa-Nebel"] = "Wałęsa-Nebel"
+data$Detail = ifelse(data$Detail=="Nebel passierbar", "passierbar", 
+              ifelse(data$Detail=="Nebel unpassierbar", "unpassierbar", 
+              ifelse(data$Detail=="Nebel aus Quelltext", "quelltext", data$Detail)))
+data$x = as.numeric(sapply(strsplit(system$Koords, "|", fixed=T), function(x) x[1])) * 1.937 + .78
+data$y = as.numeric(sapply(strsplit(system$Koords, "|", fixed=T), function(x) x[2])) * 1.937 + .78
+
+system = subset(data, Feldtyp=="System")
+
+nebel = subset(data, Feldtyp=="Nebel")
+nebel = nebel[!duplicated(nebel$Koords),]
+
+neb.pass = subset(nebel, Detail=="passierbar")
+neb.unpass = subset(nebel, Detail=="unpassierbar")
+neb.qtxt = subset(nebel, Detail=="quelltext")
+```
+
+```{r leaflet, echo=FALSE}
+
+library(leaflet)
+
+crs = leafletCRS(crsClass = "L.CRS.Simple")                                     # code = "EPSG:4326"
+rec = 0.9
+
+pal.nebel = colorFactor(c("green", "cyan", "red"), domain = c("passierbar", "quelltext", "unpassierbar"))
+
+lab.nebel = sprintf("%s<br/>%s", nebel$Koords, nebel$System) %>% lapply(htmltools::HTML)
+lab.pass = sprintf("%s<br/>%s", neb.pass$Koords, neb.pass$System) %>% lapply(htmltools::HTML)
+lab.unpass = sprintf("%s<br/>%s", neb.unpass$Koords, neb.unpass$System) %>% lapply(htmltools::HTML)
+lab.qtxt = sprintf("%s<br/>%s", neb.qtxt$Koords, neb.qtxt$System) %>% lapply(htmltools::HTML)
+lab.system = sprintf("%s<br/>%s", system$Koords, system$System) %>% lapply(htmltools::HTML)
+
+
+leaflet(height = "calc(100vh - 50px)", width = "100%", 
+        options = leafletOptions(minZoom = 1, maxZoom = 4, 
+                                 attributionControl = FALSE, crs = crs)) %>% 
+  
+  setView(120, -120, 3) %>% 
+  
+  addTiles(urlTemplate = "https://kehilaa.github.io/stu/{z}/{x}/{y}.png",
+           options = tileOptions(noWrap = T)) %>% 
+  
+  addRectangles(lng1=neb.pass$x - rec, lat1=neb.pass$y*(-1) - rec, 
+                lng2=neb.pass$x + rec, lat2=neb.pass$y*(-1) + rec, 
+                fillColor = "transparent", color=pal.nebel(neb.pass$Detail), opacity=.9, weight=.7, 
+                label=lab.pass, labelOptions = labelOptions(
+                  style = list("font-weight" = "normal"),
+                  textsize = "14px"), 
+                group = "Nebel passierbar") %>% 
+  
+  addRectangles(lng1=neb.unpass$x - rec, lat1=neb.unpass$y*(-1) - rec, 
+                lng2=neb.unpass$x + rec, lat2=neb.unpass$y*(-1) + rec, 
+                fillColor = "transparent", color=pal.nebel(neb.unpass$Detail), opacity=.9, weight=.7, 
+                label=lab.unpass, labelOptions = labelOptions(
+                  style = list("font-weight" = "normal"),
+                  textsize = "14px"), 
+                group = "Nebel unpassierbar") %>% 
+  
+  addRectangles(lng1=neb.qtxt$x - rec, lat1=neb.qtxt$y*(-1) - rec, 
+                lng2=neb.qtxt$x + rec, lat2=neb.qtxt$y*(-1) + rec, 
+                fillColor = "transparent", color=pal.nebel(neb.qtxt$Detail), opacity=.9, weight=.7, 
+                label=lab.qtxt, labelOptions = labelOptions(
+                  style = list("font-weight" = "normal"),
+                  textsize = "14px"), 
+                group = "Nebel Quelltext") %>% 
+  
+  addCircles(lng=system$x, lat=system$y*(-1), radius=0.75, 
+             fillColor = "transparent", color="white", weight=3, opacity=.8, 
+             label=lab.system, labelOptions = labelOptions(
+               style = list("font-weight" = "normal"),
+               textsize = "14px"), 
+             group = "Systeme") %>% 
+
+  addLayersControl(overlayGroups = c("Nebel passierbar", "Nebel unpassierbar", 
+                                     "Nebel Quelltext", "Systeme"), 
+                   options = layersControlOptions(collapsed=F))
+
+```
+
+
