@@ -1,0 +1,120 @@
+---
+title: ""
+output: html_document
+knit: (
+  function(inputFile, encoding) { 
+  
+    pSubTitle <- 'This Works!'
+  
+    rmarkdown::render( 
+      input       = inputFile, 
+      encoding    = encoding, 
+      params      = list(sub_title = "stuIIImap"),      
+      output_file = "stuIIImap") })
+---
+
+<style type="text/css">
+body{
+  font-size: 14px;
+}
+.main-container {
+  max-width: 100%;
+  margin-left: 12px;
+  margin-right: auto;
+  margin-top: 12px;
+}
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+library(htmltools)
+library(crosstalk)
+library(DT)
+library(dplyr)
+```
+
+```{r load data, include=FALSE}
+#setwd("D:/STU/STU 3")
+setwd("C:/DATA/STU")
+data = read.csv2("coords.csv", encoding="latin1")
+data$System[data$System=="Wa??sa-Nebel"] = "Wałęsa-Nebel"
+data$Detail = ifelse(data$Detail=="Nebel passierbar", "passierbar", 
+              ifelse(data$Detail=="Nebel unpassierbar", "unpassierbar", 
+              ifelse(data$Detail=="Nebel aus Quelltext", "quelltext", data$Detail)))
+data$x = as.numeric(sapply(strsplit(data$Koords, "|", fixed=T), function(x) x[1])) * 1.937 + .78
+data$y = as.numeric(sapply(strsplit(data$Koords, "|", fixed=T), function(x) x[2])) * 1.937 + .78
+data$detail1 = ifelse(data$Detail %in% c("passierbar", "quelltext", "unpassierbar"), data$Detail, "System")
+data$weight = ifelse(data$Feldtyp=="Nebel", 1, 3)
+data$opacity = ifelse(data$Feldtyp=="Nebel", .9, .8)
+data$System = gsub("-System", "", data$System)
+data$Detail = gsub("Binärsystem, ", "", data$Detail)
+
+system = subset(data, Feldtyp=="System")
+
+nebel = subset(data, Feldtyp=="Nebel")
+nebel = nebel[!duplicated(nebel$Koords),]
+
+ag = SharedData$new(data, key=~paste0(System, Koords), group="stu")
+neb = SharedData$new(nebel, key=~paste0(System, Koords), group="stu")
+sys = SharedData$new(system, key=~paste0(System, Koords), group="stu")
+sd_dt = SharedData$new(system %>% select(System, Koords, Detail), key=~paste0(System, Koords), group="stu")
+```
+
+```{r leaflet, echo=FALSE}
+
+crs = leafletCRS(crsClass = "L.CRS.Simple")                                     # code = "EPSG:4326"
+rec = 0.9
+
+pal = colorFactor(c("white", "cyan", "green", "red"), data$detail1, ordered=T)
+
+m = leaflet(ag, height = "calc(100vh - 50px)", width = "100%", 
+            options = leafletOptions(minZoom = 1, maxZoom = 4, 
+                                     attributionControl = FALSE, crs = crs)) %>% 
+  
+  setView(120, -120, 3) %>% 
+  
+  addTiles(urlTemplate = "https://kehilaa.github.io/stu/{z}/{x}/{y}.png",
+           options = tileOptions(noWrap = T)) %>% 
+  
+#  addRectangles(lng1=~x - rec, lat1=~y*(-1) - rec, 
+#                lng2=~x + rec, lat2=~y*(-1) + rec, 
+#                fillColor = ~pal(detail1), #fillColor = "transparent", 
+#                color = ~pal(detail1), 
+#                weight = ~weight, opacity = ~opacity,
+#                label = ~paste(Koords,"<br/>", System) %>% lapply(htmltools::HTML), #lab.nebel, 
+#                labelOptions = labelOptions(
+#                  style = list("font-weight" = "normal"),
+#                  textsize = "14px"), 
+#                group = "Show Data") %>% 
+  
+  addCircles(lng=~x, lat=~y*(-1), radius=0.75, 
+             fillColor = ~pal(detail1), 
+             color=~pal(detail1), 
+             weight=~weight, opacity=~opacity, 
+             label=~paste(Koords,"<br/>", System) %>% lapply(htmltools::HTML), #lab.system, 
+             labelOptions = labelOptions(
+               style = list("font-weight" = "normal"),
+               textsize = "14px"), 
+             group = "Show Data") %>% 
+  
+  addLayersControl(overlayGroups = c("Show Data"), 
+                   position = "topleft", 
+                   options = layersControlOptions(collapsed=T))
+
+bscols(widths=c(4, NA),
+       list(
+         filter_checkbox("smn", "Feldtyp", ag, ~detail1), #, inline=T
+         filter_select("nbl", "Regionen", neb, ~System), 
+         paste0('<hr><b>Liste der Systeme</b>') %>% lapply(htmltools::HTML),
+
+         datatable(sd_dt, extensions="Scroller", style="bootstrap", class="compact", width="100%", 
+                   options=list(deferRender=TRUE, scrollX=T, scrollY="50vH", scroller=TRUE))
+         ), 
+       m
+       )
+
+```
+
+
