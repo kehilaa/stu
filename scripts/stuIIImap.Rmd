@@ -34,10 +34,11 @@ library(dplyr)
 ```
 
 ```{r load data, include=FALSE}
-#setwd("D:/STU/STU 3")
-setwd("C:/DATA/STU")
+setwd("D:/STU/STU 3")
+#setwd("C:/DATA/STU")
 data = read.csv2("coords.csv", encoding="latin1")
 data$System[data$System=="Wa??sa-Nebel"] = "Wałęsa-Nebel"
+data$System[data$System=="Brz?czyszczykiewicz-Sturmwolke"] = "Brzęczyszczykiewicz-Sturmwolke"
 data$Detail = ifelse(data$Detail=="Nebel passierbar", "passierbar", 
               ifelse(data$Detail=="Nebel unpassierbar", "unpassierbar", 
               ifelse(data$Detail=="Nebel aus Quelltext", "quelltext", data$Detail)))

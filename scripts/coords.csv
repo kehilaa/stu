@@ -1,5 +1,5 @@
 Feldtyp;System;Koords;Detail
-System;X-System;10|15;Roter Überriese
+System;Giyale-System;10|15;Roter Überriese
 System;Klur'il Irg-System;10|2;Binärsystem, Oranger Überriese, Oranger Riese
 System;Karamuk-System;12|10;Binärsystem, Blauer Riese, Roter Riese
 System;K'okler Paggriv-System;14|4;Gelber Zwerg
@@ -25,16 +25,16 @@ System;Androzani-System;45|2;Oranger Zwerg
 System;Kinrad-System;48|7;Oranger Überriese
 System;Jekbei Irak-System;51|3;Binärsystem, Blauer Überriese, Blauer Riese
 System;J'rahl Rrirgilt-System;54|18;Binärsystem, Roter Überriese, Roter Riese
-System;X-System;59|12;Blauer Zwerg
-System;X-System;62|15;Gelber Riese
-System;X-System;63|9;Oranger Riese
-System;X-System;66|13;Binärsystem, Blauer Riese, Gelber Riese
+System;Kizrigur-System;59|12;Blauer Zwerg
+System;Dekima-System;62|15;Gelber Riese
+System;Erohl Ch'qiavas-System;63|9;Oranger Riese
+System;Puciuse-System;66|13;Binärsystem, Blauer Riese, Gelber Riese
 System;Icaria-System;66|3;Pulsar
 System;Maas-System;67|6;Binärsystem, Blauer Riese, Blauer Zwerg
 System;Cilmen-System;70|10;Blauer Riese
-System;X-System;70|2;Oranger Zwerg
-System;X-System;77|12;Binärsystem, Blauer Zwerg, Blauer Zwerg
-System;X-System;78|4;Weißer Zwerg
+System;Titurik-System;70|2;Oranger Zwerg
+System;Greirdz-System;77|12;Binärsystem, Blauer Zwerg, Blauer Zwerg
+System;Pamihk-System;78|4;Weißer Zwerg
 System;Otobba-System;83|2;Oranger Riese
 System;Diracrek-System;86|11;Oranger Zwerg
 System;Dakaria-System;87|8;Blauer Zwerg
@@ -42,21 +42,21 @@ System;Drexa-System;89|14;Blauer Zwerg
 System;Still Zursharv-System;89|4;Planetarischer Nebel Orange
 System;Rastaft-System;94|11;Binärsystem, Blauer Zwerg, Oranger Zwerg
 System;Pithana-System;97|16;Binärsystem, Oranger Zwerg, Gelber Zwerg
-System;X-System;101|2;Binärsystem, Roter Zwerg, Oranger Zwerg
-System;X-System;102|14;Oranger Überriese
-System;X-System;109|2;Blauer Riese
-System;X-System;111|13;Binärsystem, Oranger Riese, Neutronenstern
-System;X-System;115|9;Binärsystem, Roter Riese, Oranger Riese
-System;X-System;118|19;Blauer Zwerg
-System;X-System;119|4;Binärsystem, Blauer Riese, Blauer Riese
+System;Gizaria-System;101|2;Binärsystem, Roter Zwerg, Oranger Zwerg
+System;Puchrux-System;102|14;Oranger Überriese
+System;Drik-System;109|2;Blauer Riese
+System;Dolok-System;111|13;Binärsystem, Oranger Riese, Neutronenstern
+System;Univira-System;115|9;Binärsystem, Roter Riese, Oranger Riese
+System;Achass Urmada-System;118|19;Blauer Zwerg
+System;Throit Zidim-System;119|4;Binärsystem, Blauer Riese, Blauer Riese
 System;Giana Kott-System;10|31;Oranger Riese
-System;X-System;12|22;Neutronenstern Weiß
+System;Rungokur-System;12|22;Neutronenstern Weiß
 System;Ch'okorgh Zartat-System;13|26;Roter Riese
 System;Navoke-System;16|32;Blauer Riese
 System;Trurouchk-System;20|28;Binärsystem, Oranger Riese, Schwarzes Loch
 System;Zaan Barrar-System;4|34;Binärsystem, Gelber Riese, Neutronenstern
-System;X-System;6|29;Schwarzes Loch Zwerg Lila
-System;X-System;7|23;Brauner Zwerg
+System;Vezgogad-System;6|29;Schwarzes Loch Zwerg Lila
+System;Nir Misgik-System;7|23;Brauner Zwerg
 System;Neranzo-System;21|24;Roter Zwerg
 System;Kexac-System;28|28;Gelber Zwerg
 System;Mazarrot-System;31|21;Oranger Überriese
@@ -187,9 +187,34 @@ System;Malarot-System;76|117;Roter Überriese
 System;Shob Th'chohrorh-System;86|107;Binärsystem, Blauer Zwerg, Roter Zwerg
 System;Okri-System;88|113;Weißer Zwerg
 System;Argaza-System;90|118;Binärsystem, Blauer Überriese, Blauer Riese
+Nebel;Brz?czyszczykiewicz-Sturmwolke;1|67;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;2|67;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;3|67;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;1|68;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;2|68;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;3|68;Nebel aus Quelltext
+Nebel;Brz?czyszczykiewicz-Sturmwolke;2|69;Nebel aus Quelltext
+Nebel;Ätherkaskade;7|47;Nebel aus Quelltext
+Nebel;Ätherkaskade;7|48;Nebel aus Quelltext
+Nebel;Ätherkaskade;8|47;Nebel aus Quelltext
+Nebel;Ätherkaskade;8|48;Nebel aus Quelltext
+Nebel;Ätherkaskade;8|49;Nebel aus Quelltext
+Nebel;Ätherkaskade;9|47;Nebel aus Quelltext
+Nebel;Ätherkaskade;9|48;Nebel aus Quelltext
+Nebel;Ätherkaskade;9|49;Nebel aus Quelltext
+Nebel;Ätherkaskade;10|47;Nebel aus Quelltext
+Nebel;Ätherkaskade;10|48;Nebel aus Quelltext
+Nebel;Thalassanebel;1|1;Nebel aus Quelltext
 Nebel;Thalassanebel;1|10;Nebel aus Quelltext
 Nebel;Thalassanebel;1|11;Nebel aus Quelltext
+Nebel;Thalassanebel;1|2;Nebel aus Quelltext
 Nebel;BortaSs Wut;1|20;Nebel aus Quelltext
+Nebel;Thalassanebel;1|3;Nebel aus Quelltext
+Nebel;Thalassanebel;1|4;Nebel aus Quelltext
+Nebel;Thalassanebel;1|5;Nebel aus Quelltext
+Nebel;Thalassanebel;1|6;Nebel aus Quelltext
+Nebel;Thalassanebel;1|7;Nebel aus Quelltext
+Nebel;Thalassanebel;1|8;Nebel aus Quelltext
 Nebel;Thalassanebel;1|9;Nebel aus Quelltext
 Nebel;Argentumkaskade;10|7;Nebel aus Quelltext
 Nebel;Argentumkaskade;10|8;Nebel aus Quelltext
@@ -202,6 +227,8 @@ Nebel;Topasdämmerung;12|14;Nebel aus Quelltext
 Nebel;Topasdämmerung;12|15;Nebel aus Quelltext
 Nebel;Topasdämmerung;12|16;Nebel aus Quelltext
 Nebel;Zonk-Schimmer;12|6;Nebel aus Quelltext
+Nebel;Topasdämmerung;13|13;Nebel aus Quelltext
+Nebel;Topasdämmerung;13|14;Nebel aus Quelltext
 Nebel;Topasdämmerung;13|15;Nebel aus Quelltext
 Nebel;Topasdämmerung;13|16;Nebel aus Quelltext
 Nebel;Topasdämmerung;13|17;Nebel aus Quelltext
@@ -209,6 +236,8 @@ Nebel;Zonk-Schimmer;13|5;Nebel aus Quelltext
 Nebel;Zonk-Schimmer;13|6;Nebel aus Quelltext
 Nebel;Zonk-Schimmer;13|7;Nebel aus Quelltext
 Nebel;Zonk-Schimmer;13|8;Nebel passierbar
+Nebel;Topasdämmerung;14|13;Nebel aus Quelltext
+Nebel;Topasdämmerung;14|14;Nebel aus Quelltext
 Nebel;Topasdämmerung;14|15;Nebel aus Quelltext
 Nebel;Topasdämmerung;14|16;Nebel aus Quelltext
 Nebel;Topasdämmerung;14|17;Nebel aus Quelltext
@@ -258,8 +287,16 @@ Nebel;Plejadendunst;19|6;Nebel passierbar
 Nebel;Plejadendunst;19|7;Nebel aus Quelltext
 Nebel;Plejadendunst;19|8;Nebel aus Quelltext
 Nebel;Plejadendunst;19|9;Nebel aus Quelltext
+Nebel;Thalassanebel;2|1;Nebel aus Quelltext
 Nebel;Thalassanebel;2|10;Nebel aus Quelltext
 Nebel;Thalassanebel;2|11;Nebel aus Quelltext
+Nebel;Thalassanebel;2|2;Nebel aus Quelltext
+Nebel;Thalassanebel;2|3;Nebel aus Quelltext
+Nebel;Thalassanebel;2|4;Nebel aus Quelltext
+Nebel;Thalassanebel;2|5;Nebel aus Quelltext
+Nebel;Thalassanebel;2|6;Nebel aus Quelltext
+Nebel;Thalassanebel;2|7;Nebel aus Quelltext
+Nebel;Thalassanebel;2|8;Nebel aus Quelltext
 Nebel;Thalassanebel;2|9;Nebel aus Quelltext
 Nebel;Plejadendunst;20|10;Nebel aus Quelltext
 Nebel;Cebula-Wolke;20|2;Nebel aus Quelltext
@@ -267,28 +304,50 @@ Nebel;Cebula-Wolke;20|3;Nebel aus Quelltext
 Nebel;Plejadendunst;20|4;Nebel passierbar
 Nebel;Plejadendunst;20|5;Nebel passierbar
 Nebel;Plejadendunst;20|6;Nebel aus Quelltext
+Nebel;Plejadendunst;20|7;Nebel aus Quelltext
 Nebel;Plejadendunst;20|8;Nebel aus Quelltext
 Nebel;Plejadendunst;20|9;Nebel aus Quelltext
+Nebel;Thalassanebel;3|1;Nebel aus Quelltext
 Nebel;Thalassanebel;3|10;Nebel passierbar
 Nebel;Thalassanebel;3|11;Nebel aus Quelltext
 Nebel;Monocerosnebel;3|15;Nebel aus Quelltext
 Nebel;Monocerosnebel;3|16;Nebel passierbar
 Nebel;Monocerosnebel;3|17;Nebel aus Quelltext
+Nebel;Thalassanebel;3|2;Nebel aus Quelltext
+Nebel;Thalassanebel;3|3;Nebel aus Quelltext
+Nebel;Thalassanebel;3|4;Nebel aus Quelltext
+Nebel;Thalassanebel;3|5;Nebel aus Quelltext
+Nebel;Thalassanebel;3|6;Nebel aus Quelltext
+Nebel;Thalassanebel;3|7;Nebel aus Quelltext
+Nebel;Thalassanebel;3|8;Nebel aus Quelltext
 Nebel;Thalassanebel;3|9;Nebel aus Quelltext
+Nebel;Thalassanebel;4|1;Nebel aus Quelltext
 Nebel;Thalassanebel;4|10;Nebel aus Quelltext
 Nebel;Thalassanebel;4|11;Nebel aus Quelltext
 Nebel;Monocerosnebel;4|14;Nebel aus Quelltext
 Nebel;Monocerosnebel;4|15;Nebel aus Quelltext
 Nebel;Monocerosnebel;4|16;Nebel aus Quelltext
 Nebel;Monocerosnebel;4|17;Nebel aus Quelltext
+Nebel;Thalassanebel;4|2;Nebel aus Quelltext
+Nebel;Thalassanebel;4|3;Nebel aus Quelltext
+Nebel;Thalassanebel;4|4;Nebel aus Quelltext
+Nebel;Thalassanebel;4|5;Nebel aus Quelltext
+Nebel;Thalassanebel;4|6;Nebel aus Quelltext
+Nebel;Thalassanebel;4|7;Nebel aus Quelltext
 Nebel;Thalassanebel;4|8;Nebel aus Quelltext
 Nebel;Thalassanebel;4|9;Nebel passierbar
+Nebel;Thalassanebel;5|1;Nebel aus Quelltext
 Nebel;Thalassanebel;5|10;Nebel aus Quelltext
 Nebel;Thalassanebel;5|11;Nebel aus Quelltext
 Nebel;Monocerosnebel;5|13;Nebel passierbar
 Nebel;Monocerosnebel;5|14;Nebel passierbar
+Nebel;Monocerosnebel;5|15;Nebel aus Quelltext
 Nebel;Monocerosnebel;5|16;Nebel aus Quelltext
 Nebel;Monocerosnebel;5|17;Nebel passierbar
+Nebel;Thalassanebel;5|2;Nebel aus Quelltext
+Nebel;Thalassanebel;5|3;Nebel aus Quelltext
+Nebel;Thalassanebel;5|4;Nebel aus Quelltext
+Nebel;Thalassanebel;5|5;Nebel aus Quelltext
 Nebel;Thalassanebel;5|6;Nebel aus Quelltext
 Nebel;Thalassanebel;5|7;Nebel aus Quelltext
 Nebel;Thalassanebel;5|8;Nebel aus Quelltext
@@ -298,6 +357,8 @@ Nebel;Thalassanebel;6|10;Nebel passierbar
 Nebel;Thalassanebel;6|11;Nebel aus Quelltext
 Nebel;Monocerosnebel;6|13;Nebel aus Quelltext
 Nebel;Monocerosnebel;6|14;Nebel passierbar
+Nebel;Monocerosnebel;6|15;Nebel aus Quelltext
+Nebel;Monocerosnebel;6|16;Nebel aus Quelltext
 Nebel;Thalassanebel;6|2;Nebel aus Quelltext
 Nebel;Thalassanebel;6|3;Nebel aus Quelltext
 Nebel;Thalassanebel;6|4;Nebel aus Quelltext
@@ -308,6 +369,8 @@ Nebel;Thalassanebel;6|8;Nebel aus Quelltext
 Nebel;Thalassanebel;6|9;Nebel aus Quelltext
 Nebel;Thalassanebel;7|1;Nebel passierbar
 Nebel;Monocerosnebel;7|13;Nebel aus Quelltext
+Nebel;Monocerosnebel;7|14;Nebel aus Quelltext
+Nebel;Monocerosnebel;7|15;Nebel aus Quelltext
 Nebel;Thalassanebel;7|2;Nebel passierbar
 Nebel;Thalassanebel;7|3;Nebel aus Quelltext
 Nebel;Thalassanebel;7|4;Nebel aus Quelltext
@@ -329,28 +392,47 @@ Nebel;Argentumkaskade;9|8;Nebel aus Quelltext
 Nebel;Argentumkaskade;9|9;Nebel aus Quelltext
 Nebel;Plejadendunst;21|10;Nebel aus Quelltext
 Nebel;Plejadendunst;21|11;Nebel aus Quelltext
+Nebel;Plejadendunst;21|4;Nebel aus Quelltext
+Nebel;Plejadendunst;21|5;Nebel aus Quelltext
+Nebel;Plejadendunst;21|6;Nebel aus Quelltext
+Nebel;Plejadendunst;21|7;Nebel aus Quelltext
 Nebel;Plejadendunst;21|8;Nebel passierbar
 Nebel;Plejadendunst;21|9;Nebel unpassierbar
 Nebel;Plejadendunst;22|10;Nebel unpassierbar
 Nebel;Plejadendunst;22|11;Nebel aus Quelltext
+Nebel;Plejadendunst;22|4;Nebel aus Quelltext
+Nebel;Plejadendunst;22|5;Nebel aus Quelltext
+Nebel;Plejadendunst;22|6;Nebel aus Quelltext
+Nebel;Plejadendunst;22|7;Nebel aus Quelltext
 Nebel;Plejadendunst;22|8;Nebel unpassierbar
 Nebel;Plejadendunst;22|9;Nebel aus Quelltext
 Nebel;Plejadendunst;23|10;Nebel aus Quelltext
 Nebel;Plejadendunst;23|11;Nebel aus Quelltext
 Nebel;Plejadendunst;23|3;Nebel passierbar
+Nebel;Plejadendunst;23|4;Nebel aus Quelltext
 Nebel;Plejadendunst;23|5;Nebel passierbar
 Nebel;Plejadendunst;23|6;Nebel passierbar
+Nebel;Plejadendunst;23|7;Nebel aus Quelltext
 Nebel;Plejadendunst;23|8;Nebel unpassierbar
 Nebel;Plejadendunst;23|9;Nebel passierbar
+Nebel;Plejadendunst;24|1;Nebel aus Quelltext
 Nebel;Plejadendunst;24|10;Nebel aus Quelltext
 Nebel;Plejadendunst;24|11;Nebel aus Quelltext
 Nebel;Plejadendunst;24|2;Nebel passierbar
 Nebel;Plejadendunst;24|3;Nebel passierbar
+Nebel;Plejadendunst;24|4;Nebel aus Quelltext
+Nebel;Plejadendunst;24|5;Nebel aus Quelltext
+Nebel;Plejadendunst;24|6;Nebel aus Quelltext
+Nebel;Plejadendunst;24|8;Nebel aus Quelltext
 Nebel;Plejadendunst;24|9;Nebel passierbar
+Nebel;Plejadendunst;25|1;Nebel aus Quelltext
 Nebel;Plejadendunst;25|10;Nebel aus Quelltext
 Nebel;Plejadendunst;25|11;Nebel aus Quelltext
 Nebel;Orionkaskade;25|18;Nebel aus Quelltext
 Nebel;Orionkaskade;25|19;Nebel aus Quelltext
+Nebel;Plejadendunst;25|2;Nebel aus Quelltext
+Nebel;Orionkaskade;25|20;Nebel aus Quelltext
+Nebel;Plejadendunst;25|3;Nebel aus Quelltext
 Nebel;Plejadendunst;25|4;Nebel passierbar
 Nebel;Plejadendunst;25|5;Nebel passierbar
 Nebel;Plejadendunst;25|6;Nebel passierbar
@@ -360,6 +442,7 @@ Nebel;Plejadendunst;26|10;Nebel aus Quelltext
 Nebel;Orionkaskade;26|18;Nebel aus Quelltext
 Nebel;Orionkaskade;26|19;Nebel aus Quelltext
 Nebel;Plejadendunst;26|2;Nebel passierbar
+Nebel;Orionkaskade;26|20;Nebel aus Quelltext
 Nebel;Plejadendunst;26|3;Nebel aus Quelltext
 Nebel;Plejadendunst;26|4;Nebel passierbar
 Nebel;Plejadendunst;26|5;Nebel aus Quelltext
@@ -367,6 +450,7 @@ Nebel;Plejadendunst;26|9;Nebel aus Quelltext
 Nebel;Orionkaskade;27|18;Nebel aus Quelltext
 Nebel;Orionkaskade;27|19;Nebel aus Quelltext
 Nebel;Plejadendunst;27|2;Nebel aus Quelltext
+Nebel;Orionkaskade;27|20;Nebel aus Quelltext
 Nebel;Plejadendunst;27|3;Nebel aus Quelltext
 Nebel;Plejadendunst;27|4;Nebel aus Quelltext
 Nebel;Perseusnebel;32|4;Nebel aus Quelltext
@@ -389,7 +473,7 @@ Nebel;Perseusnebel;36|5;Nebel aus Quelltext
 Nebel;Perseusnebel;36|6;Nebel aus Quelltext
 Nebel;Hyadenschimmer;36|8;Nebel aus Quelltext
 Nebel;Hyadenschimmer;36|9;Nebel aus Quelltext
-Nebel;Hyadenschimmer;37|10;Nebel aus Quelltext
+Nebel;Hyadenschimmer;37|10;Nebel unpassierbar
 Nebel;Hyadenschimmer;37|11;Nebel aus Quelltext
 Nebel;Perseusnebel;37|5;Nebel aus Quelltext
 Nebel;Perseusnebel;37|6;Nebel aus Quelltext
@@ -435,6 +519,8 @@ Nebel;Aquilastrudel;43|14;Nebel unpassierbar
 Nebel;Aquilastrudel;43|15;Nebel unpassierbar
 Nebel;Aquilastrudel;43|16;Nebel unpassierbar
 Nebel;Aquilastrudel;43|17;Nebel unpassierbar
+Nebel;Aquilastrudel;43|18;Nebel aus Quelltext
+Nebel;Aquilastrudel;43|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;43|20;Nebel unpassierbar
 Nebel;Haros-Schleier;43|4;Nebel aus Quelltext
 Nebel;Haros-Schleier;43|5;Nebel aus Quelltext
@@ -444,6 +530,8 @@ Nebel;Aquilastrudel;44|13;Nebel unpassierbar
 Nebel;Aquilastrudel;44|14;Nebel unpassierbar
 Nebel;Aquilastrudel;44|15;Nebel aus Quelltext
 Nebel;Aquilastrudel;44|16;Nebel unpassierbar
+Nebel;Aquilastrudel;44|17;Nebel aus Quelltext
+Nebel;Aquilastrudel;44|18;Nebel aus Quelltext
 Nebel;Aquilastrudel;44|19;Nebel unpassierbar
 Nebel;Aquilastrudel;44|20;Nebel unpassierbar
 Nebel;Haros-Schleier;44|5;Nebel aus Quelltext
@@ -455,6 +543,7 @@ Nebel;Aquilastrudel;45|13;Nebel unpassierbar
 Nebel;Aquilastrudel;45|14;Nebel passierbar
 Nebel;Aquilastrudel;45|15;Nebel aus Quelltext
 Nebel;Aquilastrudel;45|16;Nebel unpassierbar
+Nebel;Aquilastrudel;45|17;Nebel aus Quelltext
 Nebel;Aquilastrudel;45|18;Nebel passierbar
 Nebel;Aquilastrudel;45|19;Nebel unpassierbar
 Nebel;Aquilastrudel;45|20;Nebel aus Quelltext
@@ -463,128 +552,220 @@ Nebel;Haros-Schleier;45|6;Nebel aus Quelltext
 Nebel;Aquilastrudel;46|10;Nebel unpassierbar
 Nebel;Aquilastrudel;46|11;Nebel unpassierbar
 Nebel;Aquilastrudel;46|12;Nebel passierbar
+Nebel;Aquilastrudel;46|13;Nebel aus Quelltext
 Nebel;Aquilastrudel;46|14;Nebel passierbar
+Nebel;Aquilastrudel;46|15;Nebel aus Quelltext
 Nebel;Aquilastrudel;46|16;Nebel passierbar
 Nebel;Aquilastrudel;46|17;Nebel passierbar
 Nebel;Aquilastrudel;46|18;Nebel unpassierbar
+Nebel;Aquilastrudel;46|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;46|20;Nebel aus Quelltext
+Nebel;Aquilastrudel;46|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;47|10;Nebel unpassierbar
+Nebel;Aquilastrudel;47|11;Nebel aus Quelltext
+Nebel;Aquilastrudel;47|12;Nebel aus Quelltext
+Nebel;Aquilastrudel;47|13;Nebel aus Quelltext
 Nebel;Aquilastrudel;47|14;Nebel passierbar
+Nebel;Aquilastrudel;47|15;Nebel aus Quelltext
 Nebel;Aquilastrudel;47|16;Nebel unpassierbar
 Nebel;Aquilastrudel;47|17;Nebel unpassierbar
+Nebel;Aquilastrudel;47|18;Nebel aus Quelltext
+Nebel;Aquilastrudel;47|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;47|20;Nebel aus Quelltext
+Nebel;Aquilastrudel;47|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;48|10;Nebel unpassierbar
+Nebel;Aquilastrudel;48|11;Nebel aus Quelltext
 Nebel;Aquilastrudel;48|12;Nebel unpassierbar
 Nebel;Aquilastrudel;48|13;Nebel passierbar
 Nebel;Aquilastrudel;48|14;Nebel unpassierbar
 Nebel;Aquilastrudel;48|15;Nebel unpassierbar
 Nebel;Aquilastrudel;48|16;Nebel passierbar
 Nebel;Aquilastrudel;48|17;Nebel passierbar
+Nebel;Aquilastrudel;48|18;Nebel aus Quelltext
+Nebel;Aquilastrudel;48|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;48|8;Nebel passierbar
+Nebel;Aquilastrudel;48|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;49|10;Nebel passierbar
+Nebel;Aquilastrudel;49|11;Nebel aus Quelltext
 Nebel;Aquilastrudel;49|12;Nebel passierbar
 Nebel;Aquilastrudel;49|13;Nebel unpassierbar
+Nebel;Aquilastrudel;49|14;Nebel aus Quelltext
+Nebel;Aquilastrudel;49|15;Nebel aus Quelltext
+Nebel;Aquilastrudel;49|16;Nebel aus Quelltext
+Nebel;Aquilastrudel;49|17;Nebel aus Quelltext
+Nebel;Aquilastrudel;49|7;Nebel aus Quelltext
 Nebel;Aquilastrudel;49|8;Nebel passierbar
 Nebel;Aquilastrudel;49|9;Nebel unpassierbar
+Nebel;Aquilastrudel;50|10;Nebel aus Quelltext
 Nebel;Aquilastrudel;50|11;Nebel passierbar
+Nebel;Aquilastrudel;50|12;Nebel aus Quelltext
 Nebel;Aquilastrudel;50|13;Nebel unpassierbar
 Nebel;Aquilastrudel;50|14;Nebel passierbar
 Nebel;Aquilastrudel;50|15;Nebel passierbar
 Nebel;Aquilastrudel;50|16;Nebel passierbar
+Nebel;Aquilastrudel;50|6;Nebel aus Quelltext
 Nebel;Aquilastrudel;50|7;Nebel passierbar
 Nebel;Aquilastrudel;50|8;Nebel unpassierbar
+Nebel;Aquilastrudel;50|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;51|10;Nebel passierbar
+Nebel;Aquilastrudel;51|11;Nebel aus Quelltext
+Nebel;Aquilastrudel;51|12;Nebel aus Quelltext
 Nebel;Aquilastrudel;51|13;Nebel unpassierbar
 Nebel;Aquilastrudel;51|14;Nebel passierbar
+Nebel;Aquilastrudel;51|15;Nebel aus Quelltext
 Nebel;Aquilastrudel;51|5;Nebel passierbar
 Nebel;Aquilastrudel;51|6;Nebel passierbar
+Nebel;Aquilastrudel;51|7;Nebel aus Quelltext
+Nebel;Aquilastrudel;51|8;Nebel aus Quelltext
 Nebel;Aquilastrudel;51|9;Nebel passierbar
+Nebel;Aquilastrudel;52|10;Nebel aus Quelltext
 Nebel;Aquilastrudel;52|11;Nebel unpassierbar
 Nebel;Aquilastrudel;52|12;Nebel unpassierbar
 Nebel;Aquilastrudel;52|13;Nebel unpassierbar
 Nebel;Aquilastrudel;52|14;Nebel passierbar
 Nebel;Aquilastrudel;52|15;Nebel passierbar
 Nebel;Aquilastrudel;52|4;Nebel passierbar
+Nebel;Aquilastrudel;52|5;Nebel aus Quelltext
+Nebel;Aquilastrudel;52|6;Nebel aus Quelltext
 Nebel;Aquilastrudel;52|7;Nebel passierbar
 Nebel;Aquilastrudel;52|8;Nebel unpassierbar
 Nebel;Aquilastrudel;52|9;Nebel passierbar
+Nebel;Aquilastrudel;53|10;Nebel aus Quelltext
 Nebel;Aquilastrudel;53|11;Nebel unpassierbar
 Nebel;Aquilastrudel;53|12;Nebel passierbar
+Nebel;Aquilastrudel;53|13;Nebel aus Quelltext
+Nebel;Aquilastrudel;53|14;Nebel aus Quelltext
 Nebel;Aquilastrudel;53|15;Nebel passierbar
+Nebel;Aquilastrudel;53|4;Nebel aus Quelltext
 Nebel;Aquilastrudel;53|5;Nebel passierbar
 Nebel;Aquilastrudel;53|6;Nebel unpassierbar
 Nebel;Aquilastrudel;53|7;Nebel unpassierbar
 Nebel;Aquilastrudel;53|8;Nebel passierbar
+Nebel;Aquilastrudel;53|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;54|10;Nebel passierbar
 Nebel;Aquilastrudel;54|11;Nebel unpassierbar
 Nebel;Aquilastrudel;54|12;Nebel passierbar
 Nebel;Aquilastrudel;54|13;Nebel unpassierbar
 Nebel;Aquilastrudel;54|14;Nebel passierbar
+Nebel;Aquilastrudel;54|15;Nebel aus Quelltext
+Nebel;Aquilastrudel;54|3;Nebel aus Quelltext
 Nebel;Aquilastrudel;54|4;Nebel passierbar
 Nebel;Aquilastrudel;54|5;Nebel passierbar
 Nebel;Aquilastrudel;54|6;Nebel unpassierbar
+Nebel;Aquilastrudel;54|7;Nebel aus Quelltext
+Nebel;Aquilastrudel;54|8;Nebel aus Quelltext
+Nebel;Aquilastrudel;54|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;55|10;Nebel passierbar
 Nebel;Aquilastrudel;55|11;Nebel passierbar
 Nebel;Aquilastrudel;55|12;Nebel unpassierbar
+Nebel;Aquilastrudel;55|13;Nebel aus Quelltext
+Nebel;Aquilastrudel;55|14;Nebel aus Quelltext
 Nebel;Aquilastrudel;55|15;Nebel passierbar
 Nebel;Aquilastrudel;55|2;Nebel passierbar
+Nebel;Crabs-Wirbel;55|20;Nebel aus Quelltext
 Nebel;Aquilastrudel;55|3;Nebel unpassierbar
 Nebel;Aquilastrudel;55|4;Nebel unpassierbar
 Nebel;Aquilastrudel;55|5;Nebel unpassierbar
+Nebel;Aquilastrudel;55|6;Nebel aus Quelltext
+Nebel;Aquilastrudel;55|7;Nebel aus Quelltext
+Nebel;Aquilastrudel;55|8;Nebel aus Quelltext
 Nebel;Aquilastrudel;55|9;Nebel passierbar
 Nebel;Aquilastrudel;56|1;Nebel passierbar
+Nebel;Aquilastrudel;56|10;Nebel aus Quelltext
 Nebel;Aquilastrudel;56|11;Nebel passierbar
 Nebel;Aquilastrudel;56|12;Nebel passierbar
 Nebel;Aquilastrudel;56|13;Nebel passierbar
+Nebel;Aquilastrudel;56|14;Nebel aus Quelltext
 Nebel;Aquilastrudel;56|15;Nebel passierbar
+Nebel;Aquilastrudel;56|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;56|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;56|2;Nebel passierbar
+Nebel;Crabs-Wirbel;56|20;Nebel aus Quelltext
+Nebel;Aquilastrudel;56|3;Nebel aus Quelltext
 Nebel;Aquilastrudel;56|4;Nebel unpassierbar
 Nebel;Aquilastrudel;56|5;Nebel passierbar
+Nebel;Aquilastrudel;56|6;Nebel aus Quelltext
+Nebel;Aquilastrudel;56|7;Nebel aus Quelltext
 Nebel;Aquilastrudel;56|8;Nebel unpassierbar
 Nebel;Aquilastrudel;56|9;Nebel unpassierbar
 Nebel;Aquilastrudel;57|1;Nebel unpassierbar
 Nebel;Aquilastrudel;57|10;Nebel unpassierbar
 Nebel;Aquilastrudel;57|11;Nebel passierbar
+Nebel;Aquilastrudel;57|12;Nebel aus Quelltext
 Nebel;Aquilastrudel;57|13;Nebel passierbar
+Nebel;Aquilastrudel;57|14;Nebel aus Quelltext
+Nebel;Aquilastrudel;57|15;Nebel aus Quelltext
+Nebel;Aquilastrudel;57|16;Nebel aus Quelltext
+Nebel;Aquilastrudel;57|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;57|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;57|19;Nebel passierbar
 Nebel;Aquilastrudel;57|2;Nebel passierbar
 Nebel;Crabs-Wirbel;57|20;Nebel passierbar
+Nebel;Aquilastrudel;57|3;Nebel aus Quelltext
 Nebel;Aquilastrudel;57|4;Nebel unpassierbar
+Nebel;Aquilastrudel;57|5;Nebel aus Quelltext
 Nebel;Aquilastrudel;57|6;Nebel passierbar
+Nebel;Aquilastrudel;57|7;Nebel aus Quelltext
 Nebel;Aquilastrudel;57|8;Nebel unpassierbar
+Nebel;Aquilastrudel;57|9;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|1;Nebel passierbar
 Nebel;Aquilastrudel;58|10;Nebel unpassierbar
 Nebel;Aquilastrudel;58|11;Nebel passierbar
+Nebel;Aquilastrudel;58|12;Nebel aus Quelltext
+Nebel;Aquilastrudel;58|13;Nebel aus Quelltext
+Nebel;Aquilastrudel;58|14;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|15;Nebel passierbar
+Nebel;Aquilastrudel;58|16;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|17;Nebel passierbar
+Nebel;Crabs-Wirbel;58|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;58|19;Nebel passierbar
+Nebel;Aquilastrudel;58|2;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;58|20;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|3;Nebel unpassierbar
 Nebel;Aquilastrudel;58|4;Nebel unpassierbar
+Nebel;Aquilastrudel;58|5;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|6;Nebel unpassierbar
 Nebel;Aquilastrudel;58|7;Nebel unpassierbar
+Nebel;Aquilastrudel;58|8;Nebel aus Quelltext
 Nebel;Aquilastrudel;58|9;Nebel passierbar
 Nebel;Aquilastrudel;59|1;Nebel unpassierbar
 Nebel;Aquilastrudel;59|10;Nebel passierbar
 Nebel;Aquilastrudel;59|11;Nebel passierbar
+Nebel;Aquilastrudel;59|13;Nebel aus Quelltext
 Nebel;Aquilastrudel;59|14;Nebel passierbar
 Nebel;Aquilastrudel;59|15;Nebel unpassierbar
 Nebel;Aquilastrudel;59|16;Nebel unpassierbar
 Nebel;Aquilastrudel;59|17;Nebel unpassierbar
 Nebel;Aquilastrudel;59|18;Nebel unpassierbar
+Nebel;Crabs-Wirbel;59|19;Nebel aus Quelltext
 Nebel;Aquilastrudel;59|2;Nebel unpassierbar
+Nebel;Crabs-Wirbel;59|20;Nebel aus Quelltext
+Nebel;Aquilastrudel;59|3;Nebel aus Quelltext
+Nebel;Aquilastrudel;59|4;Nebel aus Quelltext
+Nebel;Aquilastrudel;59|5;Nebel aus Quelltext
 Nebel;Aquilastrudel;59|6;Nebel unpassierbar
+Nebel;Aquilastrudel;59|7;Nebel aus Quelltext
+Nebel;Aquilastrudel;59|8;Nebel aus Quelltext
 Nebel;Aquilastrudel;59|9;Nebel passierbar
 Nebel;Aquilastrudel;60|1;Nebel unpassierbar
 Nebel;Aquilastrudel;60|10;Nebel passierbar
+Nebel;Aquilastrudel;60|11;Nebel aus Quelltext
+Nebel;Aquilastrudel;60|12;Nebel aus Quelltext
+Nebel;Aquilastrudel;60|13;Nebel aus Quelltext
 Nebel;Aquilastrudel;60|14;Nebel passierbar
 Nebel;Aquilastrudel;60|15;Nebel passierbar
 Nebel;Aquilastrudel;60|16;Nebel passierbar
+Nebel;Aquilastrudel;60|17;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;60|18;Nebel unpassierbar
 Nebel;Crabs-Wirbel;60|19;Nebel unpassierbar
 Nebel;Aquilastrudel;60|2;Nebel unpassierbar
 Nebel;Crabs-Wirbel;60|20;Nebel unpassierbar
+Nebel;Aquilastrudel;60|3;Nebel aus Quelltext
 Nebel;Aquilastrudel;60|4;Nebel unpassierbar
 Nebel;Aquilastrudel;60|5;Nebel unpassierbar
+Nebel;Aquilastrudel;60|6;Nebel aus Quelltext
+Nebel;Aquilastrudel;60|7;Nebel aus Quelltext
+Nebel;Aquilastrudel;60|8;Nebel aus Quelltext
 Nebel;Aquilastrudel;61|1;Nebel unpassierbar
 Nebel;Aquilastrudel;61|12;Nebel passierbar
 Nebel;Aquilastrudel;61|13;Nebel aus Quelltext
@@ -776,8 +957,8 @@ Nebel;Crabs-Wirbel;77|19;Nebel passierbar
 Nebel;Polarisdämmerung;77|2;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;77|20;Nebel aus Quelltext
 Nebel;Polarisdämmerung;77|3;Nebel aus Quelltext
-Nebel;Piscisdunst;77|8;Nebel aus Quelltext
-Nebel;Piscisdunst;77|9;Nebel aus Quelltext
+Nebel;Piscisdunst;77|8;Nebel passierbar
+Nebel;Piscisdunst;77|9;Nebel passierbar
 Nebel;Crabs-Wirbel;78|12;Nebel passierbar
 Nebel;Crabs-Wirbel;78|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;78|14;Nebel passierbar
@@ -788,8 +969,8 @@ Nebel;Crabs-Wirbel;78|18;Nebel unpassierbar
 Nebel;Crabs-Wirbel;78|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;78|20;Nebel unpassierbar
 Nebel;Polarisdämmerung;78|3;Nebel aus Quelltext
-Nebel;Piscisdunst;78|8;Nebel aus Quelltext
-Nebel;Piscisdunst;78|9;Nebel aus Quelltext
+Nebel;Piscisdunst;78|8;Nebel unpassierbar
+Nebel;Piscisdunst;78|9;Nebel passierbar
 Nebel;Crabs-Wirbel;79|12;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|14;Nebel aus Quelltext
@@ -799,8 +980,8 @@ Nebel;Crabs-Wirbel;79|17;Nebel passierbar
 Nebel;Crabs-Wirbel;79|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|19;Nebel unpassierbar
 Nebel;Crabs-Wirbel;79|20;Nebel aus Quelltext
-Nebel;Piscisdunst;79|8;Nebel aus Quelltext
-Nebel;Piscisdunst;79|9;Nebel aus Quelltext
+Nebel;Piscisdunst;79|8;Nebel passierbar
+Nebel;Piscisdunst;79|9;Nebel passierbar
 Nebel;Crabs-Wirbel;80|12;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|14;Nebel passierbar
@@ -811,137 +992,396 @@ Nebel;Crabs-Wirbel;80|18;Nebel unpassierbar
 Nebel;Crabs-Wirbel;80|19;Nebel passierbar
 Nebel;Crabs-Wirbel;80|20;Nebel aus Quelltext
 Nebel;Piscisdunst;80|9;Nebel aus Quelltext
+Nebel;Gorkons Zorn;100|10;Nebel aus Quelltext
+Nebel;Capelladämmerung;100|12;Nebel aus Quelltext
+Nebel;Capelladämmerung;100|13;Nebel aus Quelltext
+Nebel;Taurusglanz;100|17;Nebel aus Quelltext
+Nebel;Taurusglanz;100|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;100|19;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;100|20;Nebel aus Quelltext
+Nebel;Gorkons Zorn;100|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;100|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;100|5;Nebel unpassierbar
+Nebel;Gorkons Zorn;100|6;Nebel aus Quelltext
+Nebel;Gorkons Zorn;100|7;Nebel aus Quelltext
 Nebel;Gorkons Zorn;100|8;Nebel unpassierbar
 Nebel;Gorkons Zorn;100|9;Nebel passierbar
+Nebel;Crabs-Wirbel;81|12;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;81|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|14;Nebel passierbar
 Nebel;Crabs-Wirbel;81|15;Nebel unpassierbar
+Nebel;Crabs-Wirbel;81|16;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|17;Nebel passierbar
 Nebel;Crabs-Wirbel;81|18;Nebel unpassierbar
+Nebel;Crabs-Wirbel;81|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|20;Nebel passierbar
 Nebel;Crabs-Wirbel;82|12;Nebel passierbar
 Nebel;Crabs-Wirbel;82|13;Nebel passierbar
+Nebel;Crabs-Wirbel;82|14;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|15;Nebel passierbar
 Nebel;Crabs-Wirbel;82|16;Nebel unpassierbar
 Nebel;Crabs-Wirbel;82|17;Nebel unpassierbar
+Nebel;Crabs-Wirbel;82|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|19;Nebel unpassierbar
+Nebel;Crabs-Wirbel;82|20;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|12;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;83|14;Nebel passierbar
+Nebel;Crabs-Wirbel;83|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|19;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|20;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;84|12;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|13;Nebel passierbar
+Nebel;Crabs-Wirbel;84|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;84|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;84|16;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|17;Nebel passierbar
+Nebel;Crabs-Wirbel;84|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|19;Nebel unpassierbar
 Nebel;Crabs-Wirbel;84|20;Nebel unpassierbar
+Nebel;Crabs-Wirbel;85|12;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;85|13;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;85|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;85|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;85|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;85|17;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;85|18;Nebel unpassierbar
+Nebel;Crabs-Wirbel;85|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;85|20;Nebel passierbar
+Nebel;Crabs-Wirbel;86|12;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;86|14;Nebel passierbar
+Nebel;Crabs-Wirbel;86|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|16;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;86|17;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|18;Nebel passierbar
+Nebel;Crabs-Wirbel;86|19;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|20;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|12;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|13;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|14;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|15;Nebel passierbar
+Nebel;Crabs-Wirbel;87|16;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|17;Nebel passierbar
+Nebel;Crabs-Wirbel;87|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|19;Nebel unpassierbar
+Nebel;Crabs-Wirbel;87|20;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|12;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|13;Nebel passierbar
 Nebel;Crabs-Wirbel;88|14;Nebel passierbar
 Nebel;Crabs-Wirbel;88|15;Nebel passierbar
+Nebel;Crabs-Wirbel;88|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|19;Nebel passierbar
 Nebel;Crabs-Wirbel;88|20;Nebel unpassierbar
+Nebel;Centaurinebel;89|10;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|13;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|15;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|16;Nebel passierbar
+Nebel;Crabs-Wirbel;89|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|19;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|20;Nebel passierbar
+Nebel;Centaurinebel;89|8;Nebel aus Quelltext
+Nebel;Centaurinebel;89|9;Nebel aus Quelltext
+Nebel;Centaurinebel;90|10;Nebel aus Quelltext
+Nebel;Centaurinebel;90|11;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|13;Nebel passierbar
+Nebel;Crabs-Wirbel;90|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;90|15;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|16;Nebel passierbar
+Nebel;Crabs-Wirbel;90|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;90|18;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|19;Nebel passierbar
 Nebel;Crabs-Wirbel;90|20;Nebel passierbar
+Nebel;Centaurinebel;90|6;Nebel aus Quelltext
+Nebel;Centaurinebel;90|7;Nebel aus Quelltext
+Nebel;Centaurinebel;90|8;Nebel aus Quelltext
+Nebel;Centaurinebel;90|9;Nebel aus Quelltext
+Nebel;Centaurinebel;91|10;Nebel aus Quelltext
+Nebel;Centaurinebel;91|11;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|13;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;91|20;Nebel unpassierbar
+Nebel;Centaurinebel;91|4;Nebel aus Quelltext
+Nebel;Centaurinebel;91|5;Nebel aus Quelltext
+Nebel;Centaurinebel;91|6;Nebel aus Quelltext
+Nebel;Centaurinebel;91|7;Nebel aus Quelltext
+Nebel;Centaurinebel;91|8;Nebel aus Quelltext
+Nebel;Centaurinebel;91|9;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|13;Nebel passierbar
+Nebel;Crabs-Wirbel;92|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|15;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|17;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|18;Nebel passierbar
 Nebel;Crabs-Wirbel;92|19;Nebel passierbar
 Nebel;Crabs-Wirbel;92|20;Nebel unpassierbar
+Nebel;Centaurinebel;92|4;Nebel aus Quelltext
+Nebel;Centaurinebel;92|5;Nebel aus Quelltext
+Nebel;Centaurinebel;92|6;Nebel aus Quelltext
+Nebel;Centaurinebel;92|7;Nebel aus Quelltext
+Nebel;Centaurinebel;92|8;Nebel aus Quelltext
+Nebel;Centaurinebel;92|9;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|14;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|15;Nebel passierbar
+Nebel;Crabs-Wirbel;93|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|20;Nebel unpassierbar
+Nebel;Centaurinebel;93|4;Nebel aus Quelltext
+Nebel;Centaurinebel;93|5;Nebel aus Quelltext
+Nebel;Centaurinebel;93|6;Nebel aus Quelltext
+Nebel;Centaurinebel;93|8;Nebel aus Quelltext
+Nebel;Centaurinebel;93|9;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|15;Nebel passierbar
+Nebel;Crabs-Wirbel;94|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|17;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|18;Nebel passierbar
+Nebel;Crabs-Wirbel;94|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|20;Nebel passierbar
+Nebel;Centaurinebel;94|4;Nebel aus Quelltext
+Nebel;Centaurinebel;94|5;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|15;Nebel passierbar
+Nebel;Crabs-Wirbel;95|16;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|19;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|20;Nebel aus Quelltext
+Nebel;Capelladämmerung;96|13;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|16;Nebel passierbar
 Nebel;Crabs-Wirbel;96|17;Nebel passierbar
 Nebel;Crabs-Wirbel;96|18;Nebel passierbar
+Nebel;Crabs-Wirbel;96|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|20;Nebel passierbar
+Nebel;Capelladämmerung;97|10;Nebel aus Quelltext
+Nebel;Capelladämmerung;97|11;Nebel aus Quelltext
+Nebel;Capelladämmerung;97|12;Nebel aus Quelltext
+Nebel;Capelladämmerung;97|13;Nebel aus Quelltext
+Nebel;Capelladämmerung;97|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|17;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;97|20;Nebel passierbar
 Nebel;Gorkons Zorn;97|5;Nebel passierbar
+Nebel;Gorkons Zorn;97|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;97|7;Nebel passierbar
 Nebel;Gorkons Zorn;97|8;Nebel passierbar
+Nebel;Gorkons Zorn;97|9;Nebel aus Quelltext
+Nebel;Capelladämmerung;98|10;Nebel aus Quelltext
+Nebel;Capelladämmerung;98|11;Nebel aus Quelltext
+Nebel;Capelladämmerung;98|12;Nebel aus Quelltext
+Nebel;Capelladämmerung;98|13;Nebel aus Quelltext
+Nebel;Capelladämmerung;98|14;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|18;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|19;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|20;Nebel aus Quelltext
+Nebel;Gorkons Zorn;98|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;98|5;Nebel aus Quelltext
+Nebel;Gorkons Zorn;98|6;Nebel aus Quelltext
+Nebel;Gorkons Zorn;98|7;Nebel aus Quelltext
+Nebel;Gorkons Zorn;98|8;Nebel aus Quelltext
 Nebel;Gorkons Zorn;98|9;Nebel passierbar
+Nebel;Capelladämmerung;99|12;Nebel aus Quelltext
+Nebel;Capelladämmerung;99|13;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|19;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;99|20;Nebel passierbar
+Nebel;Gorkons Zorn;99|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;99|5;Nebel aus Quelltext
+Nebel;Gorkons Zorn;99|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;99|7;Nebel unpassierbar
 Nebel;Gorkons Zorn;99|8;Nebel unpassierbar
+Nebel;Gorkons Zorn;99|9;Nebel aus Quelltext
+Nebel;Gorkons Zorn;101|10;Nebel aus Quelltext
+Nebel;Taurusglanz;101|17;Nebel aus Quelltext
+Nebel;Taurusglanz;101|18;Nebel aus Quelltext
+Nebel;Taurusglanz;101|19;Nebel aus Quelltext
+Nebel;Gorkons Zorn;101|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;101|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;101|5;Nebel unpassierbar
+Nebel;Gorkons Zorn;101|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;101|7;Nebel passierbar
 Nebel;Gorkons Zorn;101|8;Nebel unpassierbar
+Nebel;Gorkons Zorn;101|9;Nebel aus Quelltext
+Nebel;Gorkons Zorn;102|10;Nebel aus Quelltext
+Nebel;Taurusglanz;102|17;Nebel aus Quelltext
+Nebel;Taurusglanz;102|18;Nebel aus Quelltext
+Nebel;Taurusglanz;102|19;Nebel aus Quelltext
+Nebel;Gorkons Zorn;102|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;102|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;102|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;102|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;102|7;Nebel unpassierbar
+Nebel;Gorkons Zorn;102|8;Nebel aus Quelltext
 Nebel;Gorkons Zorn;102|9;Nebel passierbar
+Nebel;Gorkons Zorn;103|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;103|11;Nebel aus Quelltext
+Nebel;Gorkons Zorn;103|2;Nebel aus Quelltext
+Nebel;Gorkons Zorn;103|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;103|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;103|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;103|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;103|7;Nebel passierbar
+Nebel;Gorkons Zorn;103|8;Nebel aus Quelltext
 Nebel;Gorkons Zorn;103|9;Nebel passierbar
+Nebel;Gorkons Zorn;104|10;Nebel aus Quelltext
 Nebel;Gorkons Zorn;104|11;Nebel passierbar
+Nebel;Dracostrudel;104|19;Nebel aus Quelltext
+Nebel;Dracostrudel;104|20;Nebel aus Quelltext
+Nebel;Gorkons Zorn;104|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;104|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;104|5;Nebel passierbar
+Nebel;Gorkons Zorn;104|6;Nebel aus Quelltext
+Nebel;Gorkons Zorn;104|7;Nebel aus Quelltext
+Nebel;Gorkons Zorn;104|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;104|9;Nebel aus Quelltext
 Nebel;Gorkons Zorn;105|10;Nebel passierbar
+Nebel;Gorkons Zorn;105|11;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|12;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|13;Nebel aus Quelltext
 Nebel;Gorkons Zorn;105|14;Nebel passierbar
+Nebel;Dracostrudel;105|19;Nebel aus Quelltext
+Nebel;Dracostrudel;105|20;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|5;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;105|7;Nebel passierbar
+Nebel;Gorkons Zorn;105|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;105|9;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|11;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|12;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|13;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|14;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|15;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|16;Nebel aus Quelltext
+Nebel;Dracostrudel;106|19;Nebel aus Quelltext
+Nebel;Dracostrudel;106|20;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|5;Nebel aus Quelltext
+Nebel;Gorkons Zorn;106|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;106|7;Nebel passierbar
 Nebel;Gorkons Zorn;106|8;Nebel passierbar
+Nebel;Gorkons Zorn;106|9;Nebel aus Quelltext
 Nebel;Gorkons Zorn;107|10;Nebel passierbar
 Nebel;Gorkons Zorn;107|11;Nebel passierbar
 Nebel;Gorkons Zorn;107|12;Nebel unpassierbar
+Nebel;Gorkons Zorn;107|13;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|14;Nebel aus Quelltext
 Nebel;Gorkons Zorn;107|15;Nebel passierbar
+Nebel;Gorkons Zorn;107|16;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|5;Nebel aus Quelltext
 Nebel;Gorkons Zorn;107|6;Nebel passierbar
+Nebel;Gorkons Zorn;107|7;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;107|9;Nebel aus Quelltext
 Nebel;Gorkons Zorn;108|10;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|11;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|12;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|13;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|14;Nebel unpassierbar
+Nebel;Gorkons Zorn;108|15;Nebel aus Quelltext
+Nebel;Gorkons Zorn;108|16;Nebel aus Quelltext
+Nebel;Gorkons Zorn;108|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;108|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;108|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;108|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;108|7;Nebel unpassierbar
+Nebel;Gorkons Zorn;108|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;108|9;Nebel aus Quelltext
+Nebel;Gorkons Zorn;109|10;Nebel aus Quelltext
 Nebel;Gorkons Zorn;109|11;Nebel unpassierbar
 Nebel;Gorkons Zorn;109|12;Nebel unpassierbar
+Nebel;Gorkons Zorn;109|13;Nebel aus Quelltext
 Nebel;Gorkons Zorn;109|14;Nebel passierbar
 Nebel;Gorkons Zorn;109|15;Nebel passierbar
 Nebel;Gorkons Zorn;109|16;Nebel passierbar
+Nebel;Gorkons Zorn;109|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;109|3;Nebel aus Quelltext
 Nebel;Gorkons Zorn;109|4;Nebel unpassierbar
 Nebel;Gorkons Zorn;109|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;109|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;109|7;Nebel unpassierbar
 Nebel;Gorkons Zorn;109|8;Nebel unpassierbar
+Nebel;Gorkons Zorn;109|9;Nebel aus Quelltext
 Nebel;Gorkons Zorn;110|10;Nebel passierbar
+Nebel;Gorkons Zorn;110|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;110|12;Nebel passierbar
+Nebel;Gorkons Zorn;110|13;Nebel aus Quelltext
+Nebel;Gorkons Zorn;110|14;Nebel aus Quelltext
+Nebel;Gorkons Zorn;110|15;Nebel aus Quelltext
 Nebel;Gorkons Zorn;110|16;Nebel unpassierbar
+Nebel;Gorkons Zorn;110|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;110|3;Nebel aus Quelltext
 Nebel;Gorkons Zorn;110|4;Nebel unpassierbar
 Nebel;Gorkons Zorn;110|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;110|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;110|7;Nebel unpassierbar
+Nebel;Gorkons Zorn;110|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;110|9;Nebel aus Quelltext
 Nebel;Gorkons Zorn;111|10;Nebel passierbar
+Nebel;Gorkons Zorn;111|11;Nebel aus Quelltext
+Nebel;Gorkons Zorn;111|12;Nebel aus Quelltext
+Nebel;Gorkons Zorn;111|14;Nebel aus Quelltext
 Nebel;Gorkons Zorn;111|15;Nebel passierbar
 Nebel;Gorkons Zorn;111|16;Nebel unpassierbar
+Nebel;Gorkons Zorn;111|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;111|18;Nebel aus Quelltext
+Nebel;Gorkons Zorn;111|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;111|4;Nebel aus Quelltext
 Nebel;Gorkons Zorn;111|5;Nebel unpassierbar
 Nebel;Gorkons Zorn;111|6;Nebel unpassierbar
 Nebel;Gorkons Zorn;111|7;Nebel passierbar
 Nebel;Gorkons Zorn;111|8;Nebel passierbar
 Nebel;Gorkons Zorn;111|9;Nebel passierbar
+Nebel;Gorkons Zorn;112|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;112|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|12;Nebel passierbar
+Nebel;Gorkons Zorn;112|13;Nebel aus Quelltext
+Nebel;Gorkons Zorn;112|14;Nebel aus Quelltext
+Nebel;Gorkons Zorn;112|15;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|16;Nebel unpassierbar
+Nebel;Gorkons Zorn;112|17;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|18;Nebel passierbar
+Nebel;Gorkons Zorn;112|19;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|4;Nebel passierbar
 Nebel;Gorkons Zorn;112|5;Nebel passierbar
+Nebel;Gorkons Zorn;112|6;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|7;Nebel passierbar
+Nebel;Gorkons Zorn;112|8;Nebel aus Quelltext
 Nebel;Gorkons Zorn;112|9;Nebel passierbar
+Nebel;Gorkons Zorn;113|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;113|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;113|12;Nebel unpassierbar
+Nebel;Gorkons Zorn;113|13;Nebel aus Quelltext
 Nebel;Gorkons Zorn;113|14;Nebel passierbar
 Nebel;Gorkons Zorn;113|15;Nebel unpassierbar
 Nebel;Gorkons Zorn;113|16;Nebel unpassierbar
+Nebel;Gorkons Zorn;113|17;Nebel aus Quelltext
 Nebel;Gorkons Zorn;113|18;Nebel passierbar
 Nebel;Gorkons Zorn;113|19;Nebel passierbar
+Nebel;Gorkons Zorn;113|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;113|5;Nebel aus Quelltext
+Nebel;Gorkons Zorn;113|6;Nebel aus Quelltext
+Nebel;Gorkons Zorn;113|7;Nebel aus Quelltext
+Nebel;Gorkons Zorn;113|8;Nebel aus Quelltext
+Nebel;Gorkons Zorn;114|10;Nebel aus Quelltext
 Nebel;Gorkons Zorn;114|11;Nebel unpassierbar
 Nebel;Gorkons Zorn;114|12;Nebel unpassierbar
 Nebel;Gorkons Zorn;114|13;Nebel unpassierbar
@@ -949,24 +1389,85 @@ Nebel;Gorkons Zorn;114|14;Nebel unpassierbar
 Nebel;Gorkons Zorn;114|15;Nebel unpassierbar
 Nebel;Gorkons Zorn;114|16;Nebel unpassierbar
 Nebel;Gorkons Zorn;114|17;Nebel passierbar
+Nebel;Gorkons Zorn;114|18;Nebel aus Quelltext
+Nebel;Gorkons Zorn;114|19;Nebel aus Quelltext
+Nebel;Geminischimmer;114|2;Nebel aus Quelltext
+Nebel;Geminischimmer;114|3;Nebel aus Quelltext
+Nebel;Gorkons Zorn;115|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;115|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;115|12;Nebel unpassierbar
 Nebel;Gorkons Zorn;115|13;Nebel unpassierbar
 Nebel;Gorkons Zorn;115|14;Nebel unpassierbar
+Nebel;Gorkons Zorn;115|15;Nebel aus Quelltext
+Nebel;Gorkons Zorn;115|16;Nebel aus Quelltext
+Nebel;Gorkons Zorn;115|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;115|18;Nebel aus Quelltext
 Nebel;Gorkons Zorn;115|19;Nebel passierbar
+Nebel;Geminischimmer;115|2;Nebel aus Quelltext
+Nebel;Geminischimmer;115|3;Nebel aus Quelltext
+Nebel;Geminischimmer;115|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;116|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;116|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;116|12;Nebel unpassierbar
 Nebel;Gorkons Zorn;116|13;Nebel unpassierbar
+Nebel;Gorkons Zorn;116|14;Nebel aus Quelltext
+Nebel;Gorkons Zorn;116|15;Nebel aus Quelltext
 Nebel;Gorkons Zorn;116|16;Nebel passierbar
+Nebel;Gorkons Zorn;116|17;Nebel aus Quelltext
+Nebel;Gorkons Zorn;116|18;Nebel aus Quelltext
+Nebel;Geminischimmer;116|2;Nebel aus Quelltext
+Nebel;Ursa-Nebel;116|20;Nebel aus Quelltext
+Nebel;Geminischimmer;116|3;Nebel aus Quelltext
+Nebel;Geminischimmer;116|4;Nebel aus Quelltext
+Nebel;Gorkons Zorn;117|11;Nebel aus Quelltext
+Nebel;Gorkons Zorn;117|12;Nebel aus Quelltext
+Nebel;Gorkons Zorn;117|13;Nebel aus Quelltext
 Nebel;Gorkons Zorn;117|14;Nebel passierbar
+Nebel;Gorkons Zorn;117|15;Nebel aus Quelltext
+Nebel;Gorkons Zorn;117|16;Nebel aus Quelltext
+Nebel;Gorkons Zorn;117|17;Nebel aus Quelltext
+Nebel;Geminischimmer;117|2;Nebel aus Quelltext
+Nebel;Ursa-Nebel;117|20;Nebel aus Quelltext
+Nebel;Geminischimmer;117|3;Nebel aus Quelltext
+Nebel;Leo-Schleier;118|10;Nebel aus Quelltext
+Nebel;Gorkons Zorn;118|12;Nebel aus Quelltext
 Nebel;Gorkons Zorn;118|13;Nebel passierbar
+Nebel;Gorkons Zorn;118|14;Nebel aus Quelltext
+Nebel;Gorkons Zorn;118|15;Nebel aus Quelltext
+Nebel;Ursa-Nebel;118|20;Nebel aus Quelltext
+Nebel;Leo-Schleier;118|7;Nebel aus Quelltext
+Nebel;Leo-Schleier;118|8;Nebel aus Quelltext
+Nebel;Leo-Schleier;118|9;Nebel aus Quelltext
+Nebel;Leo-Schleier;119|10;Nebel aus Quelltext
+Nebel;Leo-Schleier;119|11;Nebel aus Quelltext
 Nebel;Gorkons Zorn;119|13;Nebel passierbar
 Nebel;Gorkons Zorn;119|14;Nebel passierbar
+Nebel;Gorkons Zorn;119|15;Nebel aus Quelltext
+Nebel;Ursa-Nebel;119|20;Nebel aus Quelltext
+Nebel;Leo-Schleier;119|7;Nebel aus Quelltext
+Nebel;Leo-Schleier;119|8;Nebel aus Quelltext
+Nebel;Leo-Schleier;119|9;Nebel aus Quelltext
+Nebel;Leo-Schleier;120|10;Nebel aus Quelltext
+Nebel;Leo-Schleier;120|11;Nebel aus Quelltext
+Nebel;Ursa-Nebel;120|20;Nebel aus Quelltext
+Nebel;Leo-Schleier;120|8;Nebel aus Quelltext
+Nebel;Leo-Schleier;120|9;Nebel aus Quelltext
 Nebel;BortaSs Wut;1|21;Nebel aus Quelltext
 Nebel;BortaSs Wut;1|22;Nebel aus Quelltext
 Nebel;BortaSs Wut;1|23;Nebel passierbar
+Nebel;BortaSs Wut;1|24;Nebel aus Quelltext
+Nebel;BortaSs Wut;1|25;Nebel aus Quelltext
+Nebel;BortaSs Wut;1|26;Nebel aus Quelltext
+Nebel;BortaSs Wut;1|27;Nebel aus Quelltext
+Nebel;BortaSs Wut;1|28;Nebel aus Quelltext
 Nebel;BortaSs Wut;1|29;Nebel passierbar
+Nebel;BortaSs Wut;1|30;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;1|35;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;1|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;1|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;1|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;1|39;Nebel passierbar
+Nebel;Tlanek-Verhüllung;1|40;Nebel aus Quelltext
 Nebel;Maras Fluch;10|24;Nebel aus Quelltext
 Nebel;Maras Fluch;10|25;Nebel unpassierbar
 Nebel;Maras Fluch;10|26;Nebel unpassierbar
@@ -976,44 +1477,57 @@ Nebel;Maras Fluch;10|29;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;10|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;10|35;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;10|36;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;10|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;10|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;10|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;10|39;Nebel passierbar
+Nebel;Tlanek-Verhüllung;10|40;Nebel aus Quelltext
 Nebel;Maras Fluch;11|27;Nebel passierbar
 Nebel;Maras Fluch;11|28;Nebel unpassierbar
 Nebel;Maras Fluch;11|29;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|33;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|34;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|35;Nebel passierbar
-Nebel;Tlanek-Verhüllung;11|36;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;11|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;11|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;11|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;11|39;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|40;Nebel passierbar
 Nebel;Tlanek-Verhüllung;12|33;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;12|34;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;12|35;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;12|36;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;12|36;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;12|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;12|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;12|39;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;12|40;Nebel passierbar
 Nebel;Tlanek-Verhüllung;13|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;13|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;13|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;13|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;13|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;13|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;13|39;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;13|40;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;14|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;14|33;Nebel passierbar
+Nebel;Tlanek-Verhüllung;14|34;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;14|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;14|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;14|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;14|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;14|39;Nebel passierbar
+Nebel;Tlanek-Verhüllung;14|40;Nebel unpassierbar
 Nebel;Perlennebel;15|22;Nebel aus Quelltext
 Nebel;Perlennebel;15|23;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;15|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;15|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;15|34;Nebel passierbar
-Nebel;Tlanek-Verhüllung;15|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;15|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;15|36;Nebel passierbar
+Nebel;Tlanek-Verhüllung;15|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;15|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;15|39;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;15|40;Nebel unpassierbar
 Nebel;Perlennebel;16|22;Nebel aus Quelltext
 Nebel;Perlennebel;16|23;Nebel aus Quelltext
 Nebel;Perlennebel;16|24;Nebel aus Quelltext
@@ -1022,7 +1536,11 @@ Nebel;Vreenak-Nebel;16|27;Nebel aus Quelltext
 Nebel;Vreenak-Nebel;16|28;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;16|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;16|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;16|35;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;16|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;16|37;Nebel passierbar
+Nebel;Tlanek-Verhüllung;16|38;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;16|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;16|40;Nebel passierbar
 Nebel;Perlennebel;17|22;Nebel aus Quelltext
 Nebel;Perlennebel;17|23;Nebel aus Quelltext
@@ -1033,7 +1551,12 @@ Nebel;Vreenak-Nebel;17|28;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;17|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;17|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;17|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;17|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;17|36;Nebel passierbar
+Nebel;Tlanek-Verhüllung;17|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;17|38;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;17|39;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;17|40;Nebel aus Quelltext
 Nebel;Vreenak-Nebel;18|25;Nebel aus Quelltext
 Nebel;Vreenak-Nebel;18|26;Nebel aus Quelltext
 Nebel;Vreenak-Nebel;18|27;Nebel aus Quelltext
@@ -1042,21 +1565,32 @@ Nebel;Tlanek-Verhüllung;18|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;18|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;18|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;18|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;18|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;18|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;18|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;18|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;18|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;18|40;Nebel passierbar
 Nebel;Vreenak-Nebel;19|26;Nebel aus Quelltext
+Nebel;Vreenak-Nebel;19|27;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;19|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;19|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;19|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;19|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;19|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;19|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;19|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;19|37;Nebel passierbar
+Nebel;Tlanek-Verhüllung;19|38;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;19|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;19|40;Nebel passierbar
 Nebel;BortaSs Wut;2|21;Nebel aus Quelltext
 Nebel;BortaSs Wut;2|22;Nebel aus Quelltext
+Nebel;BortaSs Wut;2|23;Nebel aus Quelltext
+Nebel;BortaSs Wut;2|24;Nebel aus Quelltext
+Nebel;BortaSs Wut;2|25;Nebel aus Quelltext
+Nebel;BortaSs Wut;2|26;Nebel aus Quelltext
+Nebel;BortaSs Wut;2|27;Nebel aus Quelltext
 Nebel;BortaSs Wut;2|28;Nebel unpassierbar
 Nebel;BortaSs Wut;2|29;Nebel passierbar
 Nebel;BortaSs Wut;2|30;Nebel passierbar
@@ -1065,18 +1599,29 @@ Nebel;Tlanek-Verhüllung;2|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;2|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;2|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;2|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;2|39;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;2|40;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;20|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;20|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;20|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;20|33;Nebel passierbar
+Nebel;Tlanek-Verhüllung;20|34;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;20|35;Nebel passierbar
-Nebel;Tlanek-Verhüllung;20|39;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;20|36;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;20|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;20|38;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;20|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;20|40;Nebel passierbar
 Nebel;BortaSs Wut;3|22;Nebel aus Quelltext
 Nebel;BortaSs Wut;3|23;Nebel passierbar
 Nebel;BortaSs Wut;3|24;Nebel passierbar
+Nebel;BortaSs Wut;3|25;Nebel aus Quelltext
+Nebel;BortaSs Wut;3|26;Nebel aus Quelltext
+Nebel;BortaSs Wut;3|27;Nebel aus Quelltext
 Nebel;BortaSs Wut;3|28;Nebel passierbar
 Nebel;BortaSs Wut;3|29;Nebel unpassierbar
+Nebel;BortaSs Wut;3|30;Nebel aus Quelltext
+Nebel;BortaSs Wut;3|31;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;3|35;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;3|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;3|37;Nebel aus Quelltext
@@ -1086,6 +1631,7 @@ Nebel;Tlanek-Verhüllung;3|40;Nebel passierbar
 Nebel;BortaSs Wut;4|23;Nebel aus Quelltext
 Nebel;BortaSs Wut;4|24;Nebel aus Quelltext
 Nebel;BortaSs Wut;4|25;Nebel passierbar
+Nebel;BortaSs Wut;4|26;Nebel aus Quelltext
 Nebel;BortaSs Wut;4|27;Nebel aus Quelltext
 Nebel;BortaSs Wut;4|28;Nebel passierbar
 Nebel;BortaSs Wut;4|29;Nebel aus Quelltext
@@ -1094,6 +1640,8 @@ Nebel;Tlanek-Verhüllung;4|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;4|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;4|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;4|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;4|39;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;4|40;Nebel aus Quelltext
 Nebel;BortaSs Wut;5|24;Nebel aus Quelltext
 Nebel;BortaSs Wut;5|25;Nebel aus Quelltext
 Nebel;BortaSs Wut;5|26;Nebel aus Quelltext
@@ -1105,6 +1653,7 @@ Nebel;Tlanek-Verhüllung;5|35;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;5|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;5|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;5|38;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;5|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;5|40;Nebel passierbar
 Nebel;BortaSs Wut;6|25;Nebel aus Quelltext
 Nebel;BortaSs Wut;6|26;Nebel aus Quelltext
@@ -1114,14 +1663,16 @@ Nebel;Tlanek-Verhüllung;6|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;6|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;6|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;6|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;6|39;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;6|40;Nebel passierbar
 Nebel;Maras Fluch;7|27;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;7|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;7|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;7|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;7|37;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;7|38;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;7|38;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;7|39;Nebel passierbar
+Nebel;Tlanek-Verhüllung;7|40;Nebel aus Quelltext
 Nebel;Maras Fluch;8|26;Nebel aus Quelltext
 Nebel;Maras Fluch;8|27;Nebel aus Quelltext
 Nebel;Maras Fluch;8|28;Nebel passierbar
@@ -1129,7 +1680,7 @@ Nebel;Tlanek-Verhüllung;8|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;8|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;8|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;8|37;Nebel passierbar
-Nebel;Tlanek-Verhüllung;8|38;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;8|38;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;8|39;Nebel passierbar
 Nebel;Tlanek-Verhüllung;8|40;Nebel passierbar
 Nebel;Maras Fluch;9|24;Nebel passierbar
@@ -1140,25 +1691,32 @@ Nebel;Maras Fluch;9|28;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;9|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;9|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;9|36;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;9|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;9|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;9|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;9|39;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;9|40;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|33;Nebel passierbar
+Nebel;Tlanek-Verhüllung;21|34;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;21|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|36;Nebel passierbar
-Nebel;Tlanek-Verhüllung;21|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;21|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;21|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|39;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|40;Nebel passierbar
+Nebel;Tlanek-Verhüllung;22|29;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;22|30;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;22|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;22|32;Nebel passierbar
+Nebel;Tlanek-Verhüllung;22|33;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;22|34;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;22|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;22|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;22|37;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;22|38;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;22|38;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;22|39;Nebel passierbar
 Nebel;Tlanek-Verhüllung;22|40;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;23|28;Nebel passierbar
@@ -1166,10 +1724,11 @@ Nebel;Tlanek-Verhüllung;23|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;23|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;23|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;23|32;Nebel passierbar
+Nebel;Tlanek-Verhüllung;23|33;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;23|34;Nebel passierbar
-Nebel;Tlanek-Verhüllung;23|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;23|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;23|36;Nebel passierbar
-Nebel;Tlanek-Verhüllung;23|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;23|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;23|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;23|39;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;23|40;Nebel aus Quelltext
@@ -1177,41 +1736,64 @@ Nebel;Tlanek-Verhüllung;24|28;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|31;Nebel passierbar
+Nebel;Tlanek-Verhüllung;24|32;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;24|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;24|35;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;24|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|39;Nebel passierbar
 Nebel;Tlanek-Verhüllung;24|40;Nebel passierbar
+Nebel;Orionkaskade;25|21;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;25|28;Nebel passierbar
+Nebel;Tlanek-Verhüllung;25|29;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;25|30;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;25|31;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;25|32;Nebel passierbar
+Nebel;Tlanek-Verhüllung;25|33;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;25|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;25|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;25|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;25|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;25|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;25|39;Nebel passierbar
+Nebel;Orionkaskade;26|21;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;26|28;Nebel passierbar
 Nebel;Tlanek-Verhüllung;26|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;26|30;Nebel passierbar
+Nebel;Tlanek-Verhüllung;26|31;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;26|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;26|33;Nebel passierbar
+Nebel;Tlanek-Verhüllung;26|34;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;26|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;26|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;26|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;26|38;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;26|39;Nebel passierbar
+Nebel;Orionkaskade;27|21;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;27|27;Nebel passierbar
 Nebel;Tlanek-Verhüllung;27|28;Nebel passierbar
+Nebel;Tlanek-Verhüllung;27|29;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;27|30;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;27|31;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;27|32;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;27|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;27|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;27|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;27|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;27|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;27|38;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;27|39;Nebel passierbar
 Nebel;Tlanek-Verhüllung;28|27;Nebel passierbar
+Nebel;Tlanek-Verhüllung;28|29;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;28|30;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;28|31;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;28|32;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;28|33;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;28|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;28|35;Nebel passierbar
+Nebel;Tlanek-Verhüllung;28|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;28|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;28|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;28|39;Nebel passierbar
@@ -1219,20 +1801,37 @@ Nebel;Tlanek-Verhüllung;29|27;Nebel passierbar
 Nebel;Tlanek-Verhüllung;29|28;Nebel passierbar
 Nebel;Tlanek-Verhüllung;29|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;29|30;Nebel passierbar
+Nebel;Tlanek-Verhüllung;29|31;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;29|32;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;29|33;Nebel passierbar
+Nebel;Tlanek-Verhüllung;29|34;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;29|35;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;29|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;29|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;29|38;Nebel passierbar
+Nebel;Tlanek-Verhüllung;30|27;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;30|28;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;30|29;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;30|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;30|31;Nebel passierbar
+Nebel;Tlanek-Verhüllung;30|32;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;30|33;Nebel passierbar
 Nebel;Tlanek-Verhüllung;30|34;Nebel passierbar
+Nebel;Tlanek-Verhüllung;30|35;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;30|36;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;30|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;30|38;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;31|27;Nebel passierbar
 Nebel;Tlanek-Verhüllung;31|28;Nebel passierbar
+Nebel;Tlanek-Verhüllung;31|29;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|30;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|31;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|32;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|33;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|34;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;31|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;31|36;Nebel passierbar
-Nebel;Tlanek-Verhüllung;31|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;31|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;31|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;32|27;Nebel passierbar
 Nebel;Tlanek-Verhüllung;32|28;Nebel passierbar
@@ -1241,10 +1840,10 @@ Nebel;Tlanek-Verhüllung;32|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;32|31;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;32|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;32|33;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;32|34;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;32|34;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;32|35;Nebel passierbar
 Nebel;Tlanek-Verhüllung;32|36;Nebel passierbar
-Nebel;Tlanek-Verhüllung;32|37;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;32|37;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;32|38;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|27;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|28;Nebel aus Quelltext
@@ -1252,9 +1851,10 @@ Nebel;Tlanek-Verhüllung;33|29;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|32;Nebel passierbar
-Nebel;Tlanek-Verhüllung;33|33;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;33|33;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;33|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|35;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;33|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;33|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;33|38;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;34|28;Nebel passierbar
@@ -1262,10 +1862,10 @@ Nebel;Tlanek-Verhüllung;34|29;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;34|30;Nebel passierbar
 Nebel;Tlanek-Verhüllung;34|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;34|32;Nebel passierbar
-Nebel;Tlanek-Verhüllung;34|33;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;34|33;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;34|34;Nebel passierbar
 Nebel;Tlanek-Verhüllung;34|35;Nebel passierbar
-Nebel;Tlanek-Verhüllung;34|36;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;34|36;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;34|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;35|28;Nebel passierbar
 Nebel;Tlanek-Verhüllung;35|29;Nebel passierbar
@@ -1274,7 +1874,7 @@ Nebel;Tlanek-Verhüllung;35|31;Nebel passierbar
 Nebel;Tlanek-Verhüllung;35|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;35|33;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;35|34;Nebel passierbar
-Nebel;Tlanek-Verhüllung;35|35;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;35|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;35|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;35|37;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;36|28;Nebel passierbar
@@ -1284,7 +1884,7 @@ Nebel;Tlanek-Verhüllung;36|31;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;36|32;Nebel passierbar
 Nebel;Tlanek-Verhüllung;36|33;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;36|34;Nebel passierbar
-Nebel;Tlanek-Verhüllung;36|35;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;36|35;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;36|36;Nebel passierbar
 Nebel;Tlanek-Verhüllung;36|37;Nebel passierbar
 Nebel;Tlanek-Verhüllung;37|29;Nebel aus Quelltext
@@ -1431,6 +2031,7 @@ Nebel;Crabs-Wirbel;56|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;56|30;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;56|31;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;56|32;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;56|33;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;57|21;Nebel passierbar
 Nebel;Crabs-Wirbel;57|22;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;57|23;Nebel aus Quelltext
@@ -1443,6 +2044,7 @@ Nebel;Crabs-Wirbel;57|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;57|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;57|31;Nebel passierbar
 Nebel;Crabs-Wirbel;57|32;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;57|33;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;57|34;Nebel passierbar
 Nebel;Zeta-Alpha-Nebula;57|36;Nebel aus Quelltext
 Nebel;Zeta-Alpha-Nebula;57|37;Nebel aus Quelltext
@@ -1473,6 +2075,7 @@ Nebel;Crabs-Wirbel;59|29;Nebel passierbar
 Nebel;Crabs-Wirbel;59|30;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;59|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;59|32;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;59|33;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;59|34;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;59|35;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;60|21;Nebel aus Quelltext
@@ -1487,6 +2090,8 @@ Nebel;Crabs-Wirbel;60|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;60|30;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;60|31;Nebel passierbar
 Nebel;Crabs-Wirbel;60|32;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;60|33;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;60|34;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;60|35;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;61|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;61|22;Nebel aus Quelltext
@@ -1633,6 +2238,7 @@ Nebel;Crabs-Wirbel;70|28;Nebel aus Quelltext
 Nebel;Nebula-Meridian;70|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;71|21;Nebel unpassierbar
 Nebel;Crabs-Wirbel;71|22;Nebel unpassierbar
+Nebel;Crabs-Wirbel;71|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;71|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;71|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;71|26;Nebel unpassierbar
@@ -1656,8 +2262,10 @@ Nebel;Crabs-Wirbel;74|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;74|25;Nebel passierbar
 Nebel;Crabs-Wirbel;74|26;Nebel passierbar
 Nebel;Crabs-Wirbel;74|39;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;75|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|22;Nebel unpassierbar
 Nebel;Crabs-Wirbel;75|23;Nebel unpassierbar
+Nebel;Crabs-Wirbel;75|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|25;Nebel passierbar
 Nebel;Crabs-Wirbel;75|34;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|35;Nebel aus Quelltext
@@ -1666,7 +2274,10 @@ Nebel;Crabs-Wirbel;75|37;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;75|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;76|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;76|22;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|23;Nebel passierbar
+Nebel;Crabs-Wirbel;76|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|32;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|33;Nebel aus Quelltext
@@ -1677,6 +2288,9 @@ Nebel;Crabs-Wirbel;76|37;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;76|40;Nebel passierbar
+Nebel;Crabs-Wirbel;77|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;77|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;77|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;77|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;77|25;Nebel passierbar
 Nebel;Crabs-Wirbel;77|26;Nebel aus Quelltext
@@ -1693,6 +2307,7 @@ Nebel;Crabs-Wirbel;77|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;78|21;Nebel passierbar
 Nebel;Crabs-Wirbel;78|22;Nebel unpassierbar
 Nebel;Crabs-Wirbel;78|23;Nebel unpassierbar
+Nebel;Crabs-Wirbel;78|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;78|25;Nebel passierbar
 Nebel;Crabs-Wirbel;78|26;Nebel passierbar
 Nebel;Crabs-Wirbel;78|31;Nebel passierbar
@@ -1705,7 +2320,10 @@ Nebel;Crabs-Wirbel;78|37;Nebel unpassierbar
 Nebel;Crabs-Wirbel;78|38;Nebel unpassierbar
 Nebel;Crabs-Wirbel;78|39;Nebel passierbar
 Nebel;Crabs-Wirbel;78|40;Nebel unpassierbar
+Nebel;Crabs-Wirbel;79|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|22;Nebel passierbar
+Nebel;Crabs-Wirbel;79|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;79|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|25;Nebel passierbar
 Nebel;Crabs-Wirbel;79|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|32;Nebel aus Quelltext
@@ -1717,7 +2335,9 @@ Nebel;Crabs-Wirbel;79|37;Nebel passierbar
 Nebel;Crabs-Wirbel;79|38;Nebel passierbar
 Nebel;Crabs-Wirbel;79|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;79|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;80|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|22;Nebel unpassierbar
+Nebel;Crabs-Wirbel;80|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|24;Nebel passierbar
 Nebel;Crabs-Wirbel;80|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;80|26;Nebel passierbar
@@ -1731,11 +2351,16 @@ Nebel;Crabs-Wirbel;80|37;Nebel passierbar
 Nebel;Crabs-Wirbel;80|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;80|40;Nebel passierbar
+Nebel;Crabs-Wirbel;100|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;100|22;Nebel passierbar
 Nebel;Crabs-Wirbel;100|23;Nebel passierbar
 Nebel;Crabs-Wirbel;100|24;Nebel passierbar
+Nebel;Crabs-Wirbel;100|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;100|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;81|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|22;Nebel unpassierbar
 Nebel;Crabs-Wirbel;81|23;Nebel passierbar
+Nebel;Crabs-Wirbel;81|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;81|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;81|27;Nebel passierbar
@@ -1750,7 +2375,10 @@ Nebel;Crabs-Wirbel;81|37;Nebel passierbar
 Nebel;Crabs-Wirbel;81|38;Nebel passierbar
 Nebel;Crabs-Wirbel;81|39;Nebel passierbar
 Nebel;Crabs-Wirbel;81|40;Nebel passierbar
+Nebel;Crabs-Wirbel;82|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|22;Nebel unpassierbar
+Nebel;Crabs-Wirbel;82|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;82|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;82|27;Nebel aus Quelltext
@@ -1769,6 +2397,8 @@ Nebel;Crabs-Wirbel;82|39;Nebel passierbar
 Nebel;Crabs-Wirbel;82|40;Nebel passierbar
 Nebel;Crabs-Wirbel;83|21;Nebel passierbar
 Nebel;Crabs-Wirbel;83|22;Nebel unpassierbar
+Nebel;Crabs-Wirbel;83|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;83|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;83|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;83|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;83|27;Nebel aus Quelltext
@@ -1786,6 +2416,7 @@ Nebel;Crabs-Wirbel;83|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;83|39;Nebel unpassierbar
 Nebel;Crabs-Wirbel;83|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|21;Nebel unpassierbar
+Nebel;Crabs-Wirbel;84|22;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|23;Nebel passierbar
 Nebel;Crabs-Wirbel;84|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;84|25;Nebel unpassierbar
@@ -1804,8 +2435,10 @@ Nebel;Crabs-Wirbel;84|37;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;84|38;Nebel passierbar
 Nebel;Crabs-Wirbel;84|39;Nebel unpassierbar
 Nebel;Crabs-Wirbel;84|40;Nebel passierbar
+Nebel;Crabs-Wirbel;85|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;85|22;Nebel unpassierbar
 Nebel;Crabs-Wirbel;85|23;Nebel passierbar
+Nebel;Crabs-Wirbel;85|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;85|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;85|26;Nebel unpassierbar
 Nebel;Crabs-Wirbel;85|27;Nebel unpassierbar
@@ -1823,11 +2456,14 @@ Nebel;Crabs-Wirbel;85|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;85|39;Nebel unpassierbar
 Nebel;Crabs-Wirbel;85|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;86|21;Nebel passierbar
+Nebel;Crabs-Wirbel;86|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;86|24;Nebel passierbar
 Nebel;Crabs-Wirbel;86|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|26;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|27;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|28;Nebel unpassierbar
+Nebel;Crabs-Wirbel;86|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;86|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|32;Nebel unpassierbar
@@ -1836,10 +2472,18 @@ Nebel;Crabs-Wirbel;86|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;86|37;Nebel unpassierbar
+Nebel;Crabs-Wirbel;86|38;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|39;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;86|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|26;Nebel unpassierbar
+Nebel;Crabs-Wirbel;87|27;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|28;Nebel passierbar
+Nebel;Crabs-Wirbel;87|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|32;Nebel unpassierbar
@@ -1848,10 +2492,18 @@ Nebel;Crabs-Wirbel;87|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;87|37;Nebel unpassierbar
+Nebel;Crabs-Wirbel;87|38;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;87|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;87|40;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|21;Nebel unpassierbar
+Nebel;Crabs-Wirbel;88|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|24;Nebel passierbar
+Nebel;Crabs-Wirbel;88|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|27;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|28;Nebel unpassierbar
+Nebel;Crabs-Wirbel;88|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|32;Nebel unpassierbar
@@ -1860,10 +2512,18 @@ Nebel;Crabs-Wirbel;88|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;88|37;Nebel unpassierbar
+Nebel;Crabs-Wirbel;88|38;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;88|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;88|40;Nebel unpassierbar
+Nebel;Crabs-Wirbel;89|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|22;Nebel unpassierbar
+Nebel;Crabs-Wirbel;89|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|24;Nebel unpassierbar
+Nebel;Crabs-Wirbel;89|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|27;Nebel unpassierbar
+Nebel;Crabs-Wirbel;89|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|32;Nebel unpassierbar
@@ -1872,11 +2532,18 @@ Nebel;Crabs-Wirbel;89|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;89|37;Nebel unpassierbar
+Nebel;Crabs-Wirbel;89|38;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;89|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;89|40;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|21;Nebel passierbar
+Nebel;Crabs-Wirbel;90|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;90|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;90|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|25;Nebel unpassierbar
+Nebel;Crabs-Wirbel;90|26;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|27;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|28;Nebel passierbar
+Nebel;Crabs-Wirbel;90|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|32;Nebel unpassierbar
@@ -1886,11 +2553,17 @@ Nebel;Crabs-Wirbel;90|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|37;Nebel unpassierbar
 Nebel;Crabs-Wirbel;90|38;Nebel unpassierbar
+Nebel;Crabs-Wirbel;90|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;90|40;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|21;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|22;Nebel passierbar
+Nebel;Crabs-Wirbel;91|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;91|24;Nebel passierbar
+Nebel;Crabs-Wirbel;91|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;91|26;Nebel unpassierbar
+Nebel;Crabs-Wirbel;91|27;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;91|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;91|30;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|31;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|32;Nebel unpassierbar
@@ -1901,59 +2574,138 @@ Nebel;Crabs-Wirbel;91|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|37;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|38;Nebel unpassierbar
 Nebel;Crabs-Wirbel;91|39;Nebel passierbar
+Nebel;Crabs-Wirbel;91|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|21;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|22;Nebel passierbar
+Nebel;Crabs-Wirbel;92|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|24;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|26;Nebel unpassierbar
+Nebel;Crabs-Wirbel;92|27;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|28;Nebel passierbar
+Nebel;Crabs-Wirbel;92|29;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|30;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|31;Nebel passierbar
+Nebel;Crabs-Wirbel;92|32;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;92|33;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|36;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|37;Nebel unpassierbar
 Nebel;Crabs-Wirbel;92|38;Nebel unpassierbar
+Nebel;Crabs-Wirbel;92|39;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;92|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|21;Nebel unpassierbar
+Nebel;Crabs-Wirbel;93|22;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|23;Nebel unpassierbar
 Nebel;Crabs-Wirbel;93|24;Nebel passierbar
+Nebel;Crabs-Wirbel;93|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|26;Nebel passierbar
 Nebel;Crabs-Wirbel;93|27;Nebel passierbar
+Nebel;Crabs-Wirbel;93|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|30;Nebel passierbar
 Nebel;Crabs-Wirbel;93|31;Nebel passierbar
+Nebel;Crabs-Wirbel;93|32;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|33;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|34;Nebel unpassierbar
+Nebel;Crabs-Wirbel;93|35;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;93|36;Nebel passierbar
+Nebel;Crabs-Wirbel;93|37;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|38;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|39;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;93|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|24;Nebel unpassierbar
 Nebel;Crabs-Wirbel;94|25;Nebel unpassierbar
 Nebel;Crabs-Wirbel;94|26;Nebel unpassierbar
 Nebel;Crabs-Wirbel;94|27;Nebel unpassierbar
+Nebel;Crabs-Wirbel;94|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|29;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|30;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|31;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|32;Nebel unpassierbar
+Nebel;Crabs-Wirbel;94|33;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|34;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|35;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;94|36;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|37;Nebel unpassierbar
+Nebel;Crabs-Wirbel;94|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;94|39;Nebel unpassierbar
 Nebel;Crabs-Wirbel;94|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|24;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|25;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|26;Nebel passierbar
 Nebel;Crabs-Wirbel;95|27;Nebel passierbar
 Nebel;Crabs-Wirbel;95|28;Nebel passierbar
+Nebel;Crabs-Wirbel;95|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|31;Nebel passierbar
+Nebel;Crabs-Wirbel;95|32;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|33;Nebel unpassierbar
 Nebel;Crabs-Wirbel;95|34;Nebel unpassierbar
 Nebel;Crabs-Wirbel;95|35;Nebel unpassierbar
 Nebel;Crabs-Wirbel;95|36;Nebel unpassierbar
+Nebel;Crabs-Wirbel;95|37;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;95|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;95|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|21;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|22;Nebel passierbar
 Nebel;Crabs-Wirbel;96|23;Nebel passierbar
+Nebel;Crabs-Wirbel;96|24;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|27;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|28;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|29;Nebel passierbar
+Nebel;Crabs-Wirbel;96|30;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|31;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|32;Nebel passierbar
+Nebel;Crabs-Wirbel;96|33;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|34;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|35;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|36;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|37;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;96|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|39;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|40;Nebel passierbar
+Nebel;Crabs-Wirbel;97|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|23;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;97|24;Nebel passierbar
+Nebel;Crabs-Wirbel;97|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|27;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|29;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|30;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|31;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;97|32;Nebel passierbar
 Nebel;Crabs-Wirbel;97|33;Nebel passierbar
+Nebel;Crabs-Wirbel;97|34;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|35;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|36;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|37;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;97|38;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;97|39;Nebel passierbar
 Nebel;Crabs-Wirbel;97|40;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|21;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|22;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|23;Nebel passierbar
+Nebel;Crabs-Wirbel;98|24;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|25;Nebel passierbar
+Nebel;Crabs-Wirbel;98|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|27;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|28;Nebel passierbar
+Nebel;Crabs-Wirbel;98|29;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|30;Nebel passierbar
+Nebel;Crabs-Wirbel;98|31;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;98|32;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|33;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;98|34;Nebel passierbar
 Nebel;Crabs-Wirbel;98|35;Nebel aus Quelltext
@@ -1963,38 +2715,107 @@ Nebel;Crabs-Wirbel;98|38;Nebel passierbar
 Nebel;Crabs-Wirbel;98|39;Nebel passierbar
 Nebel;Crabs-Wirbel;98|40;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;99|21;Nebel passierbar
+Nebel;Crabs-Wirbel;99|22;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|23;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|24;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|25;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|26;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|27;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|28;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|29;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|30;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|31;Nebel aus Quelltext
+Nebel;Crabs-Wirbel;99|32;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;99|33;Nebel passierbar
 Nebel;Crabs-Wirbel;99|34;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;99|35;Nebel passierbar
 Nebel;Crabs-Wirbel;99|36;Nebel passierbar
 Nebel;Crabs-Wirbel;99|37;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;99|38;Nebel passierbar
+Nebel;Pavostrudel;101|31;Nebel aus Quelltext
+Nebel;Pavostrudel;101|32;Nebel aus Quelltext
 Nebel;Pavostrudel;101|33;Nebel aus Quelltext
 Nebel;Pavostrudel;101|34;Nebel aus Quelltext
+Nebel;Pavostrudel;102|30;Nebel aus Quelltext
+Nebel;Pavostrudel;102|31;Nebel aus Quelltext
+Nebel;Pavostrudel;102|32;Nebel aus Quelltext
 Nebel;Pavostrudel;102|33;Nebel aus Quelltext
 Nebel;Pavostrudel;102|34;Nebel aus Quelltext
 Nebel;Auriganebel;102|40;Nebel aus Quelltext
+Nebel;Cepheusdunst;103|24;Nebel aus Quelltext
+Nebel;Cepheusdunst;103|25;Nebel aus Quelltext
+Nebel;Pavostrudel;103|30;Nebel aus Quelltext
+Nebel;Pavostrudel;103|31;Nebel aus Quelltext
+Nebel;Pavostrudel;103|32;Nebel aus Quelltext
 Nebel;Pavostrudel;103|33;Nebel aus Quelltext
 Nebel;Auriganebel;103|40;Nebel passierbar
+Nebel;Dracostrudel;104|21;Nebel aus Quelltext
+Nebel;Dracostrudel;104|22;Nebel aus Quelltext
+Nebel;Cepheusdunst;104|24;Nebel aus Quelltext
+Nebel;Cepheusdunst;104|25;Nebel aus Quelltext
+Nebel;Cepheusdunst;104|26;Nebel aus Quelltext
+Nebel;Pavostrudel;104|30;Nebel aus Quelltext
+Nebel;Pavostrudel;104|31;Nebel aus Quelltext
+Nebel;Pavostrudel;104|32;Nebel aus Quelltext
 Nebel;Pavostrudel;104|33;Nebel aus Quelltext
 Nebel;Auriganebel;104|40;Nebel aus Quelltext
+Nebel;Dracostrudel;105|21;Nebel aus Quelltext
+Nebel;Dracostrudel;105|22;Nebel aus Quelltext
+Nebel;Dracostrudel;105|23;Nebel aus Quelltext
+Nebel;Cepheusdunst;105|25;Nebel aus Quelltext
+Nebel;Cepheusdunst;105|26;Nebel aus Quelltext
+Nebel;Pavostrudel;105|30;Nebel aus Quelltext
+Nebel;Pavostrudel;105|31;Nebel aus Quelltext
+Nebel;Pavostrudel;105|32;Nebel aus Quelltext
 Nebel;Pavostrudel;105|33;Nebel aus Quelltext
 Nebel;Pavostrudel;105|34;Nebel aus Quelltext
+Nebel;Auriganebel;105|40;Nebel aus Quelltext
+Nebel;Dracostrudel;106|21;Nebel aus Quelltext
+Nebel;Dracostrudel;106|22;Nebel aus Quelltext
+Nebel;Dracostrudel;106|23;Nebel aus Quelltext
+Nebel;Pavostrudel;106|30;Nebel aus Quelltext
+Nebel;Pavostrudel;106|31;Nebel aus Quelltext
+Nebel;Pavostrudel;106|32;Nebel aus Quelltext
 Nebel;Pavostrudel;106|33;Nebel aus Quelltext
 Nebel;Pavostrudel;106|34;Nebel aus Quelltext
+Nebel;Auriganebel;106|40;Nebel aus Quelltext
+Nebel;Pavostrudel;107|30;Nebel aus Quelltext
+Nebel;Pavostrudel;107|31;Nebel aus Quelltext
+Nebel;Pavostrudel;107|32;Nebel aus Quelltext
 Nebel;Pavostrudel;107|33;Nebel aus Quelltext
+Nebel;Auriganebel;107|40;Nebel aus Quelltext
+Nebel;Pavostrudel;108|31;Nebel aus Quelltext
 Nebel;Pavostrudel;108|32;Nebel passierbar
 Nebel;Pavostrudel;108|33;Nebel aus Quelltext
+Nebel;Auriganebel;109|40;Nebel aus Quelltext
+Nebel;Libraschleier;110|24;Nebel aus Quelltext
+Nebel;Aquernebel;110|31;Nebel aus Quelltext
+Nebel;Auriganebel;110|40;Nebel aus Quelltext
+Nebel;Libraschleier;111|24;Nebel aus Quelltext
+Nebel;Libraschleier;111|25;Nebel aus Quelltext
+Nebel;Libraschleier;111|26;Nebel aus Quelltext
 Nebel;Libraschleier;111|27;Nebel passierbar
 Nebel;Aquernebel;111|30;Nebel passierbar
 Nebel;Aquernebel;111|31;Nebel unpassierbar
+Nebel;Aquernebel;111|32;Nebel aus Quelltext
 Nebel;Cygnusglanz;111|34;Nebel aus Quelltext
 Nebel;Cygnusglanz;111|35;Nebel passierbar
 Nebel;Auriganebel;111|40;Nebel passierbar
+Nebel;Libraschleier;112|24;Nebel aus Quelltext
+Nebel;Libraschleier;112|25;Nebel aus Quelltext
+Nebel;Libraschleier;112|26;Nebel aus Quelltext
 Nebel;Libraschleier;112|27;Nebel unpassierbar
+Nebel;Aquernebel;112|29;Nebel aus Quelltext
+Nebel;Aquernebel;112|30;Nebel aus Quelltext
+Nebel;Aquernebel;112|31;Nebel aus Quelltext
 Nebel;Cygnusglanz;112|34;Nebel aus Quelltext
 Nebel;Cygnusglanz;112|35;Nebel passierbar
 Nebel;Auriganebel;112|40;Nebel passierbar
+Nebel;Libraschleier;113|25;Nebel aus Quelltext
+Nebel;Libraschleier;113|26;Nebel aus Quelltext
+Nebel;Libraschleier;113|27;Nebel aus Quelltext
+Nebel;Aquernebel;113|29;Nebel aus Quelltext
+Nebel;Aquernebel;113|30;Nebel aus Quelltext
 Nebel;Cygnusglanz;113|33;Nebel aus Quelltext
 Nebel;Cygnusglanz;113|34;Nebel aus Quelltext
 Nebel;Cygnusglanz;113|35;Nebel passierbar
@@ -2004,11 +2825,31 @@ Nebel;Cygnusglanz;114|34;Nebel aus Quelltext
 Nebel;Cygnusglanz;114|35;Nebel passierbar
 Nebel;Auriganebel;114|40;Nebel passierbar
 Nebel;Auriganebel;115|40;Nebel aus Quelltext
+Nebel;Ursa-Nebel;116|21;Nebel aus Quelltext
+Nebel;Ursa-Nebel;116|22;Nebel aus Quelltext
 Nebel;Auriganebel;116|40;Nebel aus Quelltext
+Nebel;Ursa-Nebel;117|21;Nebel aus Quelltext
+Nebel;Ursa-Nebel;117|22;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;117|29;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;117|30;Nebel aus Quelltext
 Nebel;Auriganebel;117|40;Nebel aus Quelltext
+Nebel;Ursa-Nebel;118|21;Nebel aus Quelltext
+Nebel;Ursa-Nebel;118|22;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;118|28;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;118|29;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;118|30;Nebel aus Quelltext
 Nebel;Auriganebel;118|40;Nebel aus Quelltext
+Nebel;Ursa-Nebel;119|21;Nebel aus Quelltext
+Nebel;Ursa-Nebel;119|22;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;119|28;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;119|29;Nebel aus Quelltext
+Nebel;Canis-Major-Wolke;119|30;Nebel aus Quelltext
 Nebel;Auriganebel;119|40;Nebel passierbar
+Nebel;Ursa-Nebel;120|21;Nebel aus Quelltext
 Nebel;Auriganebel;120|40;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;1|41;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;1|42;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;1|43;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;1|44;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;1|45;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;1|46;Nebel passierbar
@@ -2017,18 +2858,24 @@ Nebel;Tlanek-Verhüllung;1|48;Nebel aus Quelltext
 Nebel;Zephyrdunst;1|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;1|51;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;1|52;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;1|53;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;1|54;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;1|53;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;1|54;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;1|55;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;1|56;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;1|57;Nebel aus Quelltext
+Nebel;Obykan-Nebel;1|58;Nebel aus Quelltext
+Nebel;Obykan-Nebel;1|59;Nebel unpassierbar
+Nebel;Obykan-Nebel;1|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;10|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;10|42;Nebel passierbar
 Nebel;Tlanek-Verhüllung;10|43;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;10|44;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;10|44;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;10|45;Nebel aus Quelltext
 Nebel;Obykan-Nebel;10|56;Nebel aus Quelltext
-Nebel;Obykan-Nebel;10|57;Nebel aus Quelltext
-Nebel;Obykan-Nebel;10|58;Nebel aus Quelltext
-Nebel;Obykan-Nebel;10|59;Nebel aus Quelltext
-Nebel;Obykan-Nebel;10|60;Nebel aus Quelltext
+Nebel;Obykan-Nebel;10|57;Nebel unpassierbar
+Nebel;Obykan-Nebel;10|58;Nebel unpassierbar
+Nebel;Obykan-Nebel;10|59;Nebel unpassierbar
+Nebel;Obykan-Nebel;10|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;11|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|42;Nebel passierbar
 Nebel;Tlanek-Verhüllung;11|43;Nebel aus Quelltext
@@ -2037,44 +2884,52 @@ Nebel;Tlanek-Verhüllung;11|45;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;11|46;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|56;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|57;Nebel aus Quelltext
-Nebel;Obykan-Nebel;11|58;Nebel aus Quelltext
-Nebel;Obykan-Nebel;11|59;Nebel aus Quelltext
-Nebel;Obykan-Nebel;11|60;Nebel aus Quelltext
+Nebel;Obykan-Nebel;11|58;Nebel unpassierbar
+Nebel;Obykan-Nebel;11|59;Nebel unpassierbar
+Nebel;Obykan-Nebel;11|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;12|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;12|42;Nebel passierbar
 Nebel;Tlanek-Verhüllung;12|43;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;12|44;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|57;Nebel passierbar
 Nebel;Obykan-Nebel;12|58;Nebel passierbar
+Nebel;Obykan-Nebel;12|59;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;13|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;13|42;Nebel passierbar
-Nebel;Tlanek-Verhüllung;13|43;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;13|43;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;13|44;Nebel passierbar
 Nebel;Astralnebel;13|49;Nebel aus Quelltext
 Nebel;Astralnebel;13|50;Nebel aus Quelltext
 Nebel;Astralnebel;13|51;Nebel aus Quelltext
+Nebel;Obykan-Nebel;13|58;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|59;Nebel passierbar
+Nebel;Obykan-Nebel;13|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;14|41;Nebel passierbar
-Nebel;Tlanek-Verhüllung;14|42;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;14|42;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;14|43;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;14|44;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;14|45;Nebel aus Quelltext
 Nebel;Astralnebel;14|49;Nebel aus Quelltext
 Nebel;Astralnebel;14|50;Nebel aus Quelltext
 Nebel;Astralnebel;14|51;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;15|41;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|59;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|60;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;15|41;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;15|42;Nebel passierbar
 Nebel;Tlanek-Verhüllung;15|43;Nebel passierbar
 Nebel;Tlanek-Verhüllung;15|44;Nebel passierbar
 Nebel;Talvath-Nebel;15|47;Nebel aus Quelltext
 Nebel;Astralnebel;15|49;Nebel aus Quelltext
 Nebel;Astralnebel;15|50;Nebel aus Quelltext
+Nebel;Obykan-Nebel;15|60;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;16|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;16|42;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;16|43;Nebel passierbar
 Nebel;Tlanek-Verhüllung;16|44;Nebel passierbar
 Nebel;Talvath-Nebel;16|47;Nebel aus Quelltext
 Nebel;Talvath-Nebel;16|48;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|60;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;17|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;17|42;Nebel passierbar
 Nebel;Tlanek-Verhüllung;17|43;Nebel aus Quelltext
@@ -2083,6 +2938,7 @@ Nebel;Talvath-Nebel;17|47;Nebel aus Quelltext
 Nebel;Talvath-Nebel;17|48;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;17|56;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;17|57;Nebel aus Quelltext
+Nebel;Obykan-Nebel;17|60;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;18|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;18|42;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;18|43;Nebel passierbar
@@ -2103,8 +2959,10 @@ Nebel;Kelvan-Strudel;19|56;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;19|57;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;19|58;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;19|59;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;2|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;2|42;Nebel passierbar
-Nebel;Tlanek-Verhüllung;2|44;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;2|43;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;2|44;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;2|45;Nebel passierbar
 Nebel;Tlanek-Verhüllung;2|46;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;2|47;Nebel passierbar
@@ -2112,11 +2970,14 @@ Nebel;Tlanek-Verhüllung;2|48;Nebel passierbar
 Nebel;Zephyrdunst;2|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;2|51;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;2|52;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;2|53;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;2|54;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;2|53;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;2|54;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;2|55;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;2|56;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;2|57;Nebel aus Quelltext
+Nebel;Obykan-Nebel;2|58;Nebel aus Quelltext
+Nebel;Obykan-Nebel;2|59;Nebel aus Quelltext
+Nebel;Obykan-Nebel;2|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;20|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;20|42;Nebel passierbar
 Nebel;Gularan-Nebel;20|46;Nebel aus Quelltext
@@ -2125,35 +2986,42 @@ Nebel;Gularan-Nebel;20|48;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;20|56;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;20|57;Nebel aus Quelltext
 Nebel;Kelvan-Strudel;20|58;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;3|43;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;3|44;Nebel aus Quelltext
-Nebel;Tlanek-Verhüllung;3|45;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;3|41;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;3|42;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;3|43;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;3|44;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;3|45;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;3|46;Nebel passierbar
 Nebel;Tlanek-Verhüllung;3|47;Nebel passierbar
 Nebel;Tlanek-Verhüllung;3|48;Nebel aus Quelltext
 Nebel;Zephyrdunst;3|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;3|51;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;3|52;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;3|53;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;3|54;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;3|53;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;3|54;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;3|55;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;3|56;Nebel aus Quelltext
 Nebel;Obykan-Nebel;3|59;Nebel passierbar
+Nebel;Obykan-Nebel;3|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;4|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;4|42;Nebel passierbar
-Nebel;Tlanek-Verhüllung;4|43;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;4|43;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;4|44;Nebel passierbar
-Nebel;Tlanek-Verhüllung;4|45;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;4|45;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;4|46;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;4|47;Nebel passierbar
 Nebel;Zephyrdunst;4|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;4|51;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;4|52;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;4|53;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;4|54;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;4|55;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;4|52;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;4|53;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;4|54;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;4|55;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;4|56;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;4|57;Nebel aus Quelltext
+Nebel;Obykan-Nebel;4|59;Nebel aus Quelltext
+Nebel;Obykan-Nebel;4|60;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;5|41;Nebel unpassierbar
+Nebel;Tlanek-Verhüllung;5|42;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;5|43;Nebel passierbar
 Nebel;Tlanek-Verhüllung;5|44;Nebel passierbar
 Nebel;Tlanek-Verhüllung;5|45;Nebel passierbar
@@ -2161,16 +3029,17 @@ Nebel;Tlanek-Verhüllung;5|46;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;5|47;Nebel passierbar
 Nebel;Zephyrdunst;5|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;5|50;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;5|51;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;5|52;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;5|51;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;5|52;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;5|53;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;5|54;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;5|55;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;5|56;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;5|55;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;5|56;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;5|57;Nebel aus Quelltext
 Nebel;Obykan-Nebel;5|59;Nebel aus Quelltext
 Nebel;Obykan-Nebel;5|60;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;6|41;Nebel passierbar
+Nebel;Tlanek-Verhüllung;6|42;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;6|43;Nebel passierbar
 Nebel;Tlanek-Verhüllung;6|44;Nebel passierbar
 Nebel;Tlanek-Verhüllung;6|45;Nebel passierbar
@@ -2178,11 +3047,11 @@ Nebel;Tlanek-Verhüllung;6|46;Nebel passierbar
 Nebel;Tlanek-Verhüllung;6|47;Nebel passierbar
 Nebel;Zephyrdunst;6|49;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;6|50;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;6|51;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;6|52;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;6|51;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;6|52;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;6|53;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;6|54;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;6|55;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;6|55;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;6|56;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;6|57;Nebel aus Quelltext
 Nebel;Obykan-Nebel;6|59;Nebel aus Quelltext
@@ -2193,11 +3062,11 @@ Nebel;Tlanek-Verhüllung;7|43;Nebel passierbar
 Nebel;Tlanek-Verhüllung;7|44;Nebel passierbar
 Nebel;Tlanek-Verhüllung;7|45;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;7|46;Nebel passierbar
-Nebel;Tullamore-Cragganmore-Wurmloch;7|51;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;7|52;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;7|51;Nebel unpassierbar
+Nebel;Tullamore-Cragganmore-Wurmloch;7|52;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;7|53;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;7|54;Nebel aus Quelltext
-Nebel;Tullamore-Cragganmore-Wurmloch;7|55;Nebel aus Quelltext
+Nebel;Tullamore-Cragganmore-Wurmloch;7|55;Nebel unpassierbar
 Nebel;Tullamore-Cragganmore-Wurmloch;7|56;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;7|57;Nebel aus Quelltext
 Nebel;Obykan-Nebel;7|59;Nebel aus Quelltext
@@ -2216,7 +3085,7 @@ Nebel;Obykan-Nebel;8|59;Nebel aus Quelltext
 Nebel;Obykan-Nebel;8|60;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;9|41;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;9|42;Nebel passierbar
-Nebel;Tlanek-Verhüllung;9|43;Nebel aus Quelltext
+Nebel;Tlanek-Verhüllung;9|43;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;9|44;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;9|45;Nebel aus Quelltext
 Nebel;Tullamore-Cragganmore-Wurmloch;9|52;Nebel aus Quelltext
@@ -2227,11 +3096,17 @@ Nebel;Obykan-Nebel;9|56;Nebel passierbar
 Nebel;Obykan-Nebel;9|57;Nebel passierbar
 Nebel;Obykan-Nebel;9|58;Nebel aus Quelltext
 Nebel;Obykan-Nebel;9|59;Nebel aus Quelltext
-Nebel;Obykan-Nebel;9|60;Nebel aus Quelltext
+Nebel;Obykan-Nebel;9|60;Nebel unpassierbar
 Nebel;Tlanek-Verhüllung;21|41;Nebel passierbar
 Nebel;Tlanek-Verhüllung;21|42;Nebel passierbar
 Nebel;Gularan-Nebel;21|46;Nebel aus Quelltext
+Nebel;Gularan-Nebel;21|47;Nebel aus Quelltext
+Nebel;Gularan-Nebel;21|48;Nebel aus Quelltext
+Nebel;Gularan-Nebel;21|49;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;22|41;Nebel aus Quelltext
+Nebel;Gularan-Nebel;22|47;Nebel aus Quelltext
+Nebel;Gularan-Nebel;22|48;Nebel aus Quelltext
+Nebel;Gularan-Nebel;22|49;Nebel aus Quelltext
 Nebel;Tlanek-Verhüllung;23|41;Nebel aus Quelltext
 Nebel;Gularan-Nebel;23|47;Nebel aus Quelltext
 Nebel;Gularan-Nebel;23|48;Nebel aus Quelltext
@@ -2244,11 +3119,13 @@ Nebel;Gularan-Nebel;25|49;Nebel aus Quelltext
 Nebel;Kahless Aura;26|42;Nebel aus Quelltext
 Nebel;Kahless Aura;26|43;Nebel aus Quelltext
 Nebel;Alvarezwolke;26|59;Nebel aus Quelltext
+Nebel;Alvarezwolke;26|60;Nebel aus Quelltext
 Nebel;Kahless Aura;27|41;Nebel aus Quelltext
 Nebel;Kahless Aura;27|42;Nebel aus Quelltext
 Nebel;Kahless Aura;27|43;Nebel aus Quelltext
 Nebel;Kahless Aura;27|44;Nebel aus Quelltext
 Nebel;Alvarezwolke;27|59;Nebel aus Quelltext
+Nebel;Alvarezwolke;27|60;Nebel aus Quelltext
 Nebel;Kahless Aura;28|41;Nebel aus Quelltext
 Nebel;Kahless Aura;28|42;Nebel aus Quelltext
 Nebel;Kahless Aura;28|43;Nebel aus Quelltext
@@ -2281,6 +3158,7 @@ Nebel;Alvarezwolke;30|60;Nebel aus Quelltext
 Nebel;Kahless Aura;31|41;Nebel aus Quelltext
 Nebel;Kahless Aura;31|42;Nebel aus Quelltext
 Nebel;Kahless Aura;31|43;Nebel aus Quelltext
+Nebel;Kortar-Nebel;31|53;Nebel aus Quelltext
 Nebel;Kortar-Nebel;31|54;Nebel aus Quelltext
 Nebel;Kortar-Nebel;31|55;Nebel passierbar
 Nebel;Kortar-Nebel;31|56;Nebel passierbar
@@ -2317,30 +3195,31 @@ Nebel;Kortar-Nebel;35|52;Nebel passierbar
 Nebel;Kortar-Nebel;35|53;Nebel aus Quelltext
 Nebel;Kortar-Nebel;35|54;Nebel aus Quelltext
 Nebel;Kortar-Nebel;35|55;Nebel passierbar
-Nebel;Kortar-Nebel;35|56;Nebel aus Quelltext
-Nebel;Kortar-Nebel;35|57;Nebel aus Quelltext
-Nebel;Kortar-Nebel;35|58;Nebel aus Quelltext
+Nebel;Kortar-Nebel;35|56;Nebel unpassierbar
+Nebel;Kortar-Nebel;35|57;Nebel unpassierbar
+Nebel;Kortar-Nebel;35|58;Nebel unpassierbar
 Nebel;Kortar-Nebel;35|59;Nebel unpassierbar
 Nebel;Kortar-Nebel;35|60;Nebel passierbar
 Nebel;Kortar-Nebel;36|51;Nebel aus Quelltext
 Nebel;Kortar-Nebel;36|52;Nebel passierbar
 Nebel;Kortar-Nebel;36|53;Nebel passierbar
 Nebel;Kortar-Nebel;36|54;Nebel aus Quelltext
-Nebel;Kortar-Nebel;36|55;Nebel aus Quelltext
-Nebel;Kortar-Nebel;36|56;Nebel aus Quelltext
-Nebel;Kortar-Nebel;36|57;Nebel aus Quelltext
-Nebel;Kortar-Nebel;36|58;Nebel aus Quelltext
+Nebel;Kortar-Nebel;36|55;Nebel unpassierbar
+Nebel;Kortar-Nebel;36|56;Nebel unpassierbar
+Nebel;Kortar-Nebel;36|57;Nebel unpassierbar
+Nebel;Kortar-Nebel;36|58;Nebel unpassierbar
 Nebel;Kortar-Nebel;36|59;Nebel unpassierbar
 Nebel;Kortar-Nebel;36|60;Nebel passierbar
 Nebel;Kortar-Nebel;37|50;Nebel passierbar
 Nebel;Kortar-Nebel;37|51;Nebel aus Quelltext
 Nebel;Kortar-Nebel;37|52;Nebel passierbar
 Nebel;Kortar-Nebel;37|53;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|54;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|55;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|56;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|57;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|58;Nebel aus Quelltext
+Nebel;Kortar-Nebel;37|54;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|55;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|56;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|57;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|58;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|59;Nebel unpassierbar
 Nebel;Kortar-Nebel;37|60;Nebel unpassierbar
 Nebel;Okanaganschleier;38|42;Nebel aus Quelltext
 Nebel;Okanaganschleier;38|43;Nebel passierbar
@@ -2352,10 +3231,10 @@ Nebel;Kortar-Nebel;38|52;Nebel aus Quelltext
 Nebel;Kortar-Nebel;38|53;Nebel passierbar
 Nebel;Kortar-Nebel;38|54;Nebel aus Quelltext
 Nebel;Kortar-Nebel;38|55;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|56;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|57;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|58;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|59;Nebel aus Quelltext
+Nebel;Kortar-Nebel;38|56;Nebel unpassierbar
+Nebel;Kortar-Nebel;38|57;Nebel unpassierbar
+Nebel;Kortar-Nebel;38|58;Nebel unpassierbar
+Nebel;Kortar-Nebel;38|59;Nebel unpassierbar
 Nebel;Kortar-Nebel;38|60;Nebel passierbar
 Nebel;Okanaganschleier;39|42;Nebel aus Quelltext
 Nebel;Okanaganschleier;39|43;Nebel aus Quelltext
@@ -2389,6 +3268,8 @@ Nebel;Kortar-Nebel;40|58;Nebel passierbar
 Nebel;Kortar-Nebel;40|59;Nebel passierbar
 Nebel;Kortar-Nebel;40|60;Nebel passierbar
 Nebel;Okanaganschleier;41|41;Nebel aus Quelltext
+Nebel;Okanaganschleier;41|42;Nebel aus Quelltext
+Nebel;Okanaganschleier;41|43;Nebel aus Quelltext
 Nebel;Okanaganschleier;41|44;Nebel aus Quelltext
 Nebel;Okanaganschleier;41|45;Nebel aus Quelltext
 Nebel;TPels Umarmung;41|50;Nebel aus Quelltext
@@ -2402,6 +3283,8 @@ Nebel;Kortar-Nebel;41|57;Nebel passierbar
 Nebel;Kortar-Nebel;41|58;Nebel aus Quelltext
 Nebel;Kortar-Nebel;41|59;Nebel passierbar
 Nebel;Kortar-Nebel;41|60;Nebel aus Quelltext
+Nebel;Okanaganschleier;42|42;Nebel aus Quelltext
+Nebel;Okanaganschleier;42|43;Nebel aus Quelltext
 Nebel;Okanaganschleier;42|44;Nebel aus Quelltext
 Nebel;Okanaganschleier;42|45;Nebel passierbar
 Nebel;TPels Umarmung;42|49;Nebel aus Quelltext
@@ -2449,8 +3332,8 @@ Nebel;TPels Umarmung;45|47;Nebel aus Quelltext
 Nebel;TPels Umarmung;45|48;Nebel aus Quelltext
 Nebel;TPels Umarmung;45|49;Nebel aus Quelltext
 Nebel;TPels Umarmung;45|50;Nebel passierbar
-Nebel;TPels Umarmung;45|51;Nebel aus Quelltext
-Nebel;TPels Umarmung;45|52;Nebel aus Quelltext
+Nebel;TPels Umarmung;45|51;Nebel unpassierbar
+Nebel;TPels Umarmung;45|52;Nebel unpassierbar
 Nebel;TPels Umarmung;45|53;Nebel aus Quelltext
 Nebel;TPels Umarmung;45|54;Nebel aus Quelltext
 Nebel;TPels Umarmung;45|55;Nebel aus Quelltext
@@ -2461,9 +3344,9 @@ Nebel;TPels Umarmung;45|59;Nebel aus Quelltext
 Nebel;TPels Umarmung;46|47;Nebel aus Quelltext
 Nebel;TPels Umarmung;46|48;Nebel aus Quelltext
 Nebel;TPels Umarmung;46|49;Nebel aus Quelltext
-Nebel;TPels Umarmung;46|50;Nebel aus Quelltext
-Nebel;TPels Umarmung;46|51;Nebel aus Quelltext
-Nebel;TPels Umarmung;46|52;Nebel aus Quelltext
+Nebel;TPels Umarmung;46|50;Nebel unpassierbar
+Nebel;TPels Umarmung;46|51;Nebel unpassierbar
+Nebel;TPels Umarmung;46|52;Nebel unpassierbar
 Nebel;TPels Umarmung;46|53;Nebel aus Quelltext
 Nebel;TPels Umarmung;46|54;Nebel aus Quelltext
 Nebel;TPels Umarmung;46|55;Nebel passierbar
@@ -2525,7 +3408,7 @@ Nebel;TPels Umarmung;50|50;Nebel aus Quelltext
 Nebel;TPels Umarmung;50|51;Nebel aus Quelltext
 Nebel;TPels Umarmung;50|52;Nebel aus Quelltext
 Nebel;TPels Umarmung;50|53;Nebel aus Quelltext
-Nebel;TPels Umarmung;50|54;Nebel aus Quelltext
+Nebel;TPels Umarmung;50|54;Nebel unpassierbar
 Nebel;TPels Umarmung;50|55;Nebel aus Quelltext
 Nebel;TPels Umarmung;50|56;Nebel aus Quelltext
 Nebel;TPels Umarmung;50|57;Nebel aus Quelltext
@@ -2539,9 +3422,9 @@ Nebel;TPels Umarmung;51|47;Nebel unpassierbar
 Nebel;TPels Umarmung;51|48;Nebel aus Quelltext
 Nebel;TPels Umarmung;51|49;Nebel passierbar
 Nebel;TPels Umarmung;51|50;Nebel aus Quelltext
-Nebel;TPels Umarmung;51|51;Nebel aus Quelltext
-Nebel;TPels Umarmung;51|52;Nebel aus Quelltext
-Nebel;TPels Umarmung;51|53;Nebel aus Quelltext
+Nebel;TPels Umarmung;51|51;Nebel unpassierbar
+Nebel;TPels Umarmung;51|52;Nebel unpassierbar
+Nebel;TPels Umarmung;51|53;Nebel unpassierbar
 Nebel;TPels Umarmung;51|54;Nebel passierbar
 Nebel;TPels Umarmung;51|55;Nebel passierbar
 Nebel;TPels Umarmung;51|56;Nebel passierbar
@@ -2554,8 +3437,8 @@ Nebel;TPels Umarmung;52|46;Nebel unpassierbar
 Nebel;TPels Umarmung;52|47;Nebel aus Quelltext
 Nebel;TPels Umarmung;52|48;Nebel aus Quelltext
 Nebel;TPels Umarmung;52|49;Nebel unpassierbar
-Nebel;TPels Umarmung;52|50;Nebel aus Quelltext
-Nebel;TPels Umarmung;52|51;Nebel aus Quelltext
+Nebel;TPels Umarmung;52|50;Nebel unpassierbar
+Nebel;TPels Umarmung;52|51;Nebel unpassierbar
 Nebel;TPels Umarmung;52|52;Nebel aus Quelltext
 Nebel;TPels Umarmung;52|53;Nebel passierbar
 Nebel;TPels Umarmung;52|54;Nebel aus Quelltext
@@ -2814,6 +3697,7 @@ Nebel;Sponge-Wolke;80|60;Nebel passierbar
 Nebel;Cousteauschleier;100|51;Nebel passierbar
 Nebel;Cousteauschleier;100|52;Nebel aus Quelltext
 Nebel;Cousteauschleier;100|57;Nebel aus Quelltext
+Nebel;Cousteauschleier;100|58;Nebel aus Quelltext
 Nebel;Cousteauschleier;100|59;Nebel passierbar
 Nebel;Crabs-Wirbel;81|41;Nebel passierbar
 Nebel;Crabs-Wirbel;81|42;Nebel passierbar
@@ -2989,29 +3873,32 @@ Nebel;Sponge-Wolke;95|60;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|41;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;96|42;Nebel aus Quelltext
 Nebel;Cousteauschleier;96|49;Nebel passierbar
-Nebel;Cousteauschleier;96|50;Nebel aus Quelltext
-Nebel;Cousteauschleier;96|51;Nebel aus Quelltext
-Nebel;Cousteauschleier;96|52;Nebel aus Quelltext
-Nebel;Cousteauschleier;96|53;Nebel aus Quelltext
+Nebel;Cousteauschleier;96|50;Nebel unpassierbar
+Nebel;Cousteauschleier;96|51;Nebel unpassierbar
+Nebel;Cousteauschleier;96|52;Nebel unpassierbar
+Nebel;Cousteauschleier;96|53;Nebel unpassierbar
 Nebel;Sponge-Wolke;96|60;Nebel aus Quelltext
 Nebel;Crabs-Wirbel;97|41;Nebel aus Quelltext
 Nebel;Cousteauschleier;97|49;Nebel passierbar
 Nebel;Cousteauschleier;97|50;Nebel aus Quelltext
-Nebel;Cousteauschleier;97|51;Nebel aus Quelltext
-Nebel;Cousteauschleier;97|52;Nebel aus Quelltext
-Nebel;Cousteauschleier;97|53;Nebel aus Quelltext
+Nebel;Cousteauschleier;97|51;Nebel unpassierbar
+Nebel;Cousteauschleier;97|52;Nebel unpassierbar
+Nebel;Cousteauschleier;97|53;Nebel unpassierbar
 Nebel;Cousteauschleier;97|54;Nebel aus Quelltext
-Nebel;Cousteauschleier;98|51;Nebel aus Quelltext
-Nebel;Cousteauschleier;98|52;Nebel aus Quelltext
-Nebel;Cousteauschleier;98|53;Nebel aus Quelltext
+Nebel;Cousteauschleier;98|51;Nebel unpassierbar
+Nebel;Cousteauschleier;98|52;Nebel unpassierbar
+Nebel;Cousteauschleier;98|53;Nebel unpassierbar
 Nebel;Cousteauschleier;98|54;Nebel aus Quelltext
 Nebel;Cousteauschleier;98|55;Nebel aus Quelltext
 Nebel;Cousteauschleier;98|56;Nebel aus Quelltext
 Nebel;Cousteauschleier;98|57;Nebel aus Quelltext
+Nebel;Cousteauschleier;98|58;Nebel aus Quelltext
 Nebel;Cousteauschleier;99|51;Nebel aus Quelltext
-Nebel;Cousteauschleier;99|52;Nebel aus Quelltext
+Nebel;Cousteauschleier;99|52;Nebel unpassierbar
 Nebel;Cousteauschleier;99|56;Nebel aus Quelltext
 Nebel;Cousteauschleier;99|57;Nebel aus Quelltext
+Nebel;Cousteauschleier;99|58;Nebel aus Quelltext
+Nebel;Cousteauschleier;99|59;Nebel aus Quelltext
 Nebel;Cousteauschleier;101|51;Nebel aus Quelltext
 Nebel;Cousteauschleier;101|52;Nebel passierbar
 Nebel;Cousteauschleier;101|58;Nebel passierbar
@@ -3028,21 +3915,51 @@ Nebel;Auriganebel;104|44;Nebel aus Quelltext
 Nebel;Auriganebel;104|47;Nebel passierbar
 Nebel;Auriganebel;104|48;Nebel aus Quelltext
 Nebel;Auriganebel;104|49;Nebel aus Quelltext
+Nebel;Auriganebel;105|41;Nebel aus Quelltext
+Nebel;Auriganebel;105|42;Nebel aus Quelltext
+Nebel;Auriganebel;105|43;Nebel aus Quelltext
+Nebel;Auriganebel;105|44;Nebel aus Quelltext
+Nebel;Auriganebel;105|45;Nebel aus Quelltext
+Nebel;Auriganebel;105|46;Nebel aus Quelltext
+Nebel;Auriganebel;105|47;Nebel aus Quelltext
+Nebel;Auriganebel;105|48;Nebel aus Quelltext
+Nebel;Auriganebel;105|49;Nebel aus Quelltext
 Nebel;Auriganebel;105|50;Nebel passierbar
 Nebel;Auriganebel;106|41;Nebel passierbar
+Nebel;Auriganebel;106|42;Nebel aus Quelltext
 Nebel;Auriganebel;106|43;Nebel passierbar
+Nebel;Auriganebel;106|44;Nebel aus Quelltext
+Nebel;Auriganebel;106|45;Nebel aus Quelltext
+Nebel;Auriganebel;106|46;Nebel aus Quelltext
 Nebel;Auriganebel;106|47;Nebel passierbar
+Nebel;Auriganebel;106|48;Nebel aus Quelltext
 Nebel;Auriganebel;106|49;Nebel unpassierbar
 Nebel;Auriganebel;106|50;Nebel passierbar
+Nebel;Auriganebel;107|41;Nebel aus Quelltext
+Nebel;Auriganebel;107|42;Nebel aus Quelltext
+Nebel;Auriganebel;107|43;Nebel aus Quelltext
+Nebel;Auriganebel;107|44;Nebel aus Quelltext
+Nebel;Auriganebel;107|45;Nebel aus Quelltext
+Nebel;Auriganebel;107|46;Nebel aus Quelltext
 Nebel;Auriganebel;107|47;Nebel passierbar
+Nebel;Auriganebel;107|48;Nebel aus Quelltext
 Nebel;Auriganebel;107|49;Nebel unpassierbar
+Nebel;Auriganebel;107|50;Nebel aus Quelltext
 Nebel;Auriganebel;107|51;Nebel passierbar
 Nebel;Auriganebel;107|53;Nebel aus Quelltext
 Nebel;Auriganebel;107|54;Nebel aus Quelltext
 Nebel;Auriganebel;107|55;Nebel passierbar
 Nebel;Auriganebel;108|41;Nebel passierbar
+Nebel;Auriganebel;108|42;Nebel aus Quelltext
+Nebel;Auriganebel;108|43;Nebel aus Quelltext
+Nebel;Auriganebel;108|44;Nebel aus Quelltext
 Nebel;Auriganebel;108|45;Nebel passierbar
+Nebel;Auriganebel;108|46;Nebel aus Quelltext
+Nebel;Auriganebel;108|47;Nebel aus Quelltext
+Nebel;Auriganebel;108|48;Nebel aus Quelltext
 Nebel;Auriganebel;108|49;Nebel unpassierbar
+Nebel;Auriganebel;108|50;Nebel aus Quelltext
+Nebel;Auriganebel;108|51;Nebel aus Quelltext
 Nebel;Auriganebel;108|52;Nebel aus Quelltext
 Nebel;Auriganebel;108|53;Nebel aus Quelltext
 Nebel;Auriganebel;108|54;Nebel aus Quelltext
@@ -3053,27 +3970,38 @@ Nebel;Auriganebel;108|58;Nebel aus Quelltext
 Nebel;Auriganebel;108|59;Nebel aus Quelltext
 Nebel;Auriganebel;108|60;Nebel aus Quelltext
 Nebel;Auriganebel;109|41;Nebel passierbar
+Nebel;Auriganebel;109|42;Nebel aus Quelltext
 Nebel;Auriganebel;109|43;Nebel passierbar
+Nebel;Auriganebel;109|44;Nebel aus Quelltext
 Nebel;Auriganebel;109|45;Nebel passierbar
+Nebel;Auriganebel;109|46;Nebel aus Quelltext
+Nebel;Auriganebel;109|47;Nebel aus Quelltext
+Nebel;Auriganebel;109|48;Nebel aus Quelltext
+Nebel;Auriganebel;109|49;Nebel aus Quelltext
+Nebel;Auriganebel;109|50;Nebel aus Quelltext
 Nebel;Auriganebel;109|51;Nebel passierbar
 Nebel;Auriganebel;109|52;Nebel aus Quelltext
 Nebel;Auriganebel;109|53;Nebel aus Quelltext
 Nebel;Auriganebel;109|54;Nebel aus Quelltext
-Nebel;Auriganebel;109|55;Nebel aus Quelltext
+Nebel;Auriganebel;109|55;Nebel unpassierbar
 Nebel;Auriganebel;109|56;Nebel aus Quelltext
 Nebel;Auriganebel;109|57;Nebel aus Quelltext
 Nebel;Auriga-Nebel;109|58;Nebel passierbar
 Nebel;Auriga-Nebel;109|59;Nebel passierbar
 Nebel;Auriganebel;109|60;Nebel passierbar
+Nebel;Auriganebel;110|41;Nebel aus Quelltext
 Nebel;Auriganebel;110|42;Nebel passierbar
 Nebel;Auriganebel;110|43;Nebel unpassierbar
 Nebel;Auriganebel;110|44;Nebel unpassierbar
 Nebel;Auriganebel;110|45;Nebel unpassierbar
 Nebel;Auriganebel;110|46;Nebel passierbar
+Nebel;Auriganebel;110|47;Nebel aus Quelltext
 Nebel;Auriganebel;110|48;Nebel unpassierbar
+Nebel;Auriganebel;110|49;Nebel aus Quelltext
 Nebel;Auriganebel;110|50;Nebel passierbar
+Nebel;Auriganebel;110|51;Nebel aus Quelltext
 Nebel;Auriganebel;110|52;Nebel aus Quelltext
-Nebel;Auriganebel;110|53;Nebel aus Quelltext
+Nebel;Auriganebel;110|53;Nebel unpassierbar
 Nebel;Auriganebel;110|54;Nebel aus Quelltext
 Nebel;Auriganebel;110|55;Nebel passierbar
 Nebel;Auriganebel;110|56;Nebel aus Quelltext
@@ -3081,13 +4009,17 @@ Nebel;Auriganebel;110|57;Nebel aus Quelltext
 Nebel;Auriganebel;110|59;Nebel aus Quelltext
 Nebel;Auriganebel;110|60;Nebel passierbar
 Nebel;Auriganebel;111|41;Nebel passierbar
+Nebel;Auriganebel;111|42;Nebel aus Quelltext
 Nebel;Auriganebel;111|43;Nebel unpassierbar
 Nebel;Auriganebel;111|44;Nebel passierbar
 Nebel;Auriganebel;111|45;Nebel unpassierbar
+Nebel;Auriganebel;111|46;Nebel aus Quelltext
 Nebel;Auriganebel;111|47;Nebel unpassierbar
 Nebel;Auriganebel;111|48;Nebel unpassierbar
 Nebel;Auriganebel;111|49;Nebel unpassierbar
-Nebel;Auriganebel;111|52;Nebel aus Quelltext
+Nebel;Auriganebel;111|50;Nebel unpassierbar
+Nebel;Auriganebel;111|51;Nebel unpassierbar
+Nebel;Auriganebel;111|52;Nebel unpassierbar
 Nebel;Auriganebel;111|53;Nebel aus Quelltext
 Nebel;Auriganebel;111|54;Nebel passierbar
 Nebel;Auriganebel;111|55;Nebel passierbar
@@ -3105,7 +4037,9 @@ Nebel;Auriganebel;112|46;Nebel aus Quelltext
 Nebel;Auriganebel;112|47;Nebel unpassierbar
 Nebel;Auriganebel;112|48;Nebel unpassierbar
 Nebel;Auriganebel;112|49;Nebel unpassierbar
-Nebel;Auriganebel;112|52;Nebel aus Quelltext
+Nebel;Auriganebel;112|50;Nebel unpassierbar
+Nebel;Auriganebel;112|51;Nebel unpassierbar
+Nebel;Auriganebel;112|52;Nebel unpassierbar
 Nebel;Auriganebel;112|53;Nebel aus Quelltext
 Nebel;Auriganebel;112|54;Nebel aus Quelltext
 Nebel;Auriganebel;112|55;Nebel passierbar
@@ -3123,7 +4057,7 @@ Nebel;Auriganebel;113|46;Nebel aus Quelltext
 Nebel;Auriganebel;113|47;Nebel unpassierbar
 Nebel;Auriganebel;113|48;Nebel unpassierbar
 Nebel;Auriganebel;113|49;Nebel unpassierbar
-Nebel;Auriganebel;113|50;Nebel aus Quelltext
+Nebel;Auriganebel;113|50;Nebel unpassierbar
 Nebel;Auriganebel;113|51;Nebel passierbar
 Nebel;Auriganebel;113|52;Nebel aus Quelltext
 Nebel;Auriganebel;113|53;Nebel aus Quelltext
@@ -3143,7 +4077,7 @@ Nebel;Auriganebel;114|46;Nebel aus Quelltext
 Nebel;Auriganebel;114|47;Nebel unpassierbar
 Nebel;Auriganebel;114|48;Nebel unpassierbar
 Nebel;Auriganebel;114|49;Nebel unpassierbar
-Nebel;Auriganebel;114|50;Nebel aus Quelltext
+Nebel;Auriganebel;114|50;Nebel unpassierbar
 Nebel;Auriganebel;114|51;Nebel aus Quelltext
 Nebel;Auriganebel;114|52;Nebel aus Quelltext
 Nebel;Auriganebel;114|53;Nebel aus Quelltext
@@ -3172,6 +4106,8 @@ Nebel;Auriganebel;115|55;Nebel passierbar
 Nebel;Auriganebel;115|56;Nebel aus Quelltext
 Nebel;Auriganebel;115|57;Nebel passierbar
 Nebel;Auriga-Nebel;115|58;Nebel passierbar
+Nebel;Auriganebel;115|59;Nebel aus Quelltext
+Nebel;Auriganebel;115|60;Nebel aus Quelltext
 Nebel;Auriganebel;116|41;Nebel aus Quelltext
 Nebel;Auriganebel;116|42;Nebel aus Quelltext
 Nebel;Auriganebel;116|43;Nebel aus Quelltext
@@ -3190,6 +4126,7 @@ Nebel;Auriga-Nebel;116|56;Nebel passierbar
 Nebel;Auriga-Nebel;116|57;Nebel passierbar
 Nebel;Auriga-Nebel;116|58;Nebel passierbar
 Nebel;Auriganebel;116|59;Nebel passierbar
+Nebel;Auriganebel;116|60;Nebel unpassierbar
 Nebel;Auriganebel;117|41;Nebel passierbar
 Nebel;Auriganebel;117|42;Nebel aus Quelltext
 Nebel;Auriganebel;117|43;Nebel aus Quelltext
@@ -3208,6 +4145,8 @@ Nebel;Auriganebel;117|55;Nebel passierbar
 Nebel;Auriganebel;117|56;Nebel aus Quelltext
 Nebel;Auriganebel;117|57;Nebel aus Quelltext
 Nebel;Auriganebel;117|58;Nebel aus Quelltext
+Nebel;Auriganebel;117|59;Nebel aus Quelltext
+Nebel;Auriganebel;117|60;Nebel unpassierbar
 Nebel;Auriganebel;118|41;Nebel aus Quelltext
 Nebel;Auriganebel;118|42;Nebel aus Quelltext
 Nebel;Auriganebel;118|43;Nebel passierbar
@@ -3227,6 +4166,7 @@ Nebel;Auriganebel;118|56;Nebel aus Quelltext
 Nebel;Auriganebel;118|57;Nebel aus Quelltext
 Nebel;Auriganebel;118|58;Nebel aus Quelltext
 Nebel;Auriganebel;118|59;Nebel passierbar
+Nebel;Auriganebel;118|60;Nebel unpassierbar
 Nebel;Auriganebel;119|41;Nebel aus Quelltext
 Nebel;Auriganebel;119|42;Nebel aus Quelltext
 Nebel;Auriganebel;119|43;Nebel aus Quelltext
@@ -3236,15 +4176,17 @@ Nebel;Auriganebel;119|46;Nebel unpassierbar
 Nebel;Auriganebel;119|47;Nebel unpassierbar
 Nebel;Auriganebel;119|48;Nebel aus Quelltext
 Nebel;Auriganebel;119|49;Nebel unpassierbar
-Nebel;Auriganebel;119|50;Nebel aus Quelltext
-Nebel;Auriganebel;119|51;Nebel aus Quelltext
+Nebel;Auriganebel;119|50;Nebel unpassierbar
+Nebel;Auriganebel;119|51;Nebel unpassierbar
 Nebel;Auriganebel;119|52;Nebel passierbar
 Nebel;Auriganebel;119|53;Nebel aus Quelltext
 Nebel;Auriganebel;119|54;Nebel aus Quelltext
-Nebel;Auriganebel;119|55;Nebel aus Quelltext
-Nebel;Auriganebel;119|56;Nebel aus Quelltext
-Nebel;Auriganebel;119|57;Nebel aus Quelltext
+Nebel;Auriganebel;119|55;Nebel unpassierbar
+Nebel;Auriganebel;119|56;Nebel unpassierbar
+Nebel;Auriganebel;119|57;Nebel unpassierbar
 Nebel;Auriganebel;119|58;Nebel aus Quelltext
+Nebel;Auriganebel;119|59;Nebel unpassierbar
+Nebel;Auriganebel;119|60;Nebel unpassierbar
 Nebel;Auriganebel;120|41;Nebel aus Quelltext
 Nebel;Auriganebel;120|42;Nebel aus Quelltext
 Nebel;Auriganebel;120|43;Nebel aus Quelltext
@@ -3254,15 +4196,23 @@ Nebel;Auriganebel;120|46;Nebel aus Quelltext
 Nebel;Auriganebel;120|47;Nebel unpassierbar
 Nebel;Auriganebel;120|48;Nebel aus Quelltext
 Nebel;Auriganebel;120|49;Nebel aus Quelltext
-Nebel;Auriganebel;120|50;Nebel aus Quelltext
-Nebel;Auriganebel;120|51;Nebel aus Quelltext
-Nebel;Auriganebel;120|52;Nebel aus Quelltext
-Nebel;Auriganebel;120|53;Nebel aus Quelltext
+Nebel;Auriganebel;120|50;Nebel unpassierbar
+Nebel;Auriganebel;120|51;Nebel unpassierbar
+Nebel;Auriganebel;120|52;Nebel unpassierbar
+Nebel;Auriganebel;120|53;Nebel unpassierbar
+Nebel;Auriganebel;120|54;Nebel unpassierbar
+Nebel;Auriganebel;120|55;Nebel unpassierbar
+Nebel;Auriganebel;120|56;Nebel unpassierbar
+Nebel;Auriganebel;120|57;Nebel unpassierbar
+Nebel;Auriganebel;120|58;Nebel unpassierbar
+Nebel;Auriganebel;120|59;Nebel unpassierbar
+Nebel;Auriganebel;120|60;Nebel unpassierbar
 Nebel;Obykan-Nebel;1|61;Nebel aus Quelltext
 Nebel;Obykan-Nebel;1|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;1|63;Nebel aus Quelltext
 Nebel;Zartonianische-Wolke;1|79;Nebel aus Quelltext
 Nebel;Zartonianische-Wolke;1|80;Nebel aus Quelltext
+Nebel;Obykan-Nebel;10|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;10|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;10|63;Nebel aus Quelltext
 Nebel;Obykan-Nebel;10|64;Nebel passierbar
@@ -3275,7 +4225,8 @@ Nebel;Obykan-Nebel;10|70;Nebel aus Quelltext
 Nebel;Obykan-Nebel;10|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;10|72;Nebel passierbar
 Nebel;Obykan-Nebel;10|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;11|62;Nebel aus Quelltext
+Nebel;Obykan-Nebel;11|61;Nebel unpassierbar
+Nebel;Obykan-Nebel;11|62;Nebel unpassierbar
 Nebel;Obykan-Nebel;11|63;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|64;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|65;Nebel passierbar
@@ -3292,14 +4243,15 @@ Nebel;Obykan-Nebel;11|75;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|76;Nebel aus Quelltext
 Nebel;Obykan-Nebel;11|77;Nebel passierbar
 Nebel;Obykan-Nebel;11|78;Nebel aus Quelltext
-Nebel;Obykan-Nebel;12|62;Nebel aus Quelltext
-Nebel;Obykan-Nebel;12|63;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|61;Nebel unpassierbar
+Nebel;Obykan-Nebel;12|62;Nebel unpassierbar
+Nebel;Obykan-Nebel;12|63;Nebel unpassierbar
 Nebel;Obykan-Nebel;12|64;Nebel aus Quelltext
-Nebel;Obykan-Nebel;12|65;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|65;Nebel unpassierbar
 Nebel;Obykan-Nebel;12|66;Nebel passierbar
-Nebel;Obykan-Nebel;12|67;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|67;Nebel unpassierbar
 Nebel;Obykan-Nebel;12|68;Nebel aus Quelltext
-Nebel;Obykan-Nebel;12|69;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|69;Nebel unpassierbar
 Nebel;Obykan-Nebel;12|70;Nebel passierbar
 Nebel;Obykan-Nebel;12|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|72;Nebel passierbar
@@ -3307,118 +4259,146 @@ Nebel;Obykan-Nebel;12|73;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|74;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|75;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|76;Nebel passierbar
-Nebel;Obykan-Nebel;12|77;Nebel aus Quelltext
+Nebel;Obykan-Nebel;12|77;Nebel unpassierbar
 Nebel;Obykan-Nebel;12|78;Nebel aus Quelltext
 Nebel;Obykan-Nebel;12|79;Nebel aus Quelltext
+Nebel;Obykan-Nebel;13|61;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|62;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|63;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|64;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|65;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|66;Nebel passierbar
 Nebel;Obykan-Nebel;13|67;Nebel passierbar
-Nebel;Obykan-Nebel;13|68;Nebel aus Quelltext
-Nebel;Obykan-Nebel;13|69;Nebel aus Quelltext
+Nebel;Obykan-Nebel;13|68;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|69;Nebel unpassierbar
 Nebel;Obykan-Nebel;13|70;Nebel passierbar
 Nebel;Obykan-Nebel;13|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|72;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|73;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;13|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;13|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;13|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;13|78;Nebel aus Quelltext
+Nebel;Obykan-Nebel;13|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;13|78;Nebel unpassierbar
 Nebel;Obykan-Nebel;13|79;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|80;Nebel passierbar
+Nebel;Obykan-Nebel;14|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|62;Nebel unpassierbar
+Nebel;Obykan-Nebel;14|63;Nebel unpassierbar
+Nebel;Obykan-Nebel;14|64;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|65;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|66;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|67;Nebel passierbar
-Nebel;Obykan-Nebel;14|68;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|68;Nebel unpassierbar
 Nebel;Obykan-Nebel;14|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|70;Nebel passierbar
 Nebel;Obykan-Nebel;14|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|72;Nebel passierbar
 Nebel;Obykan-Nebel;14|73;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;14|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;14|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;14|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;14|78;Nebel aus Quelltext
+Nebel;Obykan-Nebel;14|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;14|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;14|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;14|78;Nebel unpassierbar
 Nebel;Obykan-Nebel;14|79;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|80;Nebel passierbar
+Nebel;Obykan-Nebel;15|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;15|62;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|63;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|64;Nebel aus Quelltext
+Nebel;Obykan-Nebel;15|65;Nebel aus Quelltext
+Nebel;Obykan-Nebel;15|66;Nebel unpassierbar
 Nebel;Obykan-Nebel;15|67;Nebel aus Quelltext
 Nebel;Obykan-Nebel;15|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;15|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;15|70;Nebel passierbar
 Nebel;Obykan-Nebel;15|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;15|72;Nebel passierbar
-Nebel;Obykan-Nebel;15|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|78;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|79;Nebel aus Quelltext
-Nebel;Obykan-Nebel;15|80;Nebel aus Quelltext
+Nebel;Obykan-Nebel;15|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|78;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|79;Nebel unpassierbar
+Nebel;Obykan-Nebel;15|80;Nebel unpassierbar
 Nebel;Obykan-Nebel;16|61;Nebel passierbar
+Nebel;Obykan-Nebel;16|62;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|63;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|64;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|65;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|66;Nebel unpassierbar
 Nebel;Obykan-Nebel;16|67;Nebel aus Quelltext
 Nebel;Obykan-Nebel;16|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;16|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;16|70;Nebel passierbar
 Nebel;Obykan-Nebel;16|71;Nebel passierbar
 Nebel;Obykan-Nebel;16|72;Nebel passierbar
-Nebel;Obykan-Nebel;16|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|79;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|80;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|78;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|79;Nebel unpassierbar
+Nebel;Obykan-Nebel;16|80;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;17|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;17|63;Nebel passierbar
-Nebel;Obykan-Nebel;17|67;Nebel aus Quelltext
+Nebel;Obykan-Nebel;17|64;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|65;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|66;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|67;Nebel unpassierbar
 Nebel;Obykan-Nebel;17|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;17|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;17|70;Nebel aus Quelltext
 Nebel;Obykan-Nebel;17|71;Nebel passierbar
 Nebel;Obykan-Nebel;17|72;Nebel unpassierbar
-Nebel;Obykan-Nebel;17|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|78;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|79;Nebel aus Quelltext
-Nebel;Obykan-Nebel;17|80;Nebel aus Quelltext
+Nebel;Obykan-Nebel;17|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|78;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|79;Nebel unpassierbar
+Nebel;Obykan-Nebel;17|80;Nebel unpassierbar
 Nebel;Obykan-Nebel;18|61;Nebel passierbar
 Nebel;Obykan-Nebel;18|62;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|63;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|64;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|65;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|66;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|67;Nebel aus Quelltext
+Nebel;Obykan-Nebel;18|63;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|64;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|65;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|66;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|67;Nebel unpassierbar
 Nebel;Obykan-Nebel;18|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;18|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;18|70;Nebel passierbar
 Nebel;Obykan-Nebel;18|71;Nebel passierbar
-Nebel;Obykan-Nebel;18|72;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|78;Nebel aus Quelltext
-Nebel;Obykan-Nebel;18|79;Nebel aus Quelltext
+Nebel;Obykan-Nebel;18|72;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|78;Nebel unpassierbar
+Nebel;Obykan-Nebel;18|79;Nebel unpassierbar
 Nebel;Obykan-Nebel;18|80;Nebel aus Quelltext
 Nebel;Obykan-Nebel;19|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;19|63;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|64;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|65;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|66;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|67;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|68;Nebel aus Quelltext
+Nebel;Obykan-Nebel;19|64;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|65;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|66;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|67;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|68;Nebel unpassierbar
 Nebel;Obykan-Nebel;19|69;Nebel passierbar
 Nebel;Obykan-Nebel;19|70;Nebel passierbar
 Nebel;Obykan-Nebel;19|71;Nebel unpassierbar
-Nebel;Obykan-Nebel;19|72;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|75;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|76;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|77;Nebel aus Quelltext
-Nebel;Obykan-Nebel;19|78;Nebel aus Quelltext
+Nebel;Obykan-Nebel;19|72;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|75;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|76;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|77;Nebel unpassierbar
+Nebel;Obykan-Nebel;19|78;Nebel unpassierbar
 Nebel;Obykan-Nebel;19|79;Nebel aus Quelltext
 Nebel;Obykan-Nebel;19|80;Nebel aus Quelltext
 Nebel;Obykan-Nebel;2|61;Nebel passierbar
@@ -3432,15 +4412,15 @@ Nebel;Obykan-Nebel;20|63;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|64;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|65;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|66;Nebel passierbar
-Nebel;Obykan-Nebel;20|67;Nebel aus Quelltext
-Nebel;Obykan-Nebel;20|68;Nebel aus Quelltext
+Nebel;Obykan-Nebel;20|67;Nebel unpassierbar
+Nebel;Obykan-Nebel;20|68;Nebel unpassierbar
 Nebel;Obykan-Nebel;20|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|70;Nebel passierbar
 Nebel;Obykan-Nebel;20|71;Nebel passierbar
 Nebel;Obykan-Nebel;20|72;Nebel unpassierbar
-Nebel;Obykan-Nebel;20|73;Nebel aus Quelltext
-Nebel;Obykan-Nebel;20|74;Nebel aus Quelltext
-Nebel;Obykan-Nebel;20|75;Nebel aus Quelltext
+Nebel;Obykan-Nebel;20|73;Nebel unpassierbar
+Nebel;Obykan-Nebel;20|74;Nebel unpassierbar
+Nebel;Obykan-Nebel;20|75;Nebel unpassierbar
 Nebel;Obykan-Nebel;20|76;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|77;Nebel aus Quelltext
 Nebel;Obykan-Nebel;20|78;Nebel aus Quelltext
@@ -3451,7 +4431,7 @@ Nebel;Obykan-Nebel;3|63;Nebel aus Quelltext
 Nebel;Voronan-Partikelnebel;3|70;Nebel aus Quelltext
 Nebel;Voronan-Partikelnebel;3|71;Nebel aus Quelltext
 Nebel;Voronan-Partikelnebel;3|72;Nebel aus Quelltext
-Nebel;Obykan-Nebel;4|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;4|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;4|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;4|63;Nebel passierbar
 Nebel;Voronan-Partikelnebel;4|69;Nebel aus Quelltext
@@ -3461,7 +4441,7 @@ Nebel;Voronan-Partikelnebel;4|72;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;4|78;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;4|79;Nebel aus Quelltext
 Nebel;Devos-Nebel;4|80;Nebel aus Quelltext
-Nebel;Obykan-Nebel;5|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;5|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;5|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;5|63;Nebel passierbar
 Nebel;Voronan-Partikelnebel;5|70;Nebel aus Quelltext
@@ -3469,13 +4449,13 @@ Nebel;Voronan-Partikelnebel;5|71;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;5|78;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;5|79;Nebel aus Quelltext
 Nebel;Devos-Nebel;5|80;Nebel aus Quelltext
-Nebel;Obykan-Nebel;6|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;6|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;6|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;6|63;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;6|78;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;6|79;Nebel aus Quelltext
 Nebel;Devos-Nebel;6|80;Nebel aus Quelltext
-Nebel;Obykan-Nebel;7|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;7|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;7|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;7|63;Nebel aus Quelltext
 Nebel;Exo-Aquarius-Nebel;7|78;Nebel aus Quelltext
@@ -3483,7 +4463,7 @@ Nebel;Obykan-Nebel;8|61;Nebel aus Quelltext
 Nebel;Obykan-Nebel;8|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;8|63;Nebel aus Quelltext
 Nebel;Obykan-Nebel;8|64;Nebel aus Quelltext
-Nebel;Obykan-Nebel;9|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;9|61;Nebel unpassierbar
 Nebel;Obykan-Nebel;9|62;Nebel passierbar
 Nebel;Obykan-Nebel;9|63;Nebel aus Quelltext
 Nebel;Obykan-Nebel;9|64;Nebel aus Quelltext
@@ -3492,17 +4472,28 @@ Nebel;Obykan-Nebel;9|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;9|70;Nebel passierbar
 Nebel;Obykan-Nebel;9|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;9|72;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|63;Nebel passierbar
+Nebel;Obykan-Nebel;21|64;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|65;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|66;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|67;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|70;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|71;Nebel aus Quelltext
-Nebel;Obykan-Nebel;21|72;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|72;Nebel unpassierbar
 Nebel;Obykan-Nebel;21|73;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|74;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|75;Nebel aus Quelltext
+Nebel;Obykan-Nebel;21|76;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|77;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|78;Nebel aus Quelltext
 Nebel;Obykan-Nebel;21|79;Nebel aus Quelltext
+Nebel;Deneb-Sternennebel;22|61;Nebel aus Quelltext
+Nebel;Obykan-Nebel;22|64;Nebel aus Quelltext
+Nebel;Obykan-Nebel;22|65;Nebel aus Quelltext
+Nebel;Obykan-Nebel;22|66;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|67;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|68;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|69;Nebel aus Quelltext
@@ -3510,13 +4501,18 @@ Nebel;Obykan-Nebel;22|70;Nebel passierbar
 Nebel;Obykan-Nebel;22|71;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|72;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|73;Nebel aus Quelltext
+Nebel;Obykan-Nebel;22|74;Nebel aus Quelltext
 Nebel;Obykan-Nebel;22|75;Nebel passierbar
 Nebel;Obykan-Nebel;22|76;Nebel passierbar
 Nebel;Obykan-Nebel;22|77;Nebel passierbar
 Nebel;Obykan-Nebel;22|78;Nebel passierbar
+Nebel;Deneb-Sternennebel;23|61;Nebel aus Quelltext
+Nebel;Deneb-Sternennebel;23|62;Nebel aus Quelltext
 Nebel;Obykan-Nebel;23|68;Nebel passierbar
 Nebel;Obykan-Nebel;23|69;Nebel aus Quelltext
 Nebel;Obykan-Nebel;23|71;Nebel aus Quelltext
+Nebel;Deneb-Sternennebel;24|61;Nebel aus Quelltext
+Nebel;Deneb-Sternennebel;24|62;Nebel aus Quelltext
 Nebel;Argolis-Nebel;24|71;Nebel aus Quelltext
 Nebel;Argolis-Nebel;25|70;Nebel aus Quelltext
 Nebel;Argolis-Nebel;25|71;Nebel aus Quelltext
@@ -3524,29 +4520,39 @@ Nebel;Argolis-Nebel;25|72;Nebel aus Quelltext
 Nebel;Argolis-Nebel;26|70;Nebel aus Quelltext
 Nebel;Argolis-Nebel;26|71;Nebel aus Quelltext
 Nebel;Argolis-Nebel;26|72;Nebel passierbar
+Nebel;Cameloparadalis-Wolke;27|65;Nebel aus Quelltext
 Nebel;Argolis-Nebel;27|70;Nebel passierbar
 Nebel;Argolis-Nebel;27|71;Nebel aus Quelltext
 Nebel;Argolis-Nebel;27|72;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;27|74;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;27|77;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;27|78;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;27|79;Nebel aus Quelltext
 Nebel;Alvarezwolke;28|61;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;28|65;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;28|66;Nebel aus Quelltext
 Nebel;Antares-Dunkelnebel;28|73;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;28|74;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;28|75;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;28|77;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;28|78;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;28|79;Nebel aus Quelltext
 Nebel;Alvarezwolke;29|61;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;29|65;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;29|66;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;29|67;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;29|65;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;29|66;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;29|67;Nebel aus Quelltext
 Nebel;Antares-Dunkelnebel;29|73;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;29|74;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;29|75;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;29|77;Nebel aus Quelltext
 Nebel;Iotianischer-Dunst;29|78;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;30|65;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;30|66;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;30|67;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;31|66;Nebel aus Quelltext
-Nebel;Pyrox-Vortex;31|67;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;30|65;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;30|66;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;30|67;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;30|74;Nebel aus Quelltext
+Nebel;Antares-Dunkelnebel;30|75;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;31|66;Nebel aus Quelltext
+Nebel;Cameloparadalis-Wolke;31|67;Nebel aus Quelltext
 Nebel;Kortar-Nebel;32|61;Nebel passierbar
 Nebel;Kortar-Nebel;33|61;Nebel passierbar
 Nebel;Kortar-Nebel;33|62;Nebel aus Quelltext
@@ -3578,8 +4584,8 @@ Nebel;Kortar-Nebel;36|66;Nebel passierbar
 Nebel;Pyrox-Vortex;36|72;Nebel aus Quelltext
 Nebel;Pyrox-Vortex;36|73;Nebel aus Quelltext
 Nebel;Pyrox-Vortex;36|74;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|61;Nebel aus Quelltext
-Nebel;Kortar-Nebel;37|62;Nebel aus Quelltext
+Nebel;Kortar-Nebel;37|61;Nebel unpassierbar
+Nebel;Kortar-Nebel;37|62;Nebel unpassierbar
 Nebel;Kortar-Nebel;37|63;Nebel passierbar
 Nebel;Kortar-Nebel;37|64;Nebel passierbar
 Nebel;Kortar-Nebel;37|65;Nebel passierbar
@@ -3587,16 +4593,16 @@ Nebel;Kortar-Nebel;37|66;Nebel aus Quelltext
 Nebel;Kortar-Nebel;37|67;Nebel passierbar
 Nebel;Pyrox-Vortex;37|73;Nebel aus Quelltext
 Nebel;Pyrox-Vortex;37|74;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|61;Nebel aus Quelltext
-Nebel;Kortar-Nebel;38|62;Nebel aus Quelltext
+Nebel;Kortar-Nebel;38|61;Nebel unpassierbar
+Nebel;Kortar-Nebel;38|62;Nebel unpassierbar
 Nebel;Kortar-Nebel;38|63;Nebel passierbar
 Nebel;Kortar-Nebel;38|64;Nebel passierbar
 Nebel;Kortar-Nebel;38|65;Nebel passierbar
 Nebel;Kortar-Nebel;38|66;Nebel passierbar
 Nebel;Kortar-Nebel;38|67;Nebel aus Quelltext
 Nebel;Kortar-Nebel;38|68;Nebel passierbar
-Nebel;Kortar-Nebel;39|61;Nebel aus Quelltext
-Nebel;Kortar-Nebel;39|62;Nebel aus Quelltext
+Nebel;Kortar-Nebel;39|61;Nebel unpassierbar
+Nebel;Kortar-Nebel;39|62;Nebel unpassierbar
 Nebel;Kortar-Nebel;39|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;39|64;Nebel passierbar
 Nebel;Kortar-Nebel;39|65;Nebel passierbar
@@ -3637,9 +4643,9 @@ Nebel;Kortar-Nebel;42|65;Nebel passierbar
 Nebel;Kortar-Nebel;42|66;Nebel passierbar
 Nebel;Kortar-Nebel;42|67;Nebel passierbar
 Nebel;Kortar-Nebel;42|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;42|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;42|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;42|71;Nebel aus Quelltext
+Nebel;Kortar-Nebel;42|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;42|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;42|71;Nebel unpassierbar
 Nebel;Kortar-Nebel;42|72;Nebel passierbar
 Nebel;Kortar-Nebel;42|73;Nebel passierbar
 Nebel;Kortar-Nebel;42|74;Nebel aus Quelltext
@@ -3652,9 +4658,9 @@ Nebel;Kortar-Nebel;43|65;Nebel passierbar
 Nebel;Kortar-Nebel;43|66;Nebel aus Quelltext
 Nebel;Kortar-Nebel;43|67;Nebel aus Quelltext
 Nebel;Kortar-Nebel;43|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;43|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;43|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;43|71;Nebel aus Quelltext
+Nebel;Kortar-Nebel;43|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;43|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;43|71;Nebel unpassierbar
 Nebel;Kortar-Nebel;43|72;Nebel passierbar
 Nebel;Kortar-Nebel;43|73;Nebel aus Quelltext
 Nebel;Kortar-Nebel;43|74;Nebel aus Quelltext
@@ -3663,11 +4669,11 @@ Nebel;Kortar-Nebel;44|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;44|64;Nebel passierbar
 Nebel;Kortar-Nebel;44|65;Nebel passierbar
 Nebel;Kortar-Nebel;44|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;44|67;Nebel aus Quelltext
+Nebel;Kortar-Nebel;44|67;Nebel unpassierbar
 Nebel;Kortar-Nebel;44|68;Nebel passierbar
-Nebel;Kortar-Nebel;44|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;44|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;44|71;Nebel aus Quelltext
+Nebel;Kortar-Nebel;44|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;44|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;44|71;Nebel unpassierbar
 Nebel;Kortar-Nebel;44|72;Nebel aus Quelltext
 Nebel;Kortar-Nebel;44|73;Nebel passierbar
 Nebel;Kortar-Nebel;44|74;Nebel passierbar
@@ -3675,13 +4681,13 @@ Nebel;Kortar-Nebel;44|75;Nebel passierbar
 Nebel;Sciuto-Flare;44|80;Nebel aus Quelltext
 Nebel;Kortar-Nebel;45|64;Nebel passierbar
 Nebel;Kortar-Nebel;45|65;Nebel aus Quelltext
-Nebel;Kortar-Nebel;45|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;45|67;Nebel aus Quelltext
+Nebel;Kortar-Nebel;45|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;45|67;Nebel unpassierbar
 Nebel;Kortar-Nebel;45|68;Nebel passierbar
-Nebel;Kortar-Nebel;45|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;45|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;45|71;Nebel aus Quelltext
-Nebel;Kortar-Nebel;45|72;Nebel aus Quelltext
+Nebel;Kortar-Nebel;45|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;45|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;45|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;45|72;Nebel unpassierbar
 Nebel;Kortar-Nebel;45|73;Nebel passierbar
 Nebel;Kortar-Nebel;45|74;Nebel passierbar
 Nebel;Kortar-Nebel;45|75;Nebel passierbar
@@ -3690,9 +4696,10 @@ Nebel;Kortar-Nebel;46|65;Nebel aus Quelltext
 Nebel;Kortar-Nebel;46|66;Nebel aus Quelltext
 Nebel;Kortar-Nebel;46|67;Nebel aus Quelltext
 Nebel;Kortar-Nebel;46|68;Nebel passierbar
-Nebel;Kortar-Nebel;46|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;46|71;Nebel aus Quelltext
-Nebel;Kortar-Nebel;46|72;Nebel aus Quelltext
+Nebel;Kortar-Nebel;46|69;Nebel aus Quelltext
+Nebel;Kortar-Nebel;46|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;46|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;46|72;Nebel unpassierbar
 Nebel;Kortar-Nebel;46|73;Nebel aus Quelltext
 Nebel;Kortar-Nebel;46|74;Nebel passierbar
 Nebel;Kortar-Nebel;46|75;Nebel aus Quelltext
@@ -3701,7 +4708,10 @@ Nebel;Kortar-Nebel;47|65;Nebel aus Quelltext
 Nebel;Kortar-Nebel;47|66;Nebel passierbar
 Nebel;Kortar-Nebel;47|67;Nebel passierbar
 Nebel;Kortar-Nebel;47|68;Nebel passierbar
-Nebel;Kortar-Nebel;47|72;Nebel aus Quelltext
+Nebel;Kortar-Nebel;47|69;Nebel aus Quelltext
+Nebel;Kortar-Nebel;47|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;47|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;47|72;Nebel unpassierbar
 Nebel;Kortar-Nebel;47|73;Nebel aus Quelltext
 Nebel;Kortar-Nebel;47|74;Nebel passierbar
 Nebel;Kortar-Nebel;47|75;Nebel aus Quelltext
@@ -3711,8 +4721,12 @@ Nebel;Kortar-Nebel;47|78;Nebel passierbar
 Nebel;Kortar-Nebel;48|65;Nebel aus Quelltext
 Nebel;Kortar-Nebel;48|66;Nebel passierbar
 Nebel;Kortar-Nebel;48|67;Nebel passierbar
-Nebel;Kortar-Nebel;48|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;48|73;Nebel aus Quelltext
+Nebel;Kortar-Nebel;48|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;48|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;48|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;48|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;48|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;48|73;Nebel unpassierbar
 Nebel;Kortar-Nebel;48|74;Nebel aus Quelltext
 Nebel;Kortar-Nebel;48|75;Nebel aus Quelltext
 Nebel;Kortar-Nebel;48|76;Nebel aus Quelltext
@@ -3722,8 +4736,12 @@ Nebel;Kortar-Nebel;49|64;Nebel passierbar
 Nebel;Kortar-Nebel;49|65;Nebel passierbar
 Nebel;Kortar-Nebel;49|66;Nebel passierbar
 Nebel;Kortar-Nebel;49|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;49|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;49|73;Nebel aus Quelltext
+Nebel;Kortar-Nebel;49|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;49|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;49|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;49|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;49|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;49|73;Nebel unpassierbar
 Nebel;Kortar-Nebel;49|74;Nebel aus Quelltext
 Nebel;Kortar-Nebel;49|75;Nebel aus Quelltext
 Nebel;Kortar-Nebel;49|76;Nebel aus Quelltext
@@ -3731,10 +4749,14 @@ Nebel;Kortar-Nebel;49|77;Nebel aus Quelltext
 Nebel;Kortar-Nebel;49|78;Nebel aus Quelltext
 Nebel;Kortar-Nebel;50|64;Nebel passierbar
 Nebel;Kortar-Nebel;50|65;Nebel passierbar
-Nebel;Kortar-Nebel;50|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;50|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;50|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;50|73;Nebel aus Quelltext
+Nebel;Kortar-Nebel;50|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;50|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;50|73;Nebel unpassierbar
 Nebel;Kortar-Nebel;50|74;Nebel aus Quelltext
 Nebel;Kortar-Nebel;50|75;Nebel passierbar
 Nebel;Kortar-Nebel;50|76;Nebel passierbar
@@ -3745,8 +4767,11 @@ Nebel;Kortar-Nebel;51|65;Nebel passierbar
 Nebel;Kortar-Nebel;51|66;Nebel aus Quelltext
 Nebel;Kortar-Nebel;51|67;Nebel passierbar
 Nebel;Kortar-Nebel;51|68;Nebel passierbar
-Nebel;Kortar-Nebel;51|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;51|73;Nebel aus Quelltext
+Nebel;Kortar-Nebel;51|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;51|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;51|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;51|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;51|73;Nebel unpassierbar
 Nebel;Kortar-Nebel;51|74;Nebel aus Quelltext
 Nebel;Kortar-Nebel;51|75;Nebel passierbar
 Nebel;Kortar-Nebel;51|76;Nebel passierbar
@@ -3754,14 +4779,15 @@ Nebel;Kortar-Nebel;51|77;Nebel passierbar
 Nebel;Kortar-Nebel;52|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;52|64;Nebel passierbar
 Nebel;Kortar-Nebel;52|65;Nebel passierbar
+Nebel;Kortar-Nebel;52|66;Nebel unpassierbar
 Nebel;Kortar-Nebel;52|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|71;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|73;Nebel aus Quelltext
-Nebel;Kortar-Nebel;52|74;Nebel aus Quelltext
+Nebel;Kortar-Nebel;52|68;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|73;Nebel unpassierbar
+Nebel;Kortar-Nebel;52|74;Nebel unpassierbar
 Nebel;Kortar-Nebel;52|75;Nebel aus Quelltext
 Nebel;Kortar-Nebel;52|76;Nebel passierbar
 Nebel;Kortar-Nebel;52|77;Nebel passierbar
@@ -3769,25 +4795,27 @@ Nebel;Kortar-Nebel;53|62;Nebel passierbar
 Nebel;Kortar-Nebel;53|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;53|64;Nebel aus Quelltext
 Nebel;Kortar-Nebel;53|65;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|71;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|72;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|73;Nebel aus Quelltext
-Nebel;Kortar-Nebel;53|74;Nebel aus Quelltext
+Nebel;Kortar-Nebel;53|66;Nebel aus Quelltext
+Nebel;Kortar-Nebel;53|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|68;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|71;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|72;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|73;Nebel unpassierbar
+Nebel;Kortar-Nebel;53|74;Nebel unpassierbar
 Nebel;Kortar-Nebel;53|75;Nebel aus Quelltext
 Nebel;Kortar-Nebel;53|76;Nebel passierbar
 Nebel;Kortar-Nebel;54|62;Nebel aus Quelltext
 Nebel;Kortar-Nebel;54|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;54|64;Nebel passierbar
 Nebel;Kortar-Nebel;54|65;Nebel passierbar
-Nebel;Kortar-Nebel;54|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;54|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;54|69;Nebel aus Quelltext
-Nebel;Kortar-Nebel;54|70;Nebel aus Quelltext
-Nebel;Kortar-Nebel;54|71;Nebel aus Quelltext
+Nebel;Kortar-Nebel;54|66;Nebel aus Quelltext
+Nebel;Kortar-Nebel;54|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;54|68;Nebel unpassierbar
+Nebel;Kortar-Nebel;54|69;Nebel unpassierbar
+Nebel;Kortar-Nebel;54|70;Nebel unpassierbar
+Nebel;Kortar-Nebel;54|71;Nebel unpassierbar
 Nebel;Kortar-Nebel;54|72;Nebel passierbar
 Nebel;Kortar-Nebel;54|73;Nebel aus Quelltext
 Nebel;Kortar-Nebel;54|74;Nebel aus Quelltext
@@ -3797,10 +4825,10 @@ Nebel;Kortar-Nebel;55|62;Nebel passierbar
 Nebel;Kortar-Nebel;55|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;55|64;Nebel passierbar
 Nebel;Kortar-Nebel;55|65;Nebel passierbar
-Nebel;Kortar-Nebel;55|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;55|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;55|68;Nebel aus Quelltext
-Nebel;Kortar-Nebel;55|69;Nebel aus Quelltext
+Nebel;Kortar-Nebel;55|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;55|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;55|68;Nebel unpassierbar
+Nebel;Kortar-Nebel;55|69;Nebel unpassierbar
 Nebel;Kortar-Nebel;55|70;Nebel aus Quelltext
 Nebel;Kortar-Nebel;55|71;Nebel passierbar
 Nebel;Kortar-Nebel;55|72;Nebel passierbar
@@ -3811,9 +4839,9 @@ Nebel;Kortar-Nebel;56|62;Nebel passierbar
 Nebel;Kortar-Nebel;56|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;56|64;Nebel passierbar
 Nebel;Kortar-Nebel;56|65;Nebel aus Quelltext
-Nebel;Kortar-Nebel;56|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;56|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;56|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;56|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;56|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;56|68;Nebel unpassierbar
 Nebel;Kortar-Nebel;56|69;Nebel passierbar
 Nebel;Kortar-Nebel;56|70;Nebel passierbar
 Nebel;Kortar-Nebel;56|71;Nebel passierbar
@@ -3825,9 +4853,9 @@ Nebel;Kortar-Nebel;57|62;Nebel passierbar
 Nebel;Kortar-Nebel;57|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;57|64;Nebel aus Quelltext
 Nebel;Kortar-Nebel;57|65;Nebel aus Quelltext
-Nebel;Kortar-Nebel;57|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;57|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;57|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;57|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;57|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;57|68;Nebel unpassierbar
 Nebel;Kortar-Nebel;57|69;Nebel passierbar
 Nebel;Kortar-Nebel;57|70;Nebel passierbar
 Nebel;Kortar-Nebel;57|71;Nebel passierbar
@@ -3838,9 +4866,9 @@ Nebel;Kortar-Nebel;58|62;Nebel passierbar
 Nebel;Kortar-Nebel;58|63;Nebel aus Quelltext
 Nebel;Kortar-Nebel;58|64;Nebel passierbar
 Nebel;Kortar-Nebel;58|65;Nebel passierbar
-Nebel;Kortar-Nebel;58|66;Nebel aus Quelltext
-Nebel;Kortar-Nebel;58|67;Nebel aus Quelltext
-Nebel;Kortar-Nebel;58|68;Nebel aus Quelltext
+Nebel;Kortar-Nebel;58|66;Nebel unpassierbar
+Nebel;Kortar-Nebel;58|67;Nebel unpassierbar
+Nebel;Kortar-Nebel;58|68;Nebel unpassierbar
 Nebel;Kortar-Nebel;58|69;Nebel aus Quelltext
 Nebel;Kortar-Nebel;58|70;Nebel passierbar
 Nebel;Kortar-Nebel;58|71;Nebel aus Quelltext
@@ -3923,31 +4951,31 @@ Nebel;Monetarnebel;66|76;Nebel aus Quelltext
 Nebel;Monetarnebel;67|74;Nebel aus Quelltext
 Nebel;Monetarnebel;67|75;Nebel aus Quelltext
 Nebel;Monetarnebel;67|76;Nebel aus Quelltext
-Nebel;Amunatanebel;69|65;Nebel aus Quelltext
-Nebel;Amunatanebel;69|66;Nebel aus Quelltext
-Nebel;Amunatanebel;69|67;Nebel aus Quelltext
-Nebel;Amunatanebel;69|68;Nebel aus Quelltext
-Nebel;Amunatanebel;69|69;Nebel aus Quelltext
-Nebel;Amunatanebel;70|64;Nebel aus Quelltext
-Nebel;Amunatanebel;70|65;Nebel aus Quelltext
-Nebel;Amunatanebel;70|66;Nebel aus Quelltext
-Nebel;Amunatanebel;70|67;Nebel aus Quelltext
-Nebel;Amunatanebel;70|68;Nebel aus Quelltext
-Nebel;Amunatanebel;70|69;Nebel aus Quelltext
-Nebel;Amunatanebel;71|65;Nebel aus Quelltext
-Nebel;Amunatanebel;71|66;Nebel aus Quelltext
-Nebel;Amunatanebel;71|67;Nebel aus Quelltext
-Nebel;Amunatanebel;71|68;Nebel aus Quelltext
-Nebel;Amunatanebel;72|65;Nebel aus Quelltext
-Nebel;Amunatanebel;72|66;Nebel aus Quelltext
-Nebel;Amunatanebel;72|67;Nebel aus Quelltext
-Nebel;Amunatanebel;72|68;Nebel aus Quelltext
+Nebel;Amunatanebel;69|65;Nebel passierbar
+Nebel;Amunatanebel;69|66;Nebel passierbar
+Nebel;Amunatanebel;69|67;Nebel passierbar
+Nebel;Amunatanebel;69|68;Nebel passierbar
+Nebel;Amunatanebel;69|69;Nebel passierbar
+Nebel;Amunatanebel;70|64;Nebel passierbar
+Nebel;Amunatanebel;70|65;Nebel passierbar
+Nebel;Amunatanebel;70|66;Nebel passierbar
+Nebel;Amunatanebel;70|67;Nebel unpassierbar
+Nebel;Amunatanebel;70|68;Nebel passierbar
+Nebel;Amunatanebel;70|69;Nebel passierbar
+Nebel;Amunatanebel;71|65;Nebel passierbar
+Nebel;Amunatanebel;71|66;Nebel unpassierbar
+Nebel;Amunatanebel;71|67;Nebel unpassierbar
+Nebel;Amunatanebel;71|68;Nebel passierbar
+Nebel;Amunatanebel;72|65;Nebel passierbar
+Nebel;Amunatanebel;72|66;Nebel passierbar
+Nebel;Amunatanebel;72|67;Nebel unpassierbar
+Nebel;Amunatanebel;72|68;Nebel passierbar
 Nebel;Sponge-Wolke;73|61;Nebel passierbar
 Nebel;Sponge-Wolke;73|62;Nebel passierbar
 Nebel;Sponge-Wolke;73|63;Nebel passierbar
 Nebel;Sponge-Wolke;73|64;Nebel passierbar
-Nebel;Amunatanebel;73|66;Nebel aus Quelltext
-Nebel;Amunatanebel;73|67;Nebel aus Quelltext
+Nebel;Amunatanebel;73|66;Nebel passierbar
+Nebel;Amunatanebel;73|67;Nebel passierbar
 Nebel;Sponge-Wolke;74|61;Nebel aus Quelltext
 Nebel;Sponge-Wolke;74|62;Nebel passierbar
 Nebel;Sponge-Wolke;74|63;Nebel passierbar
@@ -3960,15 +4988,15 @@ Nebel;Sponge-Wolke;75|64;Nebel passierbar
 Nebel;Sponge-Wolke;75|65;Nebel passierbar
 Nebel;Sponge-Wolke;75|66;Nebel passierbar
 Nebel;Sponge-Wolke;76|61;Nebel passierbar
-Nebel;Sponge-Wolke;76|62;Nebel aus Quelltext
+Nebel;Sponge-Wolke;76|62;Nebel unpassierbar
 Nebel;Sponge-Wolke;76|63;Nebel aus Quelltext
 Nebel;Sponge-Wolke;76|64;Nebel aus Quelltext
 Nebel;Sponge-Wolke;76|65;Nebel passierbar
 Nebel;Sponge-Wolke;76|66;Nebel aus Quelltext
 Nebel;Sponge-Wolke;76|67;Nebel passierbar
 Nebel;Sponge-Wolke;77|61;Nebel aus Quelltext
-Nebel;Sponge-Wolke;77|62;Nebel aus Quelltext
-Nebel;Sponge-Wolke;77|63;Nebel passierbar
+Nebel;Sponge-Wolke;77|62;Nebel unpassierbar
+Nebel;Sponge-Wolke;77|63;Nebel unpassierbar
 Nebel;Sponge-Wolke;77|64;Nebel passierbar
 Nebel;Sponge-Wolke;77|65;Nebel passierbar
 Nebel;Sponge-Wolke;77|66;Nebel aus Quelltext
@@ -3978,7 +5006,7 @@ Nebel;Sponge-Wolke;77|69;Nebel aus Quelltext
 Nebel;Sponge-Wolke;77|70;Nebel aus Quelltext
 Nebel;Sponge-Wolke;78|61;Nebel aus Quelltext
 Nebel;Sponge-Wolke;78|62;Nebel passierbar
-Nebel;Sponge-Wolke;78|63;Nebel aus Quelltext
+Nebel;Sponge-Wolke;78|63;Nebel unpassierbar
 Nebel;Sponge-Wolke;78|64;Nebel passierbar
 Nebel;Sponge-Wolke;78|65;Nebel aus Quelltext
 Nebel;Sponge-Wolke;78|66;Nebel aus Quelltext
@@ -4001,8 +5029,8 @@ Nebel;Sponge-Wolke;79|73;Nebel passierbar
 Nebel;Sponge-Wolke;80|61;Nebel passierbar
 Nebel;Sponge-Wolke;80|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;80|63;Nebel passierbar
-Nebel;Sponge-Wolke;80|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;80|65;Nebel aus Quelltext
+Nebel;Sponge-Wolke;80|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;80|65;Nebel unpassierbar
 Nebel;Sponge-Wolke;80|66;Nebel aus Quelltext
 Nebel;Sponge-Wolke;80|67;Nebel aus Quelltext
 Nebel;Sponge-Wolke;80|68;Nebel aus Quelltext
@@ -4018,14 +5046,14 @@ Nebel;Sponge-Wolke;100|71;Nebel aus Quelltext
 Nebel;Sponge-Wolke;100|72;Nebel passierbar
 Nebel;Sponge-Wolke;100|73;Nebel passierbar
 Nebel;Sponge-Wolke;81|61;Nebel aus Quelltext
-Nebel;Sponge-Wolke;81|62;Nebel aus Quelltext
-Nebel;Sponge-Wolke;81|63;Nebel aus Quelltext
-Nebel;Sponge-Wolke;81|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;81|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;81|66;Nebel aus Quelltext
+Nebel;Sponge-Wolke;81|62;Nebel unpassierbar
+Nebel;Sponge-Wolke;81|63;Nebel unpassierbar
+Nebel;Sponge-Wolke;81|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;81|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;81|66;Nebel unpassierbar
 Nebel;Sponge-Wolke;81|67;Nebel aus Quelltext
 Nebel;Sponge-Wolke;81|68;Nebel passierbar
-Nebel;Sponge-Wolke;81|69;Nebel aus Quelltext
+Nebel;Sponge-Wolke;81|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;81|70;Nebel passierbar
 Nebel;Sponge-Wolke;81|71;Nebel passierbar
 Nebel;Sponge-Wolke;81|72;Nebel aus Quelltext
@@ -4033,15 +5061,15 @@ Nebel;Sponge-Wolke;81|73;Nebel aus Quelltext
 Nebel;Sponge-Wolke;81|74;Nebel passierbar
 Nebel;Sponge-Wolke;82|61;Nebel aus Quelltext
 Nebel;Sponge-Wolke;82|62;Nebel passierbar
-Nebel;Sponge-Wolke;82|63;Nebel aus Quelltext
-Nebel;Sponge-Wolke;82|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;82|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;82|66;Nebel aus Quelltext
-Nebel;Sponge-Wolke;82|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;82|68;Nebel aus Quelltext
+Nebel;Sponge-Wolke;82|63;Nebel unpassierbar
+Nebel;Sponge-Wolke;82|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;82|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;82|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;82|67;Nebel unpassierbar
+Nebel;Sponge-Wolke;82|68;Nebel unpassierbar
 Nebel;Sponge-Wolke;82|69;Nebel passierbar
 Nebel;Sponge-Wolke;82|70;Nebel passierbar
-Nebel;Sponge-Wolke;82|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;82|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;82|72;Nebel passierbar
 Nebel;Sponge-Wolke;82|73;Nebel aus Quelltext
 Nebel;Sponge-Wolke;82|74;Nebel passierbar
@@ -4049,13 +5077,14 @@ Nebel;Sponge-Wolke;82|75;Nebel passierbar
 Nebel;Sponge-Wolke;83|61;Nebel passierbar
 Nebel;Sponge-Wolke;83|62;Nebel passierbar
 Nebel;Sponge-Wolke;83|63;Nebel passierbar
-Nebel;Sponge-Wolke;83|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;83|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;83|67;Nebel aus Quelltext
+Nebel;Sponge-Wolke;83|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;83|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;83|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;83|67;Nebel unpassierbar
 Nebel;Sponge-Wolke;83|68;Nebel aus Quelltext
 Nebel;Sponge-Wolke;83|69;Nebel passierbar
 Nebel;Sponge-Wolke;83|70;Nebel aus Quelltext
-Nebel;Sponge-Wolke;83|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;83|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;83|72;Nebel aus Quelltext
 Nebel;Sponge-Wolke;83|73;Nebel aus Quelltext
 Nebel;Sponge-Wolke;83|74;Nebel passierbar
@@ -4064,22 +5093,24 @@ Nebel;Sponge-Wolke;84|62;Nebel passierbar
 Nebel;Sponge-Wolke;84|63;Nebel aus Quelltext
 Nebel;Sponge-Wolke;84|64;Nebel passierbar
 Nebel;Sponge-Wolke;84|65;Nebel passierbar
-Nebel;Sponge-Wolke;84|67;Nebel aus Quelltext
+Nebel;Sponge-Wolke;84|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;84|67;Nebel unpassierbar
 Nebel;Sponge-Wolke;84|68;Nebel passierbar
 Nebel;Sponge-Wolke;84|69;Nebel passierbar
 Nebel;Sponge-Wolke;84|70;Nebel passierbar
-Nebel;Sponge-Wolke;84|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;84|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;84|72;Nebel passierbar
 Nebel;Sponge-Wolke;84|73;Nebel passierbar
 Nebel;Sponge-Wolke;84|74;Nebel passierbar
 Nebel;Sponge-Wolke;85|61;Nebel passierbar
 Nebel;Sponge-Wolke;85|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;85|63;Nebel passierbar
-Nebel;Sponge-Wolke;85|64;Nebel aus Quelltext
+Nebel;Sponge-Wolke;85|64;Nebel unpassierbar
 Nebel;Sponge-Wolke;85|65;Nebel passierbar
 Nebel;Sponge-Wolke;85|66;Nebel passierbar
-Nebel;Sponge-Wolke;85|67;Nebel aus Quelltext
+Nebel;Sponge-Wolke;85|67;Nebel unpassierbar
 Nebel;Sponge-Wolke;85|68;Nebel passierbar
+Nebel;Sponge-Wolke;85|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;85|70;Nebel aus Quelltext
 Nebel;Sponge-Wolke;85|71;Nebel passierbar
 Nebel;Sponge-Wolke;85|72;Nebel aus Quelltext
@@ -4088,10 +5119,12 @@ Nebel;Sponge-Wolke;85|74;Nebel passierbar
 Nebel;Sponge-Wolke;86|61;Nebel passierbar
 Nebel;Sponge-Wolke;86|62;Nebel passierbar
 Nebel;Sponge-Wolke;86|63;Nebel aus Quelltext
-Nebel;Sponge-Wolke;86|64;Nebel aus Quelltext
+Nebel;Sponge-Wolke;86|64;Nebel unpassierbar
 Nebel;Sponge-Wolke;86|65;Nebel passierbar
 Nebel;Sponge-Wolke;86|66;Nebel passierbar
 Nebel;Sponge-Wolke;86|67;Nebel passierbar
+Nebel;Sponge-Wolke;86|68;Nebel aus Quelltext
+Nebel;Sponge-Wolke;86|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;86|70;Nebel aus Quelltext
 Nebel;Sponge-Wolke;86|71;Nebel aus Quelltext
 Nebel;Sponge-Wolke;86|72;Nebel passierbar
@@ -4100,11 +5133,12 @@ Nebel;Sponge-Wolke;86|74;Nebel passierbar
 Nebel;Sponge-Wolke;87|61;Nebel passierbar
 Nebel;Sponge-Wolke;87|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;87|63;Nebel passierbar
-Nebel;Sponge-Wolke;87|64;Nebel aus Quelltext
+Nebel;Sponge-Wolke;87|64;Nebel unpassierbar
 Nebel;Sponge-Wolke;87|65;Nebel passierbar
-Nebel;Sponge-Wolke;87|66;Nebel aus Quelltext
+Nebel;Sponge-Wolke;87|66;Nebel unpassierbar
 Nebel;Sponge-Wolke;87|67;Nebel passierbar
 Nebel;Sponge-Wolke;87|68;Nebel passierbar
+Nebel;Sponge-Wolke;87|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;87|70;Nebel passierbar
 Nebel;Sponge-Wolke;87|71;Nebel passierbar
 Nebel;Sponge-Wolke;87|72;Nebel passierbar
@@ -4114,9 +5148,11 @@ Nebel;Sponge-Wolke;88|61;Nebel aus Quelltext
 Nebel;Sponge-Wolke;88|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;88|63;Nebel passierbar
 Nebel;Sponge-Wolke;88|64;Nebel passierbar
-Nebel;Sponge-Wolke;88|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;88|66;Nebel aus Quelltext
+Nebel;Sponge-Wolke;88|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;88|66;Nebel unpassierbar
 Nebel;Sponge-Wolke;88|67;Nebel aus Quelltext
+Nebel;Sponge-Wolke;88|68;Nebel aus Quelltext
+Nebel;Sponge-Wolke;88|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;88|70;Nebel aus Quelltext
 Nebel;Sponge-Wolke;88|71;Nebel passierbar
 Nebel;Sponge-Wolke;88|72;Nebel passierbar
@@ -4126,10 +5162,11 @@ Nebel;Sponge-Wolke;88|75;Nebel passierbar
 Nebel;Sponge-Wolke;89|61;Nebel passierbar
 Nebel;Sponge-Wolke;89|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;89|63;Nebel aus Quelltext
-Nebel;Sponge-Wolke;89|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;89|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;89|66;Nebel aus Quelltext
-Nebel;Sponge-Wolke;89|67;Nebel aus Quelltext
+Nebel;Sponge-Wolke;89|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;89|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;89|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;89|67;Nebel unpassierbar
+Nebel;Sponge-Wolke;89|68;Nebel aus Quelltext
 Nebel;Sponge-Wolke;89|69;Nebel passierbar
 Nebel;Sponge-Wolke;89|70;Nebel passierbar
 Nebel;Sponge-Wolke;89|71;Nebel aus Quelltext
@@ -4141,11 +5178,12 @@ Nebel;Sponge-Wolke;89|76;Nebel passierbar
 Nebel;Sponge-Wolke;90|61;Nebel passierbar
 Nebel;Sponge-Wolke;90|62;Nebel passierbar
 Nebel;Sponge-Wolke;90|63;Nebel aus Quelltext
-Nebel;Sponge-Wolke;90|64;Nebel aus Quelltext
-Nebel;Sponge-Wolke;90|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;90|66;Nebel aus Quelltext
+Nebel;Sponge-Wolke;90|64;Nebel unpassierbar
+Nebel;Sponge-Wolke;90|65;Nebel unpassierbar
+Nebel;Sponge-Wolke;90|66;Nebel unpassierbar
 Nebel;Sponge-Wolke;90|67;Nebel passierbar
 Nebel;Sponge-Wolke;90|68;Nebel passierbar
+Nebel;Sponge-Wolke;90|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;90|70;Nebel passierbar
 Nebel;Sponge-Wolke;90|71;Nebel passierbar
 Nebel;Sponge-Wolke;90|72;Nebel aus Quelltext
@@ -4158,10 +5196,12 @@ Nebel;Sponge-Wolke;91|61;Nebel aus Quelltext
 Nebel;Sponge-Wolke;91|62;Nebel passierbar
 Nebel;Sponge-Wolke;91|63;Nebel passierbar
 Nebel;Sponge-Wolke;91|64;Nebel passierbar
-Nebel;Sponge-Wolke;91|65;Nebel aus Quelltext
+Nebel;Sponge-Wolke;91|65;Nebel unpassierbar
 Nebel;Sponge-Wolke;91|66;Nebel aus Quelltext
 Nebel;Sponge-Wolke;91|67;Nebel passierbar
-Nebel;Sponge-Wolke;91|68;Nebel aus Quelltext
+Nebel;Sponge-Wolke;91|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;91|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;91|70;Nebel unpassierbar
 Nebel;Sponge-Wolke;91|71;Nebel passierbar
 Nebel;Sponge-Wolke;91|72;Nebel passierbar
 Nebel;Sponge-Wolke;91|73;Nebel passierbar
@@ -4176,10 +5216,10 @@ Nebel;Sponge-Wolke;92|63;Nebel passierbar
 Nebel;Sponge-Wolke;92|64;Nebel passierbar
 Nebel;Sponge-Wolke;92|65;Nebel passierbar
 Nebel;Sponge-Wolke;92|66;Nebel aus Quelltext
-Nebel;Sponge-Wolke;92|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;92|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;92|69;Nebel aus Quelltext
-Nebel;Sponge-Wolke;92|70;Nebel aus Quelltext
+Nebel;Sponge-Wolke;92|67;Nebel unpassierbar
+Nebel;Sponge-Wolke;92|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;92|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;92|70;Nebel unpassierbar
 Nebel;Sponge-Wolke;92|71;Nebel passierbar
 Nebel;Sponge-Wolke;92|72;Nebel aus Quelltext
 Nebel;Sponge-Wolke;92|73;Nebel passierbar
@@ -4194,12 +5234,12 @@ Nebel;Sponge-Wolke;93|62;Nebel passierbar
 Nebel;Sponge-Wolke;93|63;Nebel passierbar
 Nebel;Sponge-Wolke;93|64;Nebel aus Quelltext
 Nebel;Sponge-Wolke;93|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|66;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|69;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|70;Nebel aus Quelltext
-Nebel;Sponge-Wolke;93|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;93|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;93|67;Nebel unpassierbar
+Nebel;Sponge-Wolke;93|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;93|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;93|70;Nebel unpassierbar
+Nebel;Sponge-Wolke;93|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;93|72;Nebel passierbar
 Nebel;Sponge-Wolke;93|74;Nebel aus Quelltext
 Nebel;Sponge-Wolke;93|75;Nebel unpassierbar
@@ -4211,12 +5251,12 @@ Nebel;Sponge-Wolke;94|62;Nebel aus Quelltext
 Nebel;Sponge-Wolke;94|63;Nebel passierbar
 Nebel;Sponge-Wolke;94|64;Nebel aus Quelltext
 Nebel;Sponge-Wolke;94|65;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|66;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|69;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|70;Nebel aus Quelltext
-Nebel;Sponge-Wolke;94|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;94|66;Nebel unpassierbar
+Nebel;Sponge-Wolke;94|67;Nebel unpassierbar
+Nebel;Sponge-Wolke;94|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;94|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;94|70;Nebel unpassierbar
+Nebel;Sponge-Wolke;94|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;94|72;Nebel passierbar
 Nebel;Sponge-Wolke;94|73;Nebel aus Quelltext
 Nebel;Sponge-Wolke;94|74;Nebel aus Quelltext
@@ -4231,10 +5271,10 @@ Nebel;Sponge-Wolke;95|64;Nebel passierbar
 Nebel;Sponge-Wolke;95|65;Nebel aus Quelltext
 Nebel;Sponge-Wolke;95|66;Nebel passierbar
 Nebel;Sponge-Wolke;95|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;95|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;95|69;Nebel aus Quelltext
-Nebel;Sponge-Wolke;95|70;Nebel aus Quelltext
-Nebel;Sponge-Wolke;95|71;Nebel aus Quelltext
+Nebel;Sponge-Wolke;95|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;95|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;95|70;Nebel unpassierbar
+Nebel;Sponge-Wolke;95|71;Nebel unpassierbar
 Nebel;Sponge-Wolke;95|72;Nebel passierbar
 Nebel;Sponge-Wolke;95|73;Nebel unpassierbar
 Nebel;Sponge-Wolke;95|74;Nebel unpassierbar
@@ -4249,9 +5289,9 @@ Nebel;Sponge-Wolke;96|64;Nebel passierbar
 Nebel;Sponge-Wolke;96|65;Nebel passierbar
 Nebel;Sponge-Wolke;96|66;Nebel aus Quelltext
 Nebel;Sponge-Wolke;96|67;Nebel aus Quelltext
-Nebel;Sponge-Wolke;96|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;96|69;Nebel aus Quelltext
-Nebel;Sponge-Wolke;96|70;Nebel aus Quelltext
+Nebel;Sponge-Wolke;96|68;Nebel unpassierbar
+Nebel;Sponge-Wolke;96|69;Nebel unpassierbar
+Nebel;Sponge-Wolke;96|70;Nebel unpassierbar
 Nebel;Sponge-Wolke;96|71;Nebel aus Quelltext
 Nebel;Sponge-Wolke;96|72;Nebel aus Quelltext
 Nebel;Sponge-Wolke;96|73;Nebel passierbar
@@ -4266,7 +5306,7 @@ Nebel;Sponge-Wolke;97|65;Nebel aus Quelltext
 Nebel;Sponge-Wolke;97|66;Nebel aus Quelltext
 Nebel;Sponge-Wolke;97|67;Nebel passierbar
 Nebel;Sponge-Wolke;97|68;Nebel aus Quelltext
-Nebel;Sponge-Wolke;97|69;Nebel aus Quelltext
+Nebel;Sponge-Wolke;97|69;Nebel unpassierbar
 Nebel;Sponge-Wolke;97|70;Nebel unpassierbar
 Nebel;Sponge-Wolke;97|71;Nebel passierbar
 Nebel;Sponge-Wolke;97|72;Nebel passierbar
@@ -4300,21 +5340,29 @@ Nebel;Sponge-Wolke;101|72;Nebel passierbar
 Nebel;Sponge-Wolke;101|73;Nebel aus Quelltext
 Nebel;Hydraflare;102|65;Nebel aus Quelltext
 Nebel;Hydraflare;102|66;Nebel aus Quelltext
+Nebel;Hydraflare;102|67;Nebel aus Quelltext
 Nebel;Hydraflare;103|64;Nebel aus Quelltext
-Nebel;Hydraflare;103|65;Nebel aus Quelltext
-Nebel;Hydraflare;103|66;Nebel aus Quelltext
+Nebel;Hydraflare;103|65;Nebel unpassierbar
+Nebel;Hydraflare;103|66;Nebel unpassierbar
+Nebel;Hydraflare;103|67;Nebel aus Quelltext
 Nebel;Hydraflare;104|64;Nebel aus Quelltext
-Nebel;Hydraflare;104|65;Nebel aus Quelltext
-Nebel;Hydraflare;104|66;Nebel aus Quelltext
+Nebel;Hydraflare;104|65;Nebel unpassierbar
+Nebel;Hydraflare;104|66;Nebel unpassierbar
+Nebel;Hydraflare;104|67;Nebel aus Quelltext
 Nebel;Hydraflare;105|65;Nebel aus Quelltext
 Nebel;Hydraflare;105|66;Nebel aus Quelltext
+Nebel;Tenebrisnebel;106|67;Nebel aus Quelltext
+Nebel;Tenebrisnebel;106|68;Nebel aus Quelltext
 Nebel;Tenebrisnebel;107|66;Nebel aus Quelltext
+Nebel;Tenebrisnebel;107|67;Nebel unpassierbar
+Nebel;Tenebrisnebel;107|68;Nebel unpassierbar
+Nebel;Tenebrisnebel;107|69;Nebel aus Quelltext
 Nebel;Tenebrisnebel;107|70;Nebel aus Quelltext
 Nebel;Daonnebel;107|78;Nebel aus Quelltext
 Nebel;Daonnebel;107|79;Nebel passierbar
 Nebel;Daonnebel;107|80;Nebel passierbar
 Nebel;Tenebrisnebel;108|66;Nebel aus Quelltext
-Nebel;Tenebrisnebel;108|67;Nebel aus Quelltext
+Nebel;Tenebrisnebel;108|67;Nebel unpassierbar
 Nebel;Tenebrisnebel;108|68;Nebel aus Quelltext
 Nebel;Tenebrisnebel;108|69;Nebel aus Quelltext
 Nebel;Tenebrisnebel;108|70;Nebel aus Quelltext
@@ -4328,7 +5376,7 @@ Nebel;Auriganebel;109|61;Nebel aus Quelltext
 Nebel;Tenebrisnebel;109|66;Nebel aus Quelltext
 Nebel;Tenebrisnebel;109|67;Nebel aus Quelltext
 Nebel;Tenebrisnebel;109|68;Nebel aus Quelltext
-Nebel;Tenebrisnebel;109|69;Nebel aus Quelltext
+Nebel;Tenebrisnebel;109|69;Nebel unpassierbar
 Nebel;Tenebrisnebel;109|70;Nebel aus Quelltext
 Nebel;Tenebrisnebel;109|71;Nebel aus Quelltext
 Nebel;Daonnebel;109|76;Nebel passierbar
@@ -4395,37 +5443,37 @@ Nebel;Auriganebel;115|68;Nebel aus Quelltext
 Nebel;Auriganebel;115|69;Nebel aus Quelltext
 Nebel;Amritsarschleier;115|80;Nebel aus Quelltext
 Nebel;Auriganebel;116|61;Nebel passierbar
-Nebel;Auriganebel;116|62;Nebel aus Quelltext
-Nebel;Auriganebel;116|63;Nebel aus Quelltext
-Nebel;Auriganebel;116|64;Nebel aus Quelltext
+Nebel;Auriganebel;116|62;Nebel unpassierbar
+Nebel;Auriganebel;116|63;Nebel unpassierbar
+Nebel;Auriganebel;116|64;Nebel unpassierbar
 Nebel;Auriganebel;116|65;Nebel aus Quelltext
 Nebel;Auriganebel;116|66;Nebel aus Quelltext
 Nebel;Auriganebel;116|67;Nebel passierbar
 Nebel;Auriganebel;116|68;Nebel aus Quelltext
 Nebel;Amritsarschleier;116|80;Nebel aus Quelltext
-Nebel;Auriganebel;117|61;Nebel aus Quelltext
-Nebel;Auriganebel;117|62;Nebel aus Quelltext
-Nebel;Auriganebel;117|63;Nebel aus Quelltext
+Nebel;Auriganebel;117|61;Nebel unpassierbar
+Nebel;Auriganebel;117|62;Nebel unpassierbar
+Nebel;Auriganebel;117|63;Nebel unpassierbar
 Nebel;Auriganebel;117|64;Nebel aus Quelltext
 Nebel;Auriganebel;117|65;Nebel passierbar
 Nebel;Auriganebel;117|66;Nebel passierbar
 Nebel;Auriganebel;117|67;Nebel aus Quelltext
 Nebel;Amritsarschleier;117|80;Nebel aus Quelltext
-Nebel;Auriganebel;118|61;Nebel aus Quelltext
-Nebel;Auriganebel;118|62;Nebel aus Quelltext
-Nebel;Auriganebel;118|63;Nebel aus Quelltext
+Nebel;Auriganebel;118|61;Nebel unpassierbar
+Nebel;Auriganebel;118|62;Nebel unpassierbar
+Nebel;Auriganebel;118|63;Nebel unpassierbar
 Nebel;Auriganebel;118|64;Nebel aus Quelltext
 Nebel;Auriganebel;118|65;Nebel passierbar
 Nebel;Auriganebel;118|66;Nebel passierbar
 Nebel;Auriganebel;118|67;Nebel aus Quelltext
-Nebel;Auriganebel;119|61;Nebel aus Quelltext
+Nebel;Auriganebel;119|61;Nebel unpassierbar
 Nebel;Auriganebel;119|62;Nebel aus Quelltext
 Nebel;Auriganebel;119|63;Nebel aus Quelltext
-Nebel;Auriganebel;119|64;Nebel aus Quelltext
+Nebel;Auriganebel;119|64;Nebel unpassierbar
 Nebel;Auriganebel;119|65;Nebel aus Quelltext
 Nebel;Auriganebel;119|66;Nebel passierbar
 Nebel;Auriganebel;119|67;Nebel aus Quelltext
-Nebel;Auriganebel;120|61;Nebel aus Quelltext
+Nebel;Auriganebel;120|61;Nebel unpassierbar
 Nebel;Auriganebel;120|62;Nebel aus Quelltext
 Nebel;Auriganebel;120|63;Nebel passierbar
 Nebel;Auriganebel;120|64;Nebel aus Quelltext
@@ -4447,17 +5495,51 @@ Nebel;Triangulum-Cluster;1|92;Nebel aus Quelltext
 Nebel;Triangulum-Cluster;1|93;Nebel aus Quelltext
 Nebel;Algol-Schleier;10|85;Nebel aus Quelltext
 Nebel;Algol-Schleier;10|86;Nebel aus Quelltext
+Nebel;Algol-Schleier;10|87;Nebel aus Quelltext
+Nebel;Algol-Schleier;10|88;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;10|90;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;10|91;Nebel aus Quelltext
+Nebel;Axanar-Dunkelnebel;10|96;Nebel aus Quelltext
+Nebel;Axanar-Dunkelnebel;10|97;Nebel aus Quelltext
+Nebel;Algol-Schleier;11|87;Nebel aus Quelltext
+Nebel;Algol-Schleier;11|88;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;11|90;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;11|91;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;12|89;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;12|90;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;12|91;Nebel aus Quelltext
 Nebel;Obykan-Nebel;13|81;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;13|90;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;13|91;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;13|92;Nebel aus Quelltext
 Nebel;Galorndon-Kern-Formation;14|100;Nebel aus Quelltext
 Nebel;Obykan-Nebel;14|81;Nebel passierbar
+Nebel;Zalkonianischer-Dunst;14|91;Nebel aus Quelltext
+Nebel;Zalkonianischer-Dunst;14|92;Nebel aus Quelltext
 Nebel;Galorndon-Kern-Formation;15|100;Nebel aus Quelltext
 Nebel;Obykan-Nebel;15|81;Nebel passierbar
 Nebel;Galorndon-Kern-Formation;16|100;Nebel aus Quelltext
-Nebel;Obykan-Nebel;16|81;Nebel aus Quelltext
+Nebel;Obykan-Nebel;16|81;Nebel unpassierbar
+Nebel;Galorndon-Kern-Formation;16|98;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;16|99;Nebel aus Quelltext
 Nebel;Galorndon-Kern-Formation;17|100;Nebel aus Quelltext
 Nebel;Obykan-Nebel;17|81;Nebel aus Quelltext
+Nebel;Trillium-Strudel;17|92;Nebel aus Quelltext
+Nebel;Trillium-Strudel;17|93;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;17|97;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;17|98;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;17|99;Nebel aus Quelltext
 Nebel;Galorndon-Kern-Formation;18|100;Nebel aus Quelltext
 Nebel;Obykan-Nebel;18|81;Nebel passierbar
+Nebel;Trillium-Strudel;18|91;Nebel aus Quelltext
+Nebel;Trillium-Strudel;18|92;Nebel aus Quelltext
+Nebel;Trillium-Strudel;18|93;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;18|97;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;18|98;Nebel aus Quelltext
+Nebel;Galorndon-Kern-Formation;18|99;Nebel aus Quelltext
+Nebel;Trillium-Strudel;19|91;Nebel aus Quelltext
+Nebel;Trillium-Strudel;19|92;Nebel aus Quelltext
+Nebel;Trillium-Strudel;19|93;Nebel aus Quelltext
 Nebel;Galorndon-Kern-Formation;19|99;Nebel aus Quelltext
 Nebel;Zartonianische-Wolke;2|81;Nebel aus Quelltext
 Nebel;Triangulum-Cluster;2|89;Nebel aus Quelltext
@@ -4472,6 +5554,9 @@ Nebel;Proxima-Vortex;2|98;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;20|83;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;20|84;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;20|85;Nebel aus Quelltext
+Nebel;Trillium-Strudel;20|91;Nebel aus Quelltext
+Nebel;Trillium-Strudel;20|92;Nebel aus Quelltext
+Nebel;Trillium-Strudel;20|93;Nebel aus Quelltext
 Nebel;Triangulum-Cluster;3|90;Nebel aus Quelltext
 Nebel;Triangulum-Cluster;3|91;Nebel aus Quelltext
 Nebel;Triangulum-Cluster;3|92;Nebel aus Quelltext
@@ -4517,35 +5602,48 @@ Nebel;Devos-Nebel;8|82;Nebel aus Quelltext
 Nebel;Devos-Nebel;8|83;Nebel aus Quelltext
 Nebel;Algol-Schleier;8|85;Nebel aus Quelltext
 Nebel;Bellatrix-Wolke;8|86;Nebel aus Quelltext
+Nebel;Bellatrix-Wolke;8|87;Nebel aus Quelltext
 Nebel;Algol-Schleier;9|85;Nebel aus Quelltext
 Nebel;Algol-Schleier;9|86;Nebel aus Quelltext
+Nebel;Algol-Schleier;9|87;Nebel aus Quelltext
 Nebel;Axanar-Dunkelnebel;9|96;Nebel aus Quelltext
 Nebel;Axanar-Dunkelnebel;9|97;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;21|83;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;21|84;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;21|85;Nebel aus Quelltext
+Nebel;Trillium-Strudel;21|91;Nebel aus Quelltext
+Nebel;Trillium-Strudel;21|92;Nebel aus Quelltext
+Nebel;Trillium-Strudel;21|93;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;22|83;Nebel aus Quelltext
 Nebel;Fesarius-Nebula;22|84;Nebel aus Quelltext
+Nebel;Tentakel-Wolke;24|91;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;24|92;Nebel aus Quelltext
 Nebel;Cheeks-Strudel;25|100;Nebel aus Quelltext
+Nebel;Tentakel-Wolke;25|91;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;25|92;Nebel aus Quelltext
 Nebel;Cheeks-Strudel;26|100;Nebel unpassierbar
+Nebel;Tentakel-Wolke;26|91;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;26|92;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;26|93;Nebel aus Quelltext
 Nebel;Cheeks-Strudel;27|100;Nebel passierbar
+Nebel;Tentakel-Wolke;27|91;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;27|92;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;27|93;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;28|92;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;28|93;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;28|94;Nebel aus Quelltext
+Nebel;Tentakel-Wolke;29|93;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;29|94;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;29|95;Nebel aus Quelltext
+Nebel;Tentakel-Wolke;30|93;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;30|94;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;30|95;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;30|96;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;31|94;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;31|95;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;31|96;Nebel aus Quelltext
+Nebel;Kurlanischer-Dunst;32|89;Nebel aus Quelltext
+Nebel;Kurlanischer-Dunst;32|90;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;32|94;Nebel aus Quelltext
 Nebel;Tentakel-Wolke;32|95;Nebel aus Quelltext
 Nebel;Kurlanischer-Dunst;33|88;Nebel aus Quelltext
@@ -5424,10 +6522,14 @@ Nebel;Onias-Schimmer;27|116;Nebel aus Quelltext
 Nebel;Onias-Schimmer;28|114;Nebel aus Quelltext
 Nebel;Onias-Schimmer;28|115;Nebel aus Quelltext
 Nebel;Onias-Schimmer;28|116;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;35|107;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;35|108;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;35|109;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;35|110;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;36|103;Nebel passierbar
+Nebel;Regulan-Epsilon-Nebel;36|104;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;36|105;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;36|106;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;36|107;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;36|108;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;36|109;Nebel passierbar
@@ -5437,7 +6539,12 @@ Nebel;Regulan-Epsilon-Nebel;36|112;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;36|113;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;37|101;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;37|102;Nebel passierbar
+Nebel;Regulan-Epsilon-Nebel;37|103;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;37|104;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;37|105;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;37|106;Nebel passierbar
+Nebel;Regulan-Epsilon-Nebel;37|107;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;37|108;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;37|109;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;37|110;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;37|111;Nebel passierbar
@@ -5445,8 +6552,11 @@ Nebel;Regulan-Epsilon-Nebel;37|112;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;37|113;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;37|114;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;38|101;Nebel passierbar
+Nebel;Regulan-Epsilon-Nebel;38|102;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;38|103;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;38|104;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;38|105;Nebel passierbar
+Nebel;Regulan-Epsilon-Nebel;38|106;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;38|107;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;38|108;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;38|109;Nebel passierbar
@@ -5500,6 +6610,7 @@ Nebel;Regulan-Epsilon-Nebel;40|116;Nebel unpassierbar
 Nebel;Regulan-Epsilon-Nebel;40|117;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;40|118;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;40|119;Nebel aus Quelltext
+Nebel;Regulan-Epsilon-Nebel;40|120;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;41|101;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;41|102;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;41|103;Nebel unpassierbar
@@ -6239,7 +7350,10 @@ Nebel;Devore-Partikelnebel;100|101;Nebel passierbar
 Nebel;Devore-Partikelnebel;100|102;Nebel passierbar
 Nebel;Devore-Partikelnebel;100|103;Nebel passierbar
 Nebel;Devore-Partikelnebel;100|104;Nebel passierbar
+Nebel;Devore-Partikelnebel;100|105;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;100|106;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|107;Nebel passierbar
+Nebel;Devore-Partikelnebel;100|108;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|109;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|110;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|111;Nebel aus Quelltext
@@ -6251,6 +7365,7 @@ Nebel;Devore-Partikelnebel;100|116;Nebel unpassierbar
 Nebel;Devore-Partikelnebel;100|117;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|118;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;100|119;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;100|120;Nebel aus Quelltext
 Nebel;Regulan-Epsilon-Nebel;81|101;Nebel unpassierbar
 Nebel;Regulan-Epsilon-Nebel;81|102;Nebel passierbar
 Nebel;Regulan-Epsilon-Nebel;81|103;Nebel unpassierbar
@@ -6413,6 +7528,7 @@ Nebel;Devore-Partikelnebel;97|104;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;97|105;Nebel passierbar
 Nebel;Devore-Partikelnebel;97|106;Nebel passierbar
 Nebel;Devore-Partikelnebel;97|107;Nebel passierbar
+Nebel;Devore-Partikelnebel;97|108;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;97|109;Nebel passierbar
 Nebel;Devore-Partikelnebel;97|110;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;97|111;Nebel passierbar
@@ -6424,12 +7540,15 @@ Nebel;Devore-Partikelnebel;97|116;Nebel passierbar
 Nebel;Devore-Partikelnebel;97|117;Nebel passierbar
 Nebel;Devore-Partikelnebel;97|118;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;97|119;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;97|120;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;98|101;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|102;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;98|103;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|104;Nebel passierbar
+Nebel;Devore-Partikelnebel;98|105;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;98|106;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|107;Nebel passierbar
+Nebel;Devore-Partikelnebel;98|108;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;98|109;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|110;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|111;Nebel aus Quelltext
@@ -6441,9 +7560,14 @@ Nebel;Devore-Partikelnebel;98|116;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|117;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|118;Nebel passierbar
 Nebel;Devore-Partikelnebel;98|119;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;98|120;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;99|101;Nebel passierbar
+Nebel;Devore-Partikelnebel;99|102;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;99|103;Nebel passierbar
 Nebel;Devore-Partikelnebel;99|104;Nebel passierbar
+Nebel;Devore-Partikelnebel;99|105;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;99|106;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;99|107;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;99|108;Nebel passierbar
 Nebel;Devore-Partikelnebel;99|109;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;99|110;Nebel aus Quelltext
@@ -6456,6 +7580,7 @@ Nebel;Devore-Partikelnebel;99|116;Nebel passierbar
 Nebel;Devore-Partikelnebel;99|117;Nebel unpassierbar
 Nebel;Devore-Partikelnebel;99|118;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;99|119;Nebel aus Quelltext
+Nebel;Devore-Partikelnebel;99|120;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;101|101;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;101|102;Nebel aus Quelltext
 Nebel;Devore-Partikelnebel;101|103;Nebel aus Quelltext
